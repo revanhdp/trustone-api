@@ -1,0 +1,1890 @@
+{
+  "pages": [
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37
+  ],
+  "products": [
+    {
+      "source_page": 26,
+      "category_slug": "perlindungan-pendengaran",
+      "name": "Attachable Cap Earmuff",
+      "sku": null,
+      "brand": "3M",
+      "brand_source": "logo",
+      "short_description": null,
+      "description": "• Penutup telinga ini memiliki teknologi canggih yang mengurangi tekanan pada gendang telinga melalui bukaan udara strategis yang memastikan tekanan yang seimbang.\n• Penutup telinga yang dapat dipasang pada helm ini dapat dipasang dengan cepat dan mudah pada hampir semua helm keselamatan beralur.",
+      "attributes": {},
+      "variants": [],
+      "image_hint": "top-left card (yellow helmet-mount earmuffs)",
+      "review_notes": [
+        "Brand taken from 3M logo on the card; name has no brand text"
+      ]
+    },
+    {
+      "source_page": 26,
+      "category_slug": "perlindungan-pendengaran",
+      "name": "3M H10 Optime 105",
+      "sku": null,
+      "brand": "3M",
+      "brand_source": "text",
+      "short_description": null,
+      "description": "• Perlindungan pendengaran yang efektif untuk paparan kebisingan hingga 105dBA\n• Teknologi cangkang ganda meningkatkan kemampuan pemblokiran kebisingannya\n• Ikat kepala baja tahan karat yang tahan lama, tidak mudah bengkok dan melengkung",
+      "attributes": {},
+      "variants": [],
+      "image_hint": "top-middle card (black/red over-head earmuff)",
+      "review_notes": [
+        "Image shows '3M™' with trademark symbol; text layer has no ™"
+      ]
+    },
+    {
+      "source_page": 26,
+      "category_slug": "perlindungan-pendengaran",
+      "name": "3M E-A-R UltraFit Earplugs 340-4002",
+      "sku": null,
+      "brand": "3M",
+      "brand_source": "text",
+      "short_description": null,
+      "description": "• Penyumbat telinga tiga flensa yang telah dibentuk sebelumnya, pas dan nyaman di berbagai ukuran telinga\n• Tidak perlu menggulung penyumbat telinga sebelum dipasang sehingga ujungnya tetap bersih meskipun tangan kotor\n• Polimer lunak dapat dicuci dan digunakan kembali, sehingga mengurangi limbah dan biaya",
+      "attributes": {},
+      "variants": [],
+      "image_hint": "top-right card (corded triple-flange earplugs with blue case)",
+      "review_notes": [
+        "'340-4002' is a manufacturer number printed in the name, not labelled as a code -> sku null",
+        "Same title is used again on the bottom-middle card (dispenser); names are duplicated",
+        "Image shows '3M™ E-A-R™ UltraFit™' with trademark symbols; text layer has no ™"
+      ]
+    },
+    {
+      "source_page": 26,
+      "category_slug": "perlindungan-pendengaran",
+      "name": "H10 Disposable Earplugs Without Cord",
+      "sku": null,
+      "brand": "Jackson",
+      "brand_source": "logo",
+      "short_description": null,
+      "description": "• Bentuk \"peluru\" halus untuk memudahkan penyisipan\n• Dibuat dengan busa poliuretan yang fleksibel\n• Visibilitas tinggi untuk pemantauan kepatuhan yang mudah\n• Gaya tanpa kabel dilengkapi dengan kotak tampilan umpan",
+      "attributes": {},
+      "variants": [],
+      "image_hint": "bottom-left card (orange foam earplugs)",
+      "review_notes": [
+        "typo fixed: Disposible -> Disposable",
+        "Brand from JACKSON logo on the card (brand commonly known as Jackson Safety), although name starts with 'H10' (also used for 3M Optime earmuff)"
+      ]
+    },
+    {
+      "source_page": 26,
+      "category_slug": "perlindungan-pendengaran",
+      "name": "3M E-A-R UltraFit Earplugs 340-4002",
+      "sku": null,
+      "brand": "3M",
+      "brand_source": "text",
+      "short_description": null,
+      "description": "• Dispenser memudahkan pekerja untuk mengakses penyumbat telinga\n• Putaran tangan yang sederhana akan menjatuhkan penyumbat telinga ke tangan pekerja satu per satu",
+      "attributes": {},
+      "variants": [],
+      "image_hint": "bottom-middle card (yellow earplug dispenser with blue base)",
+      "review_notes": [
+        "Title printed identically to the top-right card ('3M E-A-R UltraFit Earplugs 340-4002') but the photo and text describe an earplug dispenser (foam earplugs in a dispenser) - title is likely a copy error; admin should rename",
+        "Duplicate product name with another entry on this page"
+      ]
+    },
+    {
+      "source_page": 26,
+      "category_slug": "perlindungan-pendengaran",
+      "name": "Max Max 1D NRR 33",
+      "sku": null,
+      "brand": "Howard Leight",
+      "brand_source": "logo",
+      "short_description": null,
+      "description": "• Bentuk lonceng sesuai dengan kontur telinga bagian dalam untuk memastikan pengurangan kebisingan maksimum dan menahan kecenderungan untuk keluar dari liang telinga\n• Kulit busa sel tertutup yang halus dan tahan kotoran membantu mencegah penumpukan kotoran",
+      "attributes": {},
+      "variants": [],
+      "image_hint": "bottom-right card (orange bell-shaped foam earplugs)",
+      "review_notes": [
+        "Brand from HOWARD LEIGHT logo",
+        "'NRR 33' kept as part of the printed name"
+      ]
+    },
+    {
+      "source_page": 27,
+      "category_slug": "perlindungan-kaki",
+      "name": "Reflex 8083",
+      "sku": null,
+      "brand": "Cheetah",
+      "brand_source": "logo",
+      "short_description": null,
+      "description": "• Pelapis jari kaki komposit\n• Sol Luar PU Ganda\n• Tahan Selip & Minyak\n• S3 Antistatis\n• Bagian Atas AirKnit yang Bernapas\n• Sol tengah Solegard anti-paku\n• Sol Dalam AirgoLite yang Nyaman",
+      "attributes": {},
+      "variants": [],
+      "image_hint": "row 1, column 1 (grey/green knit low-cut shoe)",
+      "review_notes": [
+        "Brand from CHEETAH logo on the card (no brand text)",
+        "Model number is part of the product name, not labelled as a code -> sku null",
+        "Description bullet mentions safety class (S1/S3) but no standard name is printed; not added to Standar / Sertifikasi"
+      ]
+    },
+    {
+      "source_page": 27,
+      "category_slug": "perlindungan-kaki",
+      "name": "ADV Jubatus",
+      "sku": null,
+      "brand": "Cheetah",
+      "brand_source": "logo",
+      "short_description": null,
+      "description": "• Sol Luar Rebound² | Sol luar PU Kepadatan Ganda | Anti Selip & Minyak\n• Sistem pengikat Quicklace\n• Sol tengah Solegard anti-paku\n• S3 Antistatis\n• Pelapis jari kaki komposit\n• Bagian atas kulit premium\n• Sol Dalam Airgo PU yang Nyaman",
+      "attributes": {},
+      "variants": [],
+      "image_hint": "row 1, column 2 (brown mid-cut boot with dial lacing)",
+      "review_notes": [
+        "Brand from CHEETAH logo on the card (no brand text)",
+        "Model number is part of the product name, not labelled as a code -> sku null",
+        "Description bullet mentions safety class (S1/S3) but no standard name is printed; not added to Standar / Sertifikasi"
+      ]
+    },
+    {
+      "source_page": 27,
+      "category_slug": "perlindungan-kaki",
+      "name": "ADV Rigger",
+      "sku": null,
+      "brand": "Cheetah",
+      "brand_source": "logo",
+      "short_description": null,
+      "description": "• Sol Luar Rebound² | Sol luar PU Kepadatan Ganda | Anti Selip & Minyak\n• Kerah berlapis\n• Sol tengah Solegard anti-paku\n• S3 Antistatis\n• Pelapis jari kaki komposit\n• Bagian atas kulit premium\n• Sol Dalam Airgo PU yang Nyaman",
+      "attributes": {},
+      "variants": [],
+      "image_hint": "row 1, column 3 (brown pull-on rigger boot)",
+      "review_notes": [
+        "Brand from CHEETAH logo on the card (no brand text)",
+        "Model number is part of the product name, not labelled as a code -> sku null",
+        "typo fixed: 'ol Luar' -> 'Sol Luar' (first bullet)",
+        "Description bullet mentions safety class (S1/S3) but no standard name is printed; not added to Standar / Sertifikasi"
+      ]
+    },
+    {
+      "source_page": 27,
+      "category_slug": "perlindungan-kaki",
+      "name": "ADV NYX",
+      "sku": null,
+      "brand": "Cheetah",
+      "brand_source": "logo",
+      "short_description": null,
+      "description": "• Sol Luar Rebound² | Sol luar PU Kepadatan Ganda | Anti Selip & Minyak\n• Sistem pengikat Quicklace\n• Sol tengah Solegard anti-paku\n• S3 Antistatis\n• Pelapis jari kaki komposit\n• Bagian atas kulit premium\n• Sol Dalam Airgo PU yang Nyaman",
+      "attributes": {},
+      "variants": [],
+      "image_hint": "row 1, column 4 (dark grey low-cut shoe with dial lacing)",
+      "review_notes": [
+        "Brand from CHEETAH logo on the card (no brand text)",
+        "Model number is part of the product name, not labelled as a code -> sku null",
+        "Description bullet mentions safety class (S1/S3) but no standard name is printed; not added to Standar / Sertifikasi"
+      ]
+    },
+    {
+      "source_page": 27,
+      "category_slug": "perlindungan-kaki",
+      "name": "4007 H",
+      "sku": null,
+      "brand": "Cheetah",
+      "brand_source": "logo",
+      "short_description": null,
+      "description": "• Pelindung jari kaki baja\n• Sol luar PU yang fleksibel\n• Tahan Selip & Minyak\n• S1 Antistatis\n• Bagian atas kulit gandum\n• Sol tengah baja anti paku (opsional)",
+      "attributes": {},
+      "variants": [],
+      "image_hint": "row 2, column 1 (black lace-up shoe with pink trim)",
+      "review_notes": [
+        "Brand from CHEETAH logo on the card (no brand text)",
+        "Model number is part of the product name, not labelled as a code -> sku null",
+        "Description bullet mentions safety class (S1/S3) but no standard name is printed; not added to Standar / Sertifikasi"
+      ]
+    },
+    {
+      "source_page": 27,
+      "category_slug": "perlindungan-kaki",
+      "name": "7111 H",
+      "sku": null,
+      "brand": "Cheetah",
+      "brand_source": "logo",
+      "short_description": null,
+      "description": "• Ringan dan fleksibel\n• Kepadatan sol luar yang lembut untuk kenyamanan maksimal\n• Klem dalam untuk meningkatkan traksi\n• Antistatis",
+      "attributes": {},
+      "variants": [],
+      "image_hint": "row 2, column 2 (black zip ankle boot)",
+      "review_notes": [
+        "Brand from CHEETAH logo on the card (no brand text)",
+        "Model number is part of the product name, not labelled as a code -> sku null"
+      ]
+    },
+    {
+      "source_page": 27,
+      "category_slug": "perlindungan-kaki",
+      "name": "7001 P",
+      "sku": null,
+      "brand": "Cheetah",
+      "brand_source": "logo",
+      "short_description": null,
+      "description": "• Ringan dan fleksibel\n• Kepadatan sol luar yang lembut untuk kenyamanan maksimal\n• Klem dalam untuk meningkatkan traksi\n• Antistatis",
+      "attributes": {},
+      "variants": [],
+      "image_hint": "row 2, column 3 (white slip-on shoe)",
+      "review_notes": [
+        "Brand from CHEETAH logo on the card (no brand text)",
+        "Model number is part of the product name, not labelled as a code -> sku null",
+        "typo fixed: 'ingan' -> 'Ringan' (first bullet)"
+      ]
+    },
+    {
+      "source_page": 27,
+      "category_slug": "perlindungan-kaki",
+      "name": "7288 C",
+      "sku": null,
+      "brand": "Cheetah",
+      "brand_source": "logo",
+      "short_description": null,
+      "description": "• Ringan dan fleksibel\n• Kepadatan sol luar yang lembut untuk kenyamanan maksimal\n• Klem dalam untuk meningkatkan traksi\n• Antistatis",
+      "attributes": {},
+      "variants": [],
+      "image_hint": "row 2, column 4 (brown pull-on rigger boot)",
+      "review_notes": [
+        "Brand from CHEETAH logo on the card (no brand text)",
+        "Model number is part of the product name, not labelled as a code -> sku null"
+      ]
+    },
+    {
+      "source_page": 27,
+      "category_slug": "perlindungan-kaki",
+      "name": "3001 H",
+      "sku": null,
+      "brand": "Cheetah",
+      "brand_source": "logo",
+      "short_description": null,
+      "description": "Sepatu slip-on berpotongan rendah dengan karet elastis agar lebih nyaman dipakai dan memberikan perlindungan menyeluruh. Cocok untuk pekerjaan ringan.",
+      "attributes": {},
+      "variants": [],
+      "image_hint": "row 3, column 1 (black slip-on low shoe)",
+      "review_notes": [
+        "Brand from CHEETAH logo on the card (no brand text)",
+        "Model number is part of the product name, not labelled as a code -> sku null"
+      ]
+    },
+    {
+      "source_page": 27,
+      "category_slug": "perlindungan-kaki",
+      "name": "3002 H",
+      "sku": null,
+      "brand": "Cheetah",
+      "brand_source": "logo",
+      "short_description": null,
+      "description": "Sepatu bertali dengan cup rendah yang dirancang dengan kerah berlapis untuk kenyamanan luar biasa. Dibuat dengan kulit asli untuk daya tahan maksimal",
+      "attributes": {},
+      "variants": [],
+      "image_hint": "row 3, column 2 (black lace-up low shoe)",
+      "review_notes": [
+        "Brand from CHEETAH logo on the card (no brand text)",
+        "Model number is part of the product name, not labelled as a code -> sku null"
+      ]
+    },
+    {
+      "source_page": 27,
+      "category_slug": "perlindungan-kaki",
+      "name": "3180 H",
+      "sku": null,
+      "brand": "Cheetah",
+      "brand_source": "logo",
+      "short_description": null,
+      "description": "Sepatu bot bertali dengan kerah berlapis yang memberikan perlindungan dan kenyamanan maksimal. Dibuat dengan sol yang disempurnakan agar Anda tetap nyaman berjalan di lingkungan basah dan berminyak.",
+      "attributes": {},
+      "variants": [],
+      "image_hint": "row 3, column 3 (black lace-up ankle boot)",
+      "review_notes": [
+        "Brand from CHEETAH logo on the card (no brand text)",
+        "Model number is part of the product name, not labelled as a code -> sku null"
+      ]
+    },
+    {
+      "source_page": 27,
+      "category_slug": "perlindungan-kaki",
+      "name": "3286 H",
+      "sku": null,
+      "brand": "Cheetah",
+      "brand_source": "logo",
+      "short_description": null,
+      "description": "Sepatu bot bertali anti air kelas atas berukuran 8 inci. Dibuat dengan kerah berlapis yang memberikan kenyamanan luar biasa dan memanjang hingga ke betis untuk memberikan perlindungan lebih.",
+      "attributes": {},
+      "variants": [],
+      "image_hint": "row 3, column 4 (black 8-inch lace-up boot)",
+      "review_notes": [
+        "Brand from CHEETAH logo on the card (no brand text)",
+        "Model number is part of the product name, not labelled as a code -> sku null"
+      ]
+    },
+    {
+      "source_page": 27,
+      "category_slug": "perlindungan-kaki",
+      "name": "2101 H",
+      "sku": null,
+      "brand": "Cheetah",
+      "brand_source": "logo",
+      "short_description": null,
+      "description": "Sepatu fleksibel berpotongan rendah dengan kemampuan slip-on yang dilengkapi karet elastis agar mudah dilepas dan dipakai.",
+      "attributes": {},
+      "variants": [],
+      "image_hint": "row 4, column 1 (black slip-on ankle shoe)",
+      "review_notes": [
+        "Brand from CHEETAH logo on the card (no brand text)",
+        "Model number is part of the product name, not labelled as a code -> sku null"
+      ]
+    },
+    {
+      "source_page": 27,
+      "category_slug": "perlindungan-kaki",
+      "name": "2288 H",
+      "sku": null,
+      "brand": "Cheetah",
+      "brand_source": "logo",
+      "short_description": null,
+      "description": "Sepatu bot yang kuat dan dapat dikenakan untuk menjaga kaki Anda terlindungi dari serpihan dan aman dalam segala kondisi.",
+      "attributes": {},
+      "variants": [],
+      "image_hint": "row 4, column 2 (black pull-on boot)",
+      "review_notes": [
+        "Brand from CHEETAH logo on the card (no brand text)",
+        "Model number is part of the product name, not labelled as a code -> sku null"
+      ]
+    },
+    {
+      "source_page": 27,
+      "category_slug": "perlindungan-kaki",
+      "name": "2291 H",
+      "sku": null,
+      "brand": "Cheetah",
+      "brand_source": "logo",
+      "short_description": null,
+      "description": "Sepatu bot dengan tali velcro yang dapat disesuaikan dengan bagian atas suede anti percikan, menawarkan perlindungan menyeluruh dan ideal untuk industri pengelasan.",
+      "attributes": {},
+      "variants": [],
+      "image_hint": "row 4, column 3 (black velcro-strap boot)",
+      "review_notes": [
+        "Brand from CHEETAH logo on the card (no brand text)",
+        "Model number is part of the product name, not labelled as a code -> sku null"
+      ]
+    },
+    {
+      "source_page": 27,
+      "category_slug": "perlindungan-kaki",
+      "name": "PVC 9202",
+      "sku": null,
+      "brand": "Cheetah",
+      "brand_source": "logo",
+      "short_description": null,
+      "description": "• Satu potong PVC yang disuntikkan\n• Tahan Air Sepenuhnya\n• Pelindung Jari Kaki Pengaman\n• Ujung baja melindungi dari benturan dan kompresi\n• Strip reflektif untuk visibilitas yang lebih baik",
+      "attributes": {},
+      "variants": [],
+      "image_hint": "row 4, column 4 (yellow PVC boots)",
+      "review_notes": [
+        "Brand from CHEETAH logo on the card (no brand text)",
+        "Model number is part of the product name, not labelled as a code -> sku null"
+      ]
+    },
+    {
+      "source_page": 28,
+      "category_slug": "perlindungan-kaki",
+      "name": "APEX WATERPROOF METATARSAL GUARD COMPOSITE TOE 8\" WORK BOOT",
+      "sku": null,
+      "brand": "HYTEST",
+      "brand_source": "text",
+      "short_description": null,
+      "description": "HYTEST Safety Footwear menawarkan rangkaian lengkap sepatu dan bot kerja untuk semua industri dengan pengalaman layanan yang tak tertandingi.\n• Bagian atas terbuat dari kulit full-grain premium tahan air\n• Lapisan dalam berbahan mesh penyerap kelembapan dengan membran tahan air\n• Pelindung metatarsal internal XRD®\n• Alas kaki empuk EVA yang dapat dilepas\n• Sol tengah empuk EVA\n• Sol luar karet tahan minyak dan anti selip\n• Konstruksi semen\n• ASTM F2413 MIC Mt EH\n• Berat: 1 lb 11 oz",
+      "attributes": {
+        "Berat": "1 lb 11 oz",
+        "Standar / Sertifikasi": [
+          "ASTM F2413 MIC Mt EH"
+        ]
+      },
+      "variants": [],
+      "image_hint": "top half: brown 8-inch boot (large photo plus two small views on the left)",
+      "review_notes": [
+        "Attributes 'Berat' and the ASTM standard are taken from bullets that also remain in the description"
+      ]
+    },
+    {
+      "source_page": 28,
+      "category_slug": "perlindungan-kaki",
+      "name": "MEN'S FOOTRESTS® HIGH ENERGY WATERPROOF METATARSAL GUARD PUNCTURE RESISTANT COMPOSITE TOE 6\" WORK BOOT",
+      "sku": null,
+      "brand": "HYTEST",
+      "brand_source": "text",
+      "short_description": null,
+      "description": "HYTEST Safety Footwear menawarkan rangkaian lengkap sepatu dan bot kerja untuk semua industri dengan pengalaman layanan yang tak tertandingi.\n• Bagian atas terbuat dari kulit full-grain premium tahan air\n• Lapisan jala penyerap kelembapan dengan membran tahan air\n• Pelindung metatarsal internal XRD®\n• Alas kaki empuk berbahan memory foam dan EVA yang dapat dilepas\n• Sol tengah performa anti-kelelahan High Energy berbahan poliuretan cetakan\n• Sol luar karet tahan minyak dan anti selip\n• Pelat tahan tusukan untuk mengurangi kemungkinan cedera akibat penetrasi melalui bagian bawah sol\n• Konstruksi semen\n• Bersertifikasi APMA\n• ASTM F2413 MIC Mt EH PR\n• Berat: 2 lbs 3 oz",
+      "attributes": {
+        "Berat": "2 lbs 3 oz",
+        "Standar / Sertifikasi": [
+          "Bersertifikasi APMA",
+          "ASTM F2413 MIC Mt EH PR"
+        ]
+      },
+      "variants": [],
+      "image_hint": "bottom half: brown 6-inch boot with black toe cap (large photo plus two small views)",
+      "review_notes": [
+        "Attributes 'Berat' and standards are taken from bullets that also remain in the description"
+      ]
+    },
+    {
+      "source_page": 29,
+      "category_slug": "polymer-material",
+      "name": "Belzona 1111 (Super Metal)",
+      "sku": null,
+      "brand": "Belzona",
+      "brand_source": "text",
+      "short_description": null,
+      "description": "• Perbaikan retakan dan lubang pada casing mesin dan pompa, pipa, tangki dan peralatan lainnya\n• Pelapisan ulang permukaan logam yang berlubang\n• Perbaikan poros dan ram hidrolik yang rusak\n• Perbaikan flensa di tempat\n• Perekat struktural berkekuatan tinggi untuk ikatan logam",
+      "attributes": {},
+      "variants": [],
+      "image_hint": "row 1, left card",
+      "review_notes": [
+        "Belzona number is part of the product name, not labelled as a code -> sku null",
+        "Brand in name text and BELZONA logo on card"
+      ]
+    },
+    {
+      "source_page": 29,
+      "category_slug": "polymer-material",
+      "name": "Belzona 1221 (Super E-Metal)",
+      "sku": null,
+      "brand": "Belzona",
+      "brand_source": "text",
+      "short_description": null,
+      "description": "• Perbaikan pipa dan tangki yang bocor\n• Perbaikan retakan dan lubang pada casing mesin dan pompa, pipa, tangki dan peralatan lainnya\n• Pelapisan ulang permukaan logam yang berlubang\n• Perbaikan poros dan ram hidrolik yang rusak",
+      "attributes": {},
+      "variants": [],
+      "image_hint": "row 1, middle card",
+      "review_notes": [
+        "Belzona number is part of the product name, not labelled as a code -> sku null",
+        "Brand in name text and BELZONA logo on card"
+      ]
+    },
+    {
+      "source_page": 29,
+      "category_slug": "polymer-material",
+      "name": "Belzona 1391T",
+      "sku": null,
+      "brand": "Belzona",
+      "brand_source": "text",
+      "short_description": null,
+      "description": "• Pelapis suhu tinggi untuk bejana proses, kolom distilasi, penukar panas, penjernih dan unit scrubber yang beroperasi di bawah perendaman\n• Melindungi pompa, katup, tangki air panas dan pemisah dari efek erosi dan korosi\n• Perekat struktural berkekuatan tinggi untuk ikatan logam\n• Pembuatan shim penahan beban tidak beraturan",
+      "attributes": {},
+      "variants": [],
+      "image_hint": "row 1, right card",
+      "review_notes": [
+        "Belzona number is part of the product name, not labelled as a code -> sku null",
+        "Brand in name text and BELZONA logo on card"
+      ]
+    },
+    {
+      "source_page": 29,
+      "category_slug": "polymer-material",
+      "name": "Belzona 1121 (Super XL-Metal)",
+      "sku": null,
+      "brand": "Belzona",
+      "brand_source": "text",
+      "short_description": null,
+      "description": "• Pelapisan ulang permukaan logam berlubang besar\n• Perbaikan poros dan ram hidrolik yang rusak\n• Perbaikan flensa di tempat\n• Perekat struktural berkekuatan tinggi untuk ikatan logam\n• Pembuatan shim penahan beban tidak beraturan dan pembentukan ulang rumah bantalan",
+      "attributes": {},
+      "variants": [],
+      "image_hint": "row 2, left card",
+      "review_notes": [
+        "Belzona number is part of the product name, not labelled as a code -> sku null",
+        "Brand in name text and BELZONA logo on card"
+      ]
+    },
+    {
+      "source_page": 29,
+      "category_slug": "polymer-material",
+      "name": "Belzona 1251 (HA-Metal)",
+      "sku": null,
+      "brand": "Belzona",
+      "brand_source": "text",
+      "short_description": null,
+      "description": "• Perbaikan dan Pencegahan Korosi di Bawah Isolasi (CUI)\n• Pelapisan ulang permukaan logam yang berlubang\n• Perbaikan cacat dinding tipis\n• Ikatan pelat pengganda\n• Penyegelan kebocoran pipa",
+      "attributes": {},
+      "variants": [],
+      "image_hint": "row 2, middle card",
+      "review_notes": [
+        "Belzona number is part of the product name, not labelled as a code -> sku null",
+        "Brand in name text and BELZONA logo on card"
+      ]
+    },
+    {
+      "source_page": 29,
+      "category_slug": "polymer-material",
+      "name": "Belzona 1511 (Super HT-Metal)",
+      "sku": null,
+      "brand": "Belzona",
+      "brand_source": "text",
+      "short_description": null,
+      "description": "• Perbaikan epoksi suhu tinggi untuk bejana proses, kolom distilasi, penukar panas, penjernih, dan unit scrubber\n• Perbaikan retakan dan lubang pada casing mesin dan pompa, pipa, tangki dan peralatan lainnya\n• Pelapisan ulang permukaan logam yang berlubang",
+      "attributes": {},
+      "variants": [],
+      "image_hint": "row 2, right card",
+      "review_notes": [
+        "Belzona number is part of the product name, not labelled as a code -> sku null",
+        "Brand in name text and BELZONA logo on card"
+      ]
+    },
+    {
+      "source_page": 29,
+      "category_slug": "polymer-material",
+      "name": "Belzona 1131 (Bearing Metal)",
+      "sku": null,
+      "brand": "Belzona",
+      "brand_source": "text",
+      "short_description": null,
+      "description": "• Membangun kembali poros yang aus di lokasi bantalan\n• Perbaikan dan peningkatan efisiensi peralatan mekanik termasuk elemen putar pompa\n• Perbaikan dan pembuatan bantalan polos\n• Pembuatan bushing\n• Lapisan geser gesekan rendah untuk penyangga pipa",
+      "attributes": {},
+      "variants": [],
+      "image_hint": "row 3, left card",
+      "review_notes": [
+        "Belzona number is part of the product name, not labelled as a code -> sku null",
+        "Brand in name text and BELZONA logo on card"
+      ]
+    },
+    {
+      "source_page": 29,
+      "category_slug": "polymer-material",
+      "name": "Belzona 1311 (Ceramic R-Metal)",
+      "sku": null,
+      "brand": "Belzona",
+      "brand_source": "text",
+      "short_description": null,
+      "description": "• Rekonstruksi dan rekonstruksi geometri pompa sentrifugal dan perpindahan positif yang rusak akibat erosi dan korosi\n• Pengisian lubang dan pelapisan ulang penukar panas, kotak air dan lembaran tabung\n• Perbaikan katup kupu-kupu dan katup gerbang, kipas dan nosel kort yang rusak akibat erosi, korosi dan kavitasi",
+      "attributes": {},
+      "variants": [],
+      "image_hint": "row 3, middle card",
+      "review_notes": [
+        "Belzona number is part of the product name, not labelled as a code -> sku null",
+        "Brand in name text and BELZONA logo on card"
+      ]
+    },
+    {
+      "source_page": 29,
+      "category_slug": "polymer-material",
+      "name": "Belzona 1811 (Ceramic Carbide)",
+      "sku": null,
+      "brand": "Belzona",
+      "brand_source": "text",
+      "short_description": null,
+      "description": "• Perlindungan pipa, tikungan pipa, siku dan katup dari abrasi\n• Pengikatan dan grouting ubin dan pelat aus di mana ketahanan abrasi tinggi diperlukan\n• Perbaikan konveyor sekrup, sentrifus dan impeler pompa yang rusak akibat erosi dan korosi\n• Lapisan untuk hopper, saluran, bilah mixer, dan peralatan lain yang sudah usang dan rentan terhadap abrasi",
+      "attributes": {},
+      "variants": [],
+      "image_hint": "row 3, right card",
+      "review_notes": [
+        "Belzona number is part of the product name, not labelled as a code -> sku null",
+        "Brand in name text and BELZONA logo on card"
+      ]
+    },
+    {
+      "source_page": 29,
+      "category_slug": "polymer-material",
+      "name": "Belzona 1151 (Smoothing Metal)",
+      "sku": null,
+      "brand": "Belzona",
+      "brand_source": "text",
+      "short_description": null,
+      "description": "• Pelapisan ulang permukaan logam berlubang pada peralatan seperti bejana proses, penukar panas, dan pompa\n• Perbaikan poros dan ram hidrolik yang rusak\n• Perekat struktural berkekuatan tinggi untuk ikatan logam",
+      "attributes": {},
+      "variants": [],
+      "image_hint": "row 4, left card",
+      "review_notes": [
+        "Belzona number is part of the product name, not labelled as a code -> sku null",
+        "Brand in name text and BELZONA logo on card"
+      ]
+    },
+    {
+      "source_page": 29,
+      "category_slug": "polymer-material",
+      "name": "Belzona 1321 (Ceramic S-Metal)",
+      "sku": null,
+      "brand": "Belzona",
+      "brand_source": "text",
+      "short_description": null,
+      "description": "• Pelapis internal untuk pompa sentrifugal dan perpindahan positif\n• Ketahanan erosi dan korosi jangka panjang untuk penukar panas, kotak air, dan lembaran tabung\n• Perlindungan katup kupu-kupu dan katup gerbang, kipas dan nosel kort dari erosi, korosi dan kavitasi",
+      "attributes": {},
+      "variants": [],
+      "image_hint": "row 4, middle card",
+      "review_notes": [
+        "Belzona number is part of the product name, not labelled as a code -> sku null",
+        "Brand in name text and BELZONA logo on card"
+      ]
+    },
+    {
+      "source_page": 29,
+      "category_slug": "polymer-material",
+      "name": "Belzona 1821 (Fluid Metal)",
+      "sku": null,
+      "brand": "Belzona",
+      "brand_source": "text",
+      "short_description": null,
+      "description": "• Pembuatan sistem pegangan positif pada drum penggerak konveyor, roller, lengan pegangan forklift, dan dinamometer\n• Pelapis perekat lantai untuk menyediakan sistem pengurangan selip pada jalan setapak logam dan tangga darurat\n• Pelapis keselamatan pada tangga kendaraan, leveller dermaga dan landaian pemuatan",
+      "attributes": {},
+      "variants": [],
+      "image_hint": "row 4, right card",
+      "review_notes": [
+        "Belzona number is part of the product name, not labelled as a code -> sku null",
+        "Brand in name text and BELZONA logo on card"
+      ]
+    },
+    {
+      "source_page": 30,
+      "category_slug": "polymer-material",
+      "name": "Belzona 2111 (D&A Hi-Build Elastomer)",
+      "sku": null,
+      "brand": "Belzona",
+      "brand_source": "text",
+      "short_description": null,
+      "description": "• Pembuatan dan perbaikan lapisan karet untuk memberikan ketahanan abrasi jangka panjang\n• Perbaikan di tempat dan enkapsulasi sambungan klip pada sabuk konveyor\n• Pembentukan ulang dan pengikatan lapisan dan klem pada sabuk konveyor\n• Alternatif penyembuhan dingin untuk perbaikan karet vulkanisir pada area karet yang aus, terbelah atau robek",
+      "attributes": {},
+      "variants": [],
+      "image_hint": "row 1, left card",
+      "review_notes": [
+        "Belzona number is part of the product name, not labelled as a code -> sku null",
+        "Brand in name text and BELZONA logo on card"
+      ]
+    },
+    {
+      "source_page": 30,
+      "category_slug": "polymer-material",
+      "name": "Belzona 3111 (Flexible Membrane)",
+      "sku": null,
+      "brand": "Belzona",
+      "brand_source": "text",
+      "short_description": null,
+      "description": "• Pembuatan permukaan atap kedap air dan cuaca\n• Perbaikan kebocoran atap jangka panjang dan perlindungan talang air yang rusak\n• Penyegelan batang kaca\n• Pelapisan kedap cuaca di sekitar tiang penyangga dan tonjolan atap lainnya seperti skylight, cerobong asap, dan ventilasi\n• Penggantian flashing yang rusak atau hilang\n• Penyegelan celah dan sambungan pada batu penutup serta dinding parapet atap",
+      "attributes": {},
+      "variants": [],
+      "image_hint": "row 1, middle card",
+      "review_notes": [
+        "Belzona number is part of the product name, not labelled as a code -> sku null",
+        "Brand in name text and BELZONA logo on card"
+      ]
+    },
+    {
+      "source_page": 30,
+      "category_slug": "polymer-material",
+      "name": "Belzona 7111 (Marine Grade)",
+      "sku": null,
+      "brand": "Belzona",
+      "brand_source": "text",
+      "short_description": null,
+      "description": "• Tahan terhadap tekanan, benturan dan getaran\n• Memberikan penyelarasan peralatan yang tepat\n• Meredam kebisingan dan getaran mesin\n• Mencegah kendornya baut berulir\n• Kapasitas menahan beban tinggi tercapai untuk struktur tersebut\n• Mengurangi waktu pemasangan\n• Tidak memerlukan panas atau alat khusus",
+      "attributes": {},
+      "variants": [],
+      "image_hint": "row 1, right card",
+      "review_notes": [
+        "Belzona number is part of the product name, not labelled as a code -> sku null",
+        "Brand in name text and BELZONA logo on card",
+        "Two different cards on this page are both numbered 'Belzona 7111' (Marine Grade and Industrial Grade) and share identical description bullets"
+      ]
+    },
+    {
+      "source_page": 30,
+      "category_slug": "polymer-material",
+      "name": "Belzona 2141 (ACR-Fluid Elastomer)",
+      "sku": null,
+      "brand": "Belzona",
+      "brand_source": "text",
+      "short_description": null,
+      "description": "• Pelapisan impeller pompa air pendingin, gerbang gawang dan baling-baling tetap\n• Pelapisan anti-kavitasi pada turbin Kaplan dan Francis\n• Pembuatan lapisan pelindung pada baling-baling kapal dan nozel Kort untuk memberikan perlindungan jangka panjang terhadap kavitasi, erosi, dan korosi\n• Lapisan pelindung pada poros, katup dan filter untuk mencegah efek erosi dan kavitasi",
+      "attributes": {},
+      "variants": [],
+      "image_hint": "row 2, left card",
+      "review_notes": [
+        "Belzona number is part of the product name, not labelled as a code -> sku null",
+        "Brand in name text and BELZONA logo on card"
+      ]
+    },
+    {
+      "source_page": 30,
+      "category_slug": "polymer-material",
+      "name": "Belzona 3121 (MR7)",
+      "sku": null,
+      "brand": "Belzona",
+      "brand_source": "text",
+      "short_description": null,
+      "description": "• Perbaikan darurat lampu atap, talang, retakan pada atap, sambungan bocor dan area atap lainnya\n• Penyegelan sambungan dan jahitan untuk memberikan perlindungan cuaca dan kedap air",
+      "attributes": {},
+      "variants": [],
+      "image_hint": "row 2, middle card",
+      "review_notes": [
+        "Belzona number is part of the product name, not labelled as a code -> sku null",
+        "Brand in name text and BELZONA logo on card"
+      ]
+    },
+    {
+      "source_page": 30,
+      "category_slug": "polymer-material",
+      "name": "Belzona 7211",
+      "sku": null,
+      "brand": "Belzona",
+      "brand_source": "text",
+      "short_description": null,
+      "description": "• Grouting dalam pada dasar mesin besar dan pengaturan mesin kritis: pelat dasar besar, pelat sol, selip mesin seperti motor, kompresor, drum, layar getar, generator, pompa, penggerak, peralatan berputar\n• Sistem pondasi kokoh yang andal untuk memastikan fungsi keseluruhan peralatan: kompresor, antena parabola, turbin angin, pompa\n• Pemasangan baut jangkar mesin\n• Perbaikan pondasi peralatan yang rusak",
+      "attributes": {},
+      "variants": [],
+      "image_hint": "row 2, right card",
+      "review_notes": [
+        "Belzona number is part of the product name, not labelled as a code -> sku null",
+        "Brand in name text and BELZONA logo on card"
+      ]
+    },
+    {
+      "source_page": 30,
+      "category_slug": "polymer-material",
+      "name": "Belzona 2211 (MP Hi-Build Elastomer)",
+      "sku": null,
+      "brand": "Belzona",
+      "brand_source": "text",
+      "short_description": null,
+      "description": "• Pembuatan dan perbaikan sambungan ekspansi beton untuk memberikan kinerja jangka panjang\n• Cetakan dan reformasi segel paking dan rol karet yang aus\n• Alternatif penyembuhan dingin untuk perbaikan retakan pada dinding samping ban pada truk tugas berat dengan karet vulkanisir\n• Pembuatan atau perbaikan lapisan karet pada pompa, katup, tangki, dan bantalan pemandu",
+      "attributes": {},
+      "variants": [],
+      "image_hint": "row 3, left card",
+      "review_notes": [
+        "Belzona number is part of the product name, not labelled as a code -> sku null",
+        "Brand in name text and BELZONA logo on card"
+      ]
+    },
+    {
+      "source_page": 30,
+      "category_slug": "polymer-material",
+      "name": "Belzona 3211 (Lagseal)",
+      "sku": null,
+      "brand": "Belzona",
+      "brand_source": "text",
+      "short_description": null,
+      "description": "• Perlindungan isolasi pada pipa, saluran AC, kotak katup, penutup flensa, boiler, bejana tekan, tangki penyimpanan massal, dan penukar panas\n• Perlindungan lagging jangka panjang pada jaringan pipa uap, kondensat atau dingin yang baru dan yang sudah ada\n• Enkapsulasi siku, flensa T pieces dan kontur kompleks yang mulus\n• Penyegelan dasar tangki",
+      "attributes": {},
+      "variants": [],
+      "image_hint": "row 3, middle card",
+      "review_notes": [
+        "Belzona number is part of the product name, not labelled as a code -> sku null",
+        "Brand in name text and BELZONA logo on card"
+      ]
+    },
+    {
+      "source_page": 30,
+      "category_slug": "polymer-material",
+      "name": "Belzona 7111 (Industrial Grade)",
+      "sku": null,
+      "brand": "Belzona",
+      "brand_source": "text",
+      "short_description": null,
+      "description": "• Tahan terhadap tekanan, benturan dan getaran\n• Memberikan penyelarasan peralatan yang tepat\n• Meredam kebisingan dan getaran mesin\n• Mencegah kendornya baut berulir\n• Kapasitas menahan beban tinggi tercapai untuk struktur tersebut\n• Mengurangi waktu pemasangan\n• Tidak memerlukan panas atau alat khusus",
+      "attributes": {},
+      "variants": [],
+      "image_hint": "row 3, right card",
+      "review_notes": [
+        "Belzona number is part of the product name, not labelled as a code -> sku null",
+        "Brand in name text and BELZONA logo on card",
+        "Two different cards on this page are both numbered 'Belzona 7111' (Marine Grade and Industrial Grade) and share identical description bullets"
+      ]
+    },
+    {
+      "source_page": 30,
+      "category_slug": "polymer-material",
+      "name": "Belzona 2221 (MP Fluid Elastomer)",
+      "sku": null,
+      "brand": "Belzona",
+      "brand_source": "text",
+      "short_description": null,
+      "description": "• Pembuatan dan perbaikan sambungan ekspansi beton untuk memberikan kinerja jangka panjang\n• Pembuatan atau pengecoran segel paking\n• Alternatif penyembuhan dingin untuk perbaikan lapisan karet vulkanisasi\n• Menutup kebocoran gas SF6 memberikan perlindungan lingkungan\n• Pengecoran komponen karet baru\n• Perlindungan benang yang terbuka",
+      "attributes": {},
+      "variants": [],
+      "image_hint": "row 4, left card",
+      "review_notes": [
+        "Belzona number is part of the product name, not labelled as a code -> sku null",
+        "Brand in name text and BELZONA logo on card"
+      ]
+    },
+    {
+      "source_page": 30,
+      "category_slug": "polymer-material",
+      "name": "Belzona 3412",
+      "sku": null,
+      "brand": "Belzona",
+      "brand_source": "text",
+      "short_description": null,
+      "description": "• Penyegelan flensa, pengikat, alat penyambung, konektor dan elemen pipa terkait lainnya\n• Mencegah atau menghentikan masuknya kelembaban ke berbagai sistem\n• Perlindungan peralatan baru dari korosi",
+      "attributes": {},
+      "variants": [],
+      "image_hint": "row 4, middle card",
+      "review_notes": [
+        "Belzona number is part of the product name, not labelled as a code -> sku null",
+        "Brand in name text and BELZONA logo on card"
+      ]
+    },
+    {
+      "source_page": 30,
+      "category_slug": "polymer-material",
+      "name": "Belzona 7311",
+      "sku": null,
+      "brand": "Belzona",
+      "brand_source": "text",
+      "short_description": null,
+      "description": "• Ketahanan terhadap kelelahan siklik\n• Daya rekat yang sangat baik pada substrat logam\n• Ketahanan tinggi terhadap gaya kupas/belah\n• Paket data untuk desain teknik\n• Cocok untuk layanan antara –30 °C dan 60 °C\n• Bebas pelarut\n• Struktur pasta yang kuat\n• Tidak memerlukan alat khusus untuk aplikasi\n• Tidak memerlukan pekerjaan panas",
+      "attributes": {},
+      "variants": [],
+      "image_hint": "row 4, right card",
+      "review_notes": [
+        "Belzona number is part of the product name, not labelled as a code -> sku null",
+        "Brand in name text and BELZONA logo on card"
+      ]
+    },
+    {
+      "source_page": 31,
+      "category_slug": "polymer-material",
+      "name": "Belzona 4111 (Magma-Quartz)",
+      "sku": null,
+      "brand": "Belzona",
+      "brand_source": "text",
+      "short_description": null,
+      "description": "• Perbaikan area masalah lantai seperti tangga, sambungan ekspansi, saluran dan kisi-kisi\n• Grouting, bonding dan shimming peralatan seperti penyangga, ubin, pompa dan peralatan lainnya\n• Bahan serbaguna untuk perbaikan pagar longgar, dermaga pemuatan, lorong dan fasilitas lainnya",
+      "attributes": {},
+      "variants": [],
+      "image_hint": "row 1, left card",
+      "review_notes": [
+        "Belzona number is part of the product name, not labelled as a code -> sku null",
+        "Brand in name text and BELZONA logo on card"
+      ]
+    },
+    {
+      "source_page": 31,
+      "category_slug": "polymer-material",
+      "name": "Belzona 4301 (Magma CR1 Hi-Build)",
+      "sku": null,
+      "brand": "Belzona",
+      "brand_source": "text",
+      "short_description": null,
+      "description": "• Ketahanan kimia yang sangat baik terhadap berbagai macam bahan kimia, terutama asam anorganik pekat dan alkali\n• Mudah dicampur dan diaplikasikan tanpa alat khusus\n• Mengurangi risiko kesehatan dan keselamatan karena bebas pelarut\n• Karakteristik isolasi listrik yang sangat baik\n• Daya rekat yang sangat baik pada semua substrat kaku termasuk beton, baja tahan karat, baja ringan, baja karbon.",
+      "attributes": {},
+      "variants": [],
+      "image_hint": "row 1, middle card",
+      "review_notes": [
+        "Belzona number is part of the product name, not labelled as a code -> sku null",
+        "Brand in name text and BELZONA logo on card"
+      ]
+    },
+    {
+      "source_page": 31,
+      "category_slug": "polymer-material",
+      "name": "Belzona 4341 (Magma CR4)",
+      "sku": null,
+      "brand": "Belzona",
+      "brand_source": "text",
+      "short_description": null,
+      "description": "• Pelapis tahan kimia untuk dinding penahan asam, tangki, area tumpahan bahan kimia, alas tangki beton dan pompa\n• Penyegelan saluran pembuangan, saluran, area pemindahan dan penampungan bahan kimia\n• Perlindungan dasar dan casing pompa beton dari tumpahan bahan kimia\n• Pembuatan jalur pejalan kaki anti-slip di area penahanan bahan kimia bila dikombinasikan dengan agregat",
+      "attributes": {},
+      "variants": [],
+      "image_hint": "row 1, right card",
+      "review_notes": [
+        "Belzona number is part of the product name, not labelled as a code -> sku null",
+        "Brand in name text and BELZONA logo on card"
+      ]
+    },
+    {
+      "source_page": 31,
+      "category_slug": "polymer-material",
+      "name": "Belzona 4141 (Magma-Build)",
+      "sku": null,
+      "brand": "Belzona",
+      "brand_source": "text",
+      "short_description": null,
+      "description": "• Perbaikan area beton yang terkelupas atau rusak dan batu yang lapuk, terutama untuk aplikasi vertikal atau di atas kepala\n• Perbaikan kusen jendela, ambang pintu dan kolom\n• Perbaikan area di atas kepala yang rusak seperti lengkungan dan jembatan\n• Perbaikan cetakan dekoratif dan perbaikan kosmetik lainnya",
+      "attributes": {},
+      "variants": [],
+      "image_hint": "row 2, left card",
+      "review_notes": [
+        "Belzona number is part of the product name, not labelled as a code -> sku null",
+        "Brand in name text and BELZONA logo on card"
+      ]
+    },
+    {
+      "source_page": 31,
+      "category_slug": "polymer-material",
+      "name": "Belzona 4411 (Granogrip)",
+      "sku": null,
+      "brand": "Belzona",
+      "brand_source": "text",
+      "short_description": null,
+      "description": "• Pelapis perekat lantai untuk menyediakan sistem pengurangan selip pada trotoar beton, dek logam dan kayu, serta lantai keramik\n• Pelapis keselamatan pada pintu masuk gedung dan tangga darurat\n• Pembuatan sistem pengurangan selip di area pancuran dan kolam renang, jalur landai, dan dermaga pemuatan",
+      "attributes": {},
+      "variants": [],
+      "image_hint": "row 2, middle card",
+      "review_notes": [
+        "Belzona number is part of the product name, not labelled as a code -> sku null",
+        "Brand in name text and BELZONA logo on card"
+      ]
+    },
+    {
+      "source_page": 31,
+      "category_slug": "polymer-material",
+      "name": "Belzona 4151 (Magma-Quartz Resin)",
+      "sku": null,
+      "brand": "Belzona",
+      "brand_source": "text",
+      "short_description": null,
+      "description": "• Penyegelan area bund kimia, tangki beton dan area beton seperti tangga, sambungan ekspansi, saluran dan kisi-kisi\n• Grouting, bonding dan shimming peralatan seperti penyangga, ubin dan pompa\n• Bahan serbaguna untuk mengamankan pagar longgar dan baut jangkar",
+      "attributes": {},
+      "variants": [],
+      "image_hint": "row 2, right card",
+      "review_notes": [
+        "Belzona number is part of the product name, not labelled as a code -> sku null",
+        "Brand in name text and BELZONA logo on card"
+      ]
+    },
+    {
+      "source_page": 31,
+      "category_slug": "polymer-material",
+      "name": "Belzona 5111 (Ceramic Cladding)",
+      "sku": null,
+      "brand": "Belzona",
+      "brand_source": "text",
+      "short_description": null,
+      "description": "• Perlindungan korosi dan tahan cuaca pada permukaan struktural seperti jembatan, menara pendingin, dan dinding\n• Perlindungan korosi eksternal pada pipa dan tangki penyimpanan memberikan hasil akhir yang menyenangkan\n• Perlindungan abrasi pada bilah kipas untuk kinerja jangka panjang\n• Pelapisan struktur logam seperti pegangan tangan untuk memberikan ketahanan korosi eksternal yang tahan lama",
+      "attributes": {},
+      "variants": [],
+      "image_hint": "row 3, left card",
+      "review_notes": [
+        "Belzona number is part of the product name, not labelled as a code -> sku null",
+        "Brand in name text and BELZONA logo on card"
+      ]
+    },
+    {
+      "source_page": 31,
+      "category_slug": "polymer-material",
+      "name": "Belzona 5231 (SG Laminate)",
+      "sku": null,
+      "brand": "Belzona",
+      "brand_source": "text",
+      "short_description": null,
+      "description": "• Ketahanan kimia dan abrasi yang luar biasa\n• Lantai anti selip tersedia dalam berbagai warna cerah untuk mengurangi bahaya kesehatan dan keselamatan\n• Melindungi dan memperpanjang umur lantai beton\n• Mengurangi waktu henti karena sifat pengeringannya yang cepat\n• Mudah dicampur dan diaplikasikan dengan roller – tidak memerlukan pekerjaan panas",
+      "attributes": {},
+      "variants": [],
+      "image_hint": "row 3, middle card",
+      "review_notes": [
+        "Belzona number is part of the product name, not labelled as a code -> sku null",
+        "Brand in name text and BELZONA logo on card"
+      ]
+    },
+    {
+      "source_page": 31,
+      "category_slug": "polymer-material",
+      "name": "Belzona 5821",
+      "sku": null,
+      "brand": "Belzona",
+      "brand_source": "text",
+      "short_description": null,
+      "description": "• Pelapis epoksi untuk tangki, tanggul, pompa, pompa submersible, pipa, penukar panas dan penjernih yang beroperasi di bawah perendaman\n• Perlindungan tangki dan area penampungan sekunder dari serangan kimia dan kerusakan erosi dan korosi\n• Perlindungan pipa dari erosi, korosi dan serangan kimia\n• Perekat berkekuatan tinggi untuk ikatan logam",
+      "attributes": {},
+      "variants": [],
+      "image_hint": "row 3, right card",
+      "review_notes": [
+        "Belzona number is part of the product name, not labelled as a code -> sku null",
+        "Brand in name text and BELZONA logo on card"
+      ]
+    },
+    {
+      "source_page": 31,
+      "category_slug": "polymer-material",
+      "name": "Belzona 5151 (Hi-Build Cladding)",
+      "sku": null,
+      "brand": "Belzona",
+      "brand_source": "text",
+      "short_description": null,
+      "description": "• Pelapis kedap air dan cuaca untuk melindungi dinding eksterior\n• Perlindungan jangka panjang terhadap struktur seperti dinding, kolom, ambang pintu, batu bata dan susunan batu yang mengalami penetrasi air dan kerusakan yang disebabkan oleh polutan agresif\n• Peningkatan penampilan bangunan dan struktur",
+      "attributes": {},
+      "variants": [],
+      "image_hint": "row 4, left card",
+      "review_notes": [
+        "Belzona number is part of the product name, not labelled as a code -> sku null",
+        "Brand in name text and BELZONA logo on card"
+      ]
+    },
+    {
+      "source_page": 31,
+      "category_slug": "polymer-material",
+      "name": "Belzona 5831 (ST-Barrier)",
+      "sku": null,
+      "brand": "Belzona",
+      "brand_source": "text",
+      "short_description": null,
+      "description": "• Pencegahan korosi dan kerusakan substrat logam di zona percikan, pipa, tangki, tanggul dan penjernih\n• Melindungi pompa submersible, katup dan transformator dari efek korosi galvanik\n• Perbaikan jangka panjang dan pelapisan kebocoran minyak dan air\n• Penyegelan sambungan dan flensa",
+      "attributes": {},
+      "variants": [],
+      "image_hint": "row 4, middle card",
+      "review_notes": [
+        "Belzona number is part of the product name, not labelled as a code -> sku null",
+        "Brand in name text and BELZONA logo on card"
+      ]
+    },
+    {
+      "source_page": 31,
+      "category_slug": "polymer-material",
+      "name": "Belzona 5892",
+      "sku": null,
+      "brand": "Belzona",
+      "brand_source": "text",
+      "short_description": null,
+      "description": "• Pelapisan peralatan seperti bejana, separator, kondensor, evaporator, drum knockout, diffuser dan penukar kalor yang beroperasi pada suhu tinggi\n• Perbaikan lapisan peralatan yang ada\n• Perlindungan tangki dan area penahanan sekunder dari bahan kimia dan dampak korosi\n• Pelapisan pipa yang rentan terhadap kerusakan korosi\n• Pembuatan shim penahan beban tidak beraturan",
+      "attributes": {},
+      "variants": [],
+      "image_hint": "row 4, right card",
+      "review_notes": [
+        "Belzona number is part of the product name, not labelled as a code -> sku null",
+        "Brand in name text and BELZONA logo on card"
+      ]
+    },
+    {
+      "source_page": 32,
+      "category_slug": "rescue-equipment",
+      "name": "NRS Havoc Livery Helmet",
+      "sku": null,
+      "brand": "NRS",
+      "brand_source": "text",
+      "short_description": null,
+      "description": "Helm NRS Havoc adalah solusi satu ukuran untuk keamanan di air deras. Sistem DialFit kami memungkinkan Anda menyesuaikan ukuran helm dengan cepat dan mudah untuk hampir semua ukuran kepala.",
+      "attributes": {},
+      "variants": [],
+      "image_hint": "left column, top (yellow helmet)",
+      "review_notes": [
+        "NRS logo also printed on the page"
+      ]
+    },
+    {
+      "source_page": 32,
+      "category_slug": "rescue-equipment",
+      "name": "Tas Penyelamatan Standar NRS",
+      "sku": null,
+      "brand": "NRS",
+      "brand_source": "text",
+      "short_description": null,
+      "description": "Keselamatan di air deras adalah hal yang serius. Tas Penyelamat Standar NRS adalah alat yang sangat baik untuk melindungi Anda dan teman-teman Anda dalam situasi darurat di air deras.",
+      "attributes": {},
+      "variants": [],
+      "image_hint": "left column, middle (orange throw bag)",
+      "review_notes": [
+        "NRS logo also printed on the page"
+      ]
+    },
+    {
+      "source_page": 32,
+      "category_slug": "rescue-equipment",
+      "name": "NRS Pilot Knife",
+      "sku": null,
+      "brand": "NRS",
+      "brand_source": "text",
+      "short_description": null,
+      "description": "Para responden profesional dan pelaut rekreasi menyukai panjang ekstra dan fitur praktis dari Pisau Pilot. Dirancang khusus untuk penyelamatan di sungai, pisau ini sangat serbaguna sehingga Anda pasti menginginkannya untuk PFD, mobil, perlengkapan medis darurat, dan garasi Anda.",
+      "attributes": {},
+      "variants": [],
+      "image_hint": "left column, bottom (red-handled knife)",
+      "review_notes": [
+        "NRS logo also printed on the page"
+      ]
+    },
+    {
+      "source_page": 32,
+      "category_slug": "rescue-equipment",
+      "name": "NRS Rapid Rescuer PFD",
+      "sku": null,
+      "brand": "NRS",
+      "brand_source": "text",
+      "short_description": null,
+      "description": "Dirancang sesuai standar profesional penyelamat, NRS Rapid Rescuer PFD lebih dari sekadar alat pengapung. Dengan fitur-fitur canggih, Rapid Rescuer menjadi alat yang dapat dikenakan saat keadaan darurat.",
+      "attributes": {},
+      "variants": [],
+      "image_hint": "right column, top (red rescue vest / PFD)",
+      "review_notes": [
+        "NRS logo also printed on the page"
+      ]
+    },
+    {
+      "source_page": 32,
+      "category_slug": "rescue-equipment",
+      "name": "NRS Tow Tether with Carabiner",
+      "sku": null,
+      "brand": "NRS",
+      "brand_source": "text",
+      "short_description": null,
+      "description": "NRS Tow Tether yang kuat, dengan bungee bawaan, digunakan dengan harness pelepas cepat pada jaket penyelamat.",
+      "attributes": {},
+      "variants": [],
+      "image_hint": "right column, bottom (black tether with carabiner)",
+      "review_notes": [
+        "NRS logo also printed on the page"
+      ]
+    },
+    {
+      "source_page": 33,
+      "category_slug": "rescue-equipment",
+      "name": "Vented Helmet",
+      "sku": null,
+      "brand": "Petzl",
+      "brand_source": "logo",
+      "short_description": null,
+      "description": "Helm STRATO VENT sangat ringan dan nyaman berkat sistem CENTERFIT dan FLIP&FIT yang menjamin helm terpasang erat di kepala. Tali dagu yang dapat disesuaikan kekuatannya membuatnya ideal untuk pekerjaan di ketinggian dan di tanah. Memiliki lubang ventilasi yang memungkinkan aliran udara melalui helm.",
+      "attributes": {},
+      "variants": [],
+      "image_hint": "top row, card 1 (white vented helmet)",
+      "review_notes": [
+        "Brand from PETZL logo on card (page header also says PETZL)",
+        "Description refers to the helmet as 'STRATO VENT'; printed title is 'Vented Helmet'"
+      ]
+    },
+    {
+      "source_page": 33,
+      "category_slug": "rescue-equipment",
+      "name": "ASAP Lock Fall Arrester",
+      "sku": null,
+      "brand": "Petzl",
+      "brand_source": "logo",
+      "short_description": null,
+      "description": "Dengan sistem pengunciannya yang unik, ASAP menetapkan standar perlindungan jatuh bagi pekerja di ketinggian. Dalam penggunaan normal, perangkat bergerak bebas di sepanjang tali tanpa intervensi manual dan mengikuti semua gerakan pengguna. Jika terjadi beban kejut atau akselerasi mendadak, ASAP akan mengunci tali dan menghentikan pengguna.",
+      "attributes": {},
+      "variants": [],
+      "image_hint": "top row, card 2 (yellow ASAP fall arrester)",
+      "review_notes": [
+        "Brand from PETZL logo on card (page header also says PETZL)"
+      ]
+    },
+    {
+      "source_page": 33,
+      "category_slug": "rescue-equipment",
+      "name": "Chest Rope Clamp Ascender",
+      "sku": null,
+      "brand": "Petzl",
+      "brand_source": "logo",
+      "short_description": null,
+      "description": "Dirancang untuk pendakian tali, penjepit tali ventral CROLL mudah digunakan, berkat sistem bukaan jepitnya, yang sepenuhnya terintegrasi dalam penjepit untuk menghindari tersangkutnya sesuatu yang tidak disengaja. Lubang pemasangan memastikan pemosisian yang efisien selama pendakian. Ini tersedia dalam dua versi untuk beradaptasi dengan diameter tali yang berbeda.",
+      "attributes": {},
+      "variants": [],
+      "image_hint": "top row, card 3 (yellow CROLL chest ascender)",
+      "review_notes": [
+        "Brand from PETZL logo on card (page header also says PETZL)",
+        "Description refers to the device as 'CROLL'"
+      ]
+    },
+    {
+      "source_page": 33,
+      "category_slug": "rescue-equipment",
+      "name": "Carabiner Standart Petzl OK Screw",
+      "sku": null,
+      "brand": "Petzl",
+      "brand_source": "text",
+      "short_description": null,
+      "description": "Carabiner OK yang ringan terbuat dari aluminium. Bentuknya oval yang memungkinkan pemuatan perangkat dengan penampang lebar secara optimal, seperti katrol, penjepit tali, dan penahan jatuh bergerak. Desain interiornya yang cair dan sistem Keylock memudahkan penanganan.",
+      "attributes": {},
+      "variants": [],
+      "image_hint": "top row, card 4 (grey carabiner with red band)",
+      "review_notes": [
+        "'Standart' kept as printed (Indonesian spelling)",
+        "Description identical to 'Carabiner Petzl OK TL'"
+      ]
+    },
+    {
+      "source_page": 33,
+      "category_slug": "rescue-equipment",
+      "name": "Carabiner Petzl OK TL",
+      "sku": null,
+      "brand": "Petzl",
+      "brand_source": "text",
+      "short_description": null,
+      "description": "Carabiner OK yang ringan terbuat dari aluminium. Bentuknya oval yang memungkinkan pemuatan perangkat dengan penampang lebar secara optimal, seperti katrol, penjepit tali, dan penahan jatuh bergerak. Desain interiornya yang cair dan sistem Keylock memudahkan penanganan.",
+      "attributes": {},
+      "variants": [],
+      "image_hint": "top row, card 5 (grey carabiner with orange locking sleeve)",
+      "review_notes": [
+        "Description identical to 'Carabiner Standart Petzl OK Screw'"
+      ]
+    },
+    {
+      "source_page": 33,
+      "category_slug": "rescue-equipment",
+      "name": "Petzl ID’L",
+      "sku": null,
+      "brand": "Petzl",
+      "brand_source": "text",
+      "short_description": null,
+      "description": "Descender pengereman otomatis I'D L terutama dirancang untuk penyelamatan. Ini memiliki pegangan ergonomis yang memungkinkan kontrol keturunan yang nyaman. Fungsi anti-panik dan anti-kesalahan yang terintegrasi membatasi risiko kecelakaan akibat kesalahan pengguna. Sistem AUTO-LOCK memungkinkan pengguna untuk memposisikan diri tanpa harus memanipulasi pegangan atau mengikat perangkat. K",
+      "attributes": {},
+      "variants": [],
+      "image_hint": "bottom row, card 1 (red/black I'D descender)",
+      "review_notes": [
+        "Description ends with a stray 'K' (text appears truncated in the catalog); kept as printed"
+      ]
+    },
+    {
+      "source_page": 33,
+      "category_slug": "rescue-equipment",
+      "name": "Progress Adjust-Y",
+      "sku": null,
+      "brand": "Petzl",
+      "brand_source": "logo",
+      "short_description": null,
+      "description": "lanyard perkembangan ganda yang dapat disesuaikan yang memungkinkan koneksi berkelanjutan untuk semua jenis aktivitas. Berkat pengatur tali ADJUST, panjang lengan yang dapat disesuaikan dapat disesuaikan dengan cepat dan mudah.",
+      "attributes": {},
+      "variants": [],
+      "image_hint": "bottom row, card 2 (black Y-lanyard)",
+      "review_notes": [
+        "Brand from PETZL logo on card (page header also says PETZL)",
+        "Description starts in lowercase ('lanyard ...') as printed; may be truncated at the start"
+      ]
+    },
+    {
+      "source_page": 33,
+      "category_slug": "rescue-equipment",
+      "name": "Parallel Petzl White Static",
+      "sku": null,
+      "brand": "Petzl",
+      "brand_source": "text",
+      "short_description": null,
+      "description": "Tali kernmantle regangan rendah dirancang untuk bekerja di ketinggian. Diameter standar memberikan cengkeraman yang baik untuk penanganan yang lebih mudah. Teknologi EverFlex memberikan fleksibilitas luar biasa dan kinerja yang konsisten dari waktu ke waktu. Tali tersedia dalam enam warna dan empat panjang.",
+      "attributes": {},
+      "variants": [],
+      "image_hint": "bottom row, card 3 (white static rope)",
+      "review_notes": []
+    },
+    {
+      "source_page": 33,
+      "category_slug": "rescue-equipment",
+      "name": "Anneu Sling",
+      "sku": null,
+      "brand": "Petzl",
+      "brand_source": "logo",
+      "short_description": null,
+      "description": "• Sling loop terbuka untuk memasang jangkar\n• Tersedia dalam empat ukuran panjang: 60, 80, 120, dan 150 cm\n• Kode warna untuk memudahkan identifikasi panjangnya\n• Juga tersedia dalam warna hitam",
+      "attributes": {},
+      "variants": [],
+      "image_hint": "bottom row, card 4 (red sling)",
+      "review_notes": [
+        "Brand from PETZL logo on card (page header also says PETZL)",
+        "Possible typo in name: 'Anneu' (Petzl product is spelled 'ANNEAU'); kept as printed",
+        "Bullet lists lengths 60, 80, 120 and 150 cm - not split into variants (no codes)"
+      ]
+    },
+    {
+      "source_page": 33,
+      "category_slug": "rescue-equipment",
+      "name": "Parallel Petzl Rope",
+      "sku": null,
+      "brand": "Petzl",
+      "brand_source": "text",
+      "short_description": null,
+      "description": "Penandaan di ujung tali juga dapat disesuaikan dengan penutup heat-shrink atau label identifikasi kaku yang diberi tanda laser.",
+      "attributes": {},
+      "variants": [],
+      "image_hint": "bottom row, card 5 (yellow rope)",
+      "review_notes": []
+    },
+    {
+      "source_page": 34,
+      "category_slug": "scba-airline",
+      "name": "Dräger PAS® Lite",
+      "sku": null,
+      "brand": "Dräger",
+      "brand_source": "text",
+      "short_description": null,
+      "description": "Untuk digunakan dalam aplikasi industri yang memerlukan alat bantu pernapasan yang sederhana, kuat, dan mudah digunakan, Dräger PAS ® Lite Self-Contained Breathing Apparatus (SCBA) menggabungkan keandalan dengan kenyamanan dan kinerja, serta masa pakai yang sangat baik dan perawatan yang mudah.\n\nDengan desain yang telah terbukti dan menggunakan pneumatik berkualitas tinggi yang sama seperti yang ditemukan pada peralatan pernapasan petugas pemadam kebakaran profesional, Dräger PAS Lite memastikan kinerja tinggi dan keandalan yang konsisten selama masa pakai peralatan dengan perawatan minimal. Sistem pembawa dilengkapi rangka komposit karbon yang sangat ringan dan berkekuatan tinggi yang memiliki ketahanan yang sangat baik terhadap benturan, panas, dan bahan kimia, serta daya tahan yang luar biasa.\n\nBaik selang suplai udara maupun selang pengukur dipasang ke rangka ruang, sehingga mengurangi risiko tersangkut dan terbelit. Hal ini memungkinkan pengguna untuk mengubah posisi selang dari satu sisi ke sisi lain sesuai keinginan masing-masing. Desain selang yang terintegrasi sepenuhnya juga berarti bahwa selang dapat diganti dengan mudah dan hemat biaya.",
+      "attributes": {},
+      "variants": [],
+      "image_hint": "bottom-left: SCBA back frame photo next to the text",
+      "review_notes": [
+        "Big harness photo at top-left of the page has feature callouts (image-only text: 'Tahan benturan anti-statis bingkai ruang ringan', 'Kain karet memberikan pegangan yang baik pada tabung', 'Karet penutup alat pengukur melindungi dari benturan', 'Ikatan tahan robek dan abrasi', 'Tali tidak mudah robek tahan api', 'Penyetelan pinggang tarik ke depan', 'Gesper yang kuat & tahan api', 'Bantalan pembagi beban'); not assigned to a product because the photo is not titled - admin may add them to PAS Lite",
+        "Text layer prints 'PAS ® Lite' with a space in the first paragraph; kept"
+      ]
+    },
+    {
+      "source_page": 34,
+      "category_slug": "scba-airline",
+      "name": "Dräger PAS® AirPack 1",
+      "sku": null,
+      "brand": "Dräger",
+      "brand_source": "text",
+      "short_description": null,
+      "description": "Dräger PAS AirPack 1 mampu mengakomodasi hingga empat tabung udara bertekanan dengan kapasitas hingga 12 liter dan terbuat dari bahan baja berlapis bubuk anti-statik.\nSelang sepanjang 50 meter disertakan dengan PAS AirPack 1 sebagai perlengkapan standar, yang dapat ditambah hingga sepanjang 100 meter dengan rangkaian selang perpanjangan. Konektor rol selang troli terlindung dengan penutup untuk meminimalkan terjadinya kerusakan yang tidak disengaja.\n\nRol selang dilengkapi dengan gagang pemutar agar selang dapat digulung kembali dengan mudah ke dalam rol setelah digunakan. Penyaluran selang keluar juga dikendalikan dengan sistem pengereman untuk mencegah penguluran yang tidak diperlukan dan potensi terbelit.\nDräger PAS AirPack 1 memanfaatkan sistem pneumatik yang telah teruji dan terkenal di dunia, yang digunakan pada rangkaian alat bantu pernapasan udara bertekanan PSS Dräger. Sistemnya menggabungkan katup pelepas tekanan keamanan dan peredam tekanan yang tertutup dibalik pelat pelindung untuk keamanan tambahan.\nPAS AirPack telah didesain secara ergonomis untuk mendukung kemudahan pengoperasian, penanganan umum, dan mobilitas.\n\nModul terdiri atas:\n• Rangka baja awet yang dilas dengan kuat, dilapisi untuk proteksi karat, dengan lapisan bubuk polimer anti-statik.\n• Fitting baja tahan karat.",
+      "attributes": {},
+      "variants": [],
+      "image_hint": "bottom-right: yellow cylinders on a wheeled trolley with hose reel",
+      "review_notes": [
+        "Description includes 'Modul terdiri atas:' list"
+      ]
+    },
+    {
+      "source_page": 34,
+      "category_slug": "scba-airline",
+      "name": "Dräger Tabung Pernapasan udara bertekanan dan Asesorisnya",
+      "sku": null,
+      "brand": "Dräger",
+      "brand_source": "text",
+      "short_description": null,
+      "description": "Dirancang menggunakan teknologi terdepan dan bahan mutakhir, Anda dapat menggunakan tabung Dräger kami dalam aplikasi apa pun yang membutuhkan perlindungan pernapasan. Kami menawarkan rangkaian lengkap, dari tabung karbon komposit hingga baja. Anda terutama mendapatkan manfaat dari perangkat yang ringan dan performa Non-Limited Life (NLL).",
+      "attributes": {},
+      "variants": [],
+      "image_hint": "top-right accessory grid, left column row 1 (yellow cylinder)",
+      "review_notes": [
+        "Title and description are image-only (no text layer) - transcribed from a 330 dpi render of a low-resolution image; please verify spelling",
+        "Accessory item from the SCBA accessory panel"
+      ]
+    },
+    {
+      "source_page": 34,
+      "category_slug": "scba-airline",
+      "name": "Lung Demand Valve (LDV) Dräger PSS",
+      "sku": null,
+      "brand": "Dräger",
+      "brand_source": "text",
+      "short_description": null,
+      "description": "Cocok untuk penerapan paling ekstrem kapan pun pada saat Peralatan Pernapasan harus digunakan: dengan desain yang ringkas dan kuat, serta performa pneumatik yang sempurna, Katup Respons Paru-paru atau Lung Demand Valve (LDV) Dräger PSS akan selalu menyalurkan udara yang Anda butuhkan.",
+      "attributes": {},
+      "variants": [],
+      "image_hint": "top-right accessory grid, left column row 2 (black demand valve)",
+      "review_notes": [
+        "Title and description are image-only (no text layer) - transcribed from a 330 dpi render of a low-resolution image; please verify spelling",
+        "Accessory item from the SCBA accessory panel"
+      ]
+    },
+    {
+      "source_page": 34,
+      "category_slug": "scba-airline",
+      "name": "Dudukan LDV",
+      "sku": null,
+      "brand": "Dräger",
+      "brand_source": "text",
+      "short_description": null,
+      "description": "Dudukan LDV serbaguna dapat ditempatkan di rangkaian Dräger PSS® dan Dräger PAS® untuk memenuhi kebutuhan pengguna, menggabungkan konektor aman yang mudah digunakan, yang dirancang di sekitar LDV.",
+      "attributes": {},
+      "variants": [],
+      "image_hint": "top-right accessory grid, left column row 3 (three black LDV holders)",
+      "review_notes": [
+        "Title and description are image-only (no text layer) - transcribed from a 330 dpi render of a low-resolution image; please verify spelling",
+        "Accessory item from the SCBA accessory panel",
+        "Brand not in this item's title; taken from the page header text 'DRAGER SCBA & AIRLINE' and the Dräger logo on the page - verify"
+      ]
+    },
+    {
+      "source_page": 34,
+      "category_slug": "scba-airline",
+      "name": "Manifold Sabuk Saluran Udara dengan ASV",
+      "sku": null,
+      "brand": "Dräger",
+      "brand_source": "text",
+      "short_description": null,
+      "description": "Peralihan yang sepenuhnya otomatis dari udara eksternal ke udara SCBA dan dari udara SCBA ke udara eksternal. Menyediakan suplai udara tanpa gangguan ke pemakainya.",
+      "attributes": {},
+      "variants": [],
+      "image_hint": "top-right accessory grid, left column row 4 (hose manifold)",
+      "review_notes": [
+        "Title and description are image-only (no text layer) - transcribed from a 330 dpi render of a low-resolution image; please verify spelling",
+        "Accessory item from the SCBA accessory panel",
+        "Brand not in this item's title; taken from the page header text 'DRAGER SCBA & AIRLINE' and the Dräger logo on the page - verify"
+      ]
+    },
+    {
+      "source_page": 34,
+      "category_slug": "scba-airline",
+      "name": "Selang Suplai Sekunder",
+      "sku": null,
+      "brand": "Dräger",
+      "brand_source": "text",
+      "short_description": null,
+      "description": "Rangkaian selang suplai sekunder untuk dipasang di bahu dan pinggang, memberikan keleluasaan saat digunakan dalam skenario penyelamatan darurat.",
+      "attributes": {},
+      "variants": [],
+      "image_hint": "top-right accessory grid, right column row 1 (black hose)",
+      "review_notes": [
+        "Title and description are image-only (no text layer) - transcribed from a 330 dpi render of a low-resolution image; please verify spelling",
+        "Accessory item from the SCBA accessory panel",
+        "Brand not in this item's title; taken from the page header text 'DRAGER SCBA & AIRLINE' and the Dräger logo on the page - verify"
+      ]
+    },
+    {
+      "source_page": 34,
+      "category_slug": "scba-airline",
+      "name": "Tudung Penyelamatan PSS Dräger",
+      "sku": null,
+      "brand": "Dräger",
+      "brand_source": "text",
+      "short_description": null,
+      "description": "Petugas pemadam kebakaran menghadapi beberapa kondisi terburuk di dunia, dan diharapkan untuk menolong orang lain dari lingkungan ini; Tudung Penyelamatan Dräger PSS didesain untuk membantu para petugas profesional dalam menyelamatkan nyawa.",
+      "attributes": {},
+      "variants": [],
+      "image_hint": "top-right accessory grid, right column row 2 (pink rescue hood with bag)",
+      "review_notes": [
+        "Title and description are image-only (no text layer) - transcribed from a 330 dpi render of a low-resolution image; please verify spelling",
+        "Accessory item from the SCBA accessory panel"
+      ]
+    },
+    {
+      "source_page": 34,
+      "category_slug": "scba-airline",
+      "name": "Dräger Bodyguard® 1000",
+      "sku": null,
+      "brand": "Dräger",
+      "brand_source": "text",
+      "short_description": null,
+      "description": "Didesain untuk menyelamatkan nyawa dengan memberi tanda peringatan kepada tim ketika pemakainya menjadi tidak bergerak atau dalam bahaya, sistem Dräger Bodyguard® 1000 memancarkan sinyal dan alarm yang jelas dan khas untuk memastikan pemakai alat ini dapat dikenali secara cepat dan efektif, bahkan dalam kondisi lingkungan terburuk.",
+      "attributes": {},
+      "variants": [],
+      "image_hint": "top-right accessory grid, right column row 3 (black device with green/yellow lights)",
+      "review_notes": [
+        "Title and description are image-only (no text layer) - transcribed from a 330 dpi render of a low-resolution image; please verify spelling",
+        "Accessory item from the SCBA accessory panel"
+      ]
+    },
+    {
+      "source_page": 34,
+      "category_slug": "scba-airline",
+      "name": "Dräger Bodyguard® 1500",
+      "sku": null,
+      "brand": "Dräger",
+      "brand_source": "text",
+      "short_description": null,
+      "description": "Dräger Bodyguard® 1500 merupakan sistem PASS nirkabel otomatis yang meningkatkan keselamatan penggunanya dalam situasi yang potensial berbahaya. Sistem ini memberikan perhatian kepada rekan yang mengalami kesulitan dengan membangkitkan sinyal peringatan visual dan akustik, serta mempunyai kemampuan transmisi data nirkabel dari meter tekanan ke perangkat PASS.",
+      "attributes": {},
+      "variants": [],
+      "image_hint": "top-right accessory grid, right column row 4 (gauge and PASS unit)",
+      "review_notes": [
+        "Title and description are image-only (no text layer) - transcribed from a 330 dpi render of a low-resolution image; please verify spelling",
+        "Accessory item from the SCBA accessory panel"
+      ]
+    },
+    {
+      "source_page": 35,
+      "category_slug": "lockout-tagout",
+      "name": "L3821",
+      "sku": null,
+      "brand": "LOTOTO",
+      "brand_source": "text",
+      "short_description": null,
+      "description": "LOTOTO L3821 Alat Pengunci dan Penandaan Pengaman Pemutus Sirkuit Tipe Jepit, terbuat dari polipropilen yang kokoh dan nilon yang dimodifikasi tahan benturan. Untuk penguncian pemutus sirkuit 120-277V, lebar pegangan 16,5 mm.",
+      "attributes": {},
+      "variants": [],
+      "image_hint": "top-left (red clamp-on breaker lockout with tag window)",
+      "review_notes": [
+        "Card title is a manufacturer model code, not labelled as SKU/Kode -> sku null; name kept as the printed title",
+        "Brand LOTOTO printed as text in the page header ('LOTOTO (...)') and in most card descriptions; 'Lototo' marking also visible on product photos"
+      ]
+    },
+    {
+      "source_page": 35,
+      "category_slug": "lockout-tagout",
+      "name": "L3822",
+      "sku": null,
+      "brand": "LOTOTO",
+      "brand_source": "text",
+      "short_description": null,
+      "description": "LOTOTO L3823 Perangkat Pengunci dan Penandaan Pengaman Pemutus Sirkuit Tipe Jepit, terbuat dari polipropilen yang kokoh dan nilon yang dimodifikasi tahan benturan. Untuk penguncian pemutus sirkuit 480-600V, lebar pegangan 70mm.",
+      "attributes": {},
+      "variants": [],
+      "image_hint": "top-right (red clamp-on breaker lockout, large)",
+      "review_notes": [
+        "Card title is a manufacturer model code, not labelled as SKU/Kode -> sku null; name kept as the printed title",
+        "Brand LOTOTO printed as text in the page header ('LOTOTO (...)') and in most card descriptions; 'Lototo' marking also visible on product photos",
+        "Description on this card names 'LOTOTO L3823' and is identical to the L3823 card text (480-600V, 70mm) - probable copy error in the catalog; admin should verify L3822 specs"
+      ]
+    },
+    {
+      "source_page": 35,
+      "category_slug": "lockout-tagout",
+      "name": "L3823",
+      "sku": null,
+      "brand": "LOTOTO",
+      "brand_source": "text",
+      "short_description": null,
+      "description": "LOTOTO L3823 Perangkat Pengunci dan Penandaan Pengaman Pemutus Sirkuit Tipe Jepit, terbuat dari polipropilen yang kokoh dan nilon yang dimodifikasi tahan benturan. Untuk penguncian pemutus sirkuit 480-600V, lebar pegangan 70mm.",
+      "attributes": {},
+      "variants": [],
+      "image_hint": "middle-left (red/black clamp-on breaker lockout)",
+      "review_notes": [
+        "Card title is a manufacturer model code, not labelled as SKU/Kode -> sku null; name kept as the printed title",
+        "Brand LOTOTO printed as text in the page header ('LOTOTO (...)') and in most card descriptions; 'Lototo' marking also visible on product photos"
+      ]
+    },
+    {
+      "source_page": 35,
+      "category_slug": "lockout-tagout",
+      "name": "L491B",
+      "sku": null,
+      "brand": "LOTOTO",
+      "brand_source": "text",
+      "short_description": null,
+      "description": "Perangkat Pengunci Pemutus Sirkuit LOTOTO L491B Grip Tight cocok untuk sakelar pemutus sirkuit yang lebar atau tinggi yang biasanya ditemukan pada pemutus sirkuit tegangan tinggi/arus tinggi. Desain Grip Tight yang inovatif dan dipatenkan secara efektif mengunci pemutus sirkuit hanya dengan memutar ibu jari dan kemudian menutup pegangan penjepit untuk cengkeraman yang kuat pada sakelar.",
+      "attributes": {},
+      "variants": [],
+      "image_hint": "middle-right (red long-arm Grip Tight breaker lockout)",
+      "review_notes": [
+        "Card title is a manufacturer model code, not labelled as SKU/Kode -> sku null; name kept as the printed title",
+        "Brand LOTOTO printed as text in the page header ('LOTOTO (...)') and in most card descriptions; 'Lototo' marking also visible on product photos"
+      ]
+    },
+    {
+      "source_page": 35,
+      "category_slug": "lockout-tagout",
+      "name": "L493B",
+      "sku": null,
+      "brand": "LOTOTO",
+      "brand_source": "text",
+      "short_description": null,
+      "description": "Perangkat Pengunci Pemutus Sirkuit LOTOTO L493B Safety Loto Grip Tight cocok untuk sakelar standar dan sakelar tipe tie-bar yang biasanya ditemukan pada pemutus sirkuit 120 dan 240 volt. Desain Grip Tight yang inovatif dan dipatenkan secara efektif mengunci pemutus sirkuit hanya dengan memutar ibu jari, lalu menutup gagang penjepit untuk cengkeraman yang kuat pada sakelar.",
+      "attributes": {},
+      "variants": [],
+      "image_hint": "bottom-left (red Grip Tight breaker lockout)",
+      "review_notes": [
+        "Card title is a manufacturer model code, not labelled as SKU/Kode -> sku null; name kept as the printed title",
+        "Brand LOTOTO printed as text in the page header ('LOTOTO (...)') and in most card descriptions; 'Lototo' marking also visible on product photos"
+      ]
+    },
+    {
+      "source_page": 35,
+      "category_slug": "lockout-tagout",
+      "name": "L2390",
+      "sku": null,
+      "brand": "LOTOTO",
+      "brand_source": "text",
+      "short_description": null,
+      "description": "Perangkat pengunci pemutus sirkuit miniatur LOTOTO LS2390 Safety Loto mengunci sebagian besar pemutus sirkuit miniatur ISO/DIN di seluruh dunia. Perangkat yang dipatenkan ini cocok untuk pemutus sirkuit dengan bukaan tuas standar 7/16 inci (11 mm) atau kurang dan bekerja dengan semua gembok pengaman dan sebagian besar kait.",
+      "attributes": {},
+      "variants": [],
+      "image_hint": "bottom-right (red/black miniature breaker lockout)",
+      "review_notes": [
+        "Card title is a manufacturer model code, not labelled as SKU/Kode -> sku null; name kept as the printed title",
+        "Brand LOTOTO printed as text in the page header ('LOTOTO (...)') and in most card descriptions; 'Lototo' marking also visible on product photos",
+        "Title 'L2390' but description says 'LOTOTO LS2390' - code mismatch; verify"
+      ]
+    },
+    {
+      "source_page": 36,
+      "category_slug": "lockout-tagout",
+      "name": "L410RED",
+      "sku": null,
+      "brand": "LOTOTO",
+      "brand_source": "text",
+      "short_description": null,
+      "description": "Gembok Pengaman Nilon yang Diperkuat LOTOTO L410RED memiliki bodi Nilon selebar 1-1/2 inci (38 mm) dan belenggu Baja setinggi 1-1/2 inci (38 mm) dengan diameter 1/4 inci (6 mm). Dirancang khusus untuk aplikasi Lockout/Tagout, bodi gembok yang tahan lama, ringan, dan tidak menghantarkan listrik ini mudah dibawa.",
+      "attributes": {},
+      "variants": [],
+      "image_hint": "left column, top (red padlock, steel shackle)",
+      "review_notes": [
+        "Card title is a manufacturer model code, not labelled as SKU/Kode -> sku null; name kept as the printed title",
+        "Brand LOTOTO printed as text in the page header ('LOTOTO (...)') and in most card descriptions; 'Lototo' marking also visible on product photos"
+      ]
+    },
+    {
+      "source_page": 36,
+      "category_slug": "lockout-tagout",
+      "name": "L406RED",
+      "sku": null,
+      "brand": "LOTOTO",
+      "brand_source": "text",
+      "short_description": null,
+      "description": "Gembok Pengaman Nilon yang Diperkuat LOTOTO L406RED memiliki badan nilon selebar 1-1/2 inci (38 mm) dan belenggu nilon setinggi 1-1/2 inci (38 mm) dengan diameter 1/4 inci (6 mm). Dirancang khusus untuk aplikasi Lockout/Tagout, badan gembok yang tahan lama, ringan, dan tidak menghantarkan listrik ini mudah dibawa.",
+      "attributes": {},
+      "variants": [],
+      "image_hint": "middle column, top (red padlock, nylon shackle)",
+      "review_notes": [
+        "Card title is a manufacturer model code, not labelled as SKU/Kode -> sku null; name kept as the printed title",
+        "Brand LOTOTO printed as text in the page header ('LOTOTO (...)') and in most card descriptions; 'Lototo' marking also visible on product photos"
+      ]
+    },
+    {
+      "source_page": 36,
+      "category_slug": "lockout-tagout",
+      "name": "L410BLU",
+      "sku": null,
+      "brand": "LOTOTO",
+      "brand_source": "text",
+      "short_description": null,
+      "description": "Gembok Pengaman Nilon yang Diperkuat LOTOTO L410BLUE memiliki bodi Nilon selebar 1-1/2 inci (38 mm) dan belenggu Baja setinggi 1-1/2 inci (38 mm) dengan diameter 1/4 inci (6 mm). Dirancang khusus untuk aplikasi Lockout/Tagout, bodi gembok yang tahan lama, ringan, dan tidak menghantarkan listrik ini mudah dibawa.",
+      "attributes": {},
+      "variants": [],
+      "image_hint": "left column, middle (blue padlock, steel shackle)",
+      "review_notes": [
+        "Card title is a manufacturer model code, not labelled as SKU/Kode -> sku null; name kept as the printed title",
+        "Brand LOTOTO printed as text in the page header ('LOTOTO (...)') and in most card descriptions; 'Lototo' marking also visible on product photos",
+        "Title 'L410BLU' but description says 'L410BLUE'"
+      ]
+    },
+    {
+      "source_page": 36,
+      "category_slug": "lockout-tagout",
+      "name": "L406BLU",
+      "sku": null,
+      "brand": "LOTOTO",
+      "brand_source": "text",
+      "short_description": null,
+      "description": "Gembok Pengaman Nilon yang Diperkuat LOTOTO L406BLUE memiliki badan nilon selebar 1-1/2 inci (38 mm) dan belenggu nilon setinggi 1-1/2 inci (38 mm) dengan diameter 1/4 inci (6 mm). Dirancang khusus untuk aplikasi Lockout/Tagout, badan gembok yang tahan lama, ringan, dan tidak menghantarkan listrik ini mudah dibawa.",
+      "attributes": {},
+      "variants": [],
+      "image_hint": "middle column, middle (blue padlock, nylon shackle)",
+      "review_notes": [
+        "Card title is a manufacturer model code, not labelled as SKU/Kode -> sku null; name kept as the printed title",
+        "Brand LOTOTO printed as text in the page header ('LOTOTO (...)') and in most card descriptions; 'Lototo' marking also visible on product photos",
+        "Title 'L406BLU' but description says 'L406BLUE'"
+      ]
+    },
+    {
+      "source_page": 36,
+      "category_slug": "lockout-tagout",
+      "name": "L410GRN",
+      "sku": null,
+      "brand": "LOTOTO",
+      "brand_source": "text",
+      "short_description": null,
+      "description": "Gembok Pengaman Nilon yang Diperkuat LOTOTO L410GREEN memiliki bodi Nilon selebar 1-1/2 inci (38 mm) dan belenggu Baja setinggi 1-1/2 inci (38 mm) dengan diameter 1/4 inci (6 mm). Dirancang khusus untuk aplikasi Lockout/Tagout, bodi gembok yang tahan lama, ringan, dan tidak menghantarkan listrik ini mudah dibawa.",
+      "attributes": {},
+      "variants": [],
+      "image_hint": "left column, bottom (green padlock, steel shackle)",
+      "review_notes": [
+        "Card title is a manufacturer model code, not labelled as SKU/Kode -> sku null; name kept as the printed title",
+        "Brand LOTOTO printed as text in the page header ('LOTOTO (...)') and in most card descriptions; 'Lototo' marking also visible on product photos",
+        "Title 'L410GRN' but description says 'L410GREEN'"
+      ]
+    },
+    {
+      "source_page": 36,
+      "category_slug": "lockout-tagout",
+      "name": "L406GRN",
+      "sku": null,
+      "brand": "LOTOTO",
+      "brand_source": "text",
+      "short_description": null,
+      "description": "Gembok Pengaman Nilon yang Diperkuat LOTOTO L406GREEN memiliki badan nilon selebar 1-1/2 inci (38 mm) dan belenggu nilon setinggi 1-1/2 inci (38 mm) dengan diameter 1/4 inci (6 mm). Dirancang khusus untuk aplikasi Lockout/Tagout, badan gembok yang tahan lama, ringan, dan tidak menghantarkan listrik ini mudah dibawa.",
+      "attributes": {},
+      "variants": [],
+      "image_hint": "middle column, bottom (green padlock, nylon shackle)",
+      "review_notes": [
+        "Card title is a manufacturer model code, not labelled as SKU/Kode -> sku null; name kept as the printed title",
+        "Brand LOTOTO printed as text in the page header ('LOTOTO (...)') and in most card descriptions; 'Lototo' marking also visible on product photos",
+        "Title 'L406GRN' but description says 'L406GREEN'"
+      ]
+    },
+    {
+      "source_page": 36,
+      "category_slug": "lockout-tagout",
+      "name": "L420 - L421",
+      "sku": null,
+      "brand": "LOTOTO",
+      "brand_source": "text",
+      "short_description": null,
+      "description": "Pengait Pengunci Pengaman Baja LOTOTO L420 & L421 dapat menampung hingga enam gembok. Ideal untuk penguncian oleh beberapa pekerja di setiap titik penguncian, pengait ini menjaga peralatan tetap tidak beroperasi saat perbaikan atau penyesuaian dilakukan. Kontrol tidak dapat diaktifkan sampai gembok pekerja terakhir dilepas dari pengait.",
+      "attributes": {},
+      "variants": [],
+      "image_hint": "right side, top (two red steel lockout hasps)",
+      "review_notes": [
+        "Card title is a manufacturer model code, not labelled as SKU/Kode -> sku null; name kept as the printed title",
+        "Brand LOTOTO printed as text in the page header ('LOTOTO (...)') and in most card descriptions; 'Lototo' marking also visible on product photos",
+        "One card covers two codes (L420 & L421); catalog does not say how they differ, so no variants created"
+      ]
+    },
+    {
+      "source_page": 36,
+      "category_slug": "lockout-tagout",
+      "name": "L416 - L417",
+      "sku": null,
+      "brand": "LOTOTO",
+      "brand_source": "text",
+      "short_description": null,
+      "description": "L416 & L417 dapat menampung hingga enam gembok. Ideal untuk penguncian oleh beberapa pekerja di setiap titik penguncian, pengait ini menjaga peralatan tetap tidak beroperasi saat perbaikan atau penyesuaian dilakukan. Kontrol tidak dapat diaktifkan sampai gembok pekerja terakhir dilepas dari pengait.",
+      "attributes": {},
+      "variants": [],
+      "image_hint": "right side, second (two red steel lockout hasps)",
+      "review_notes": [
+        "Card title is a manufacturer model code, not labelled as SKU/Kode -> sku null; name kept as the printed title",
+        "Brand LOTOTO printed as text in the page header ('LOTOTO (...)') and in most card descriptions; 'Lototo' marking also visible on product photos",
+        "One card covers two codes (L416 & L417); catalog does not say how they differ, so no variants created",
+        "Description does not repeat the product type (starts with the codes)"
+      ]
+    },
+    {
+      "source_page": 36,
+      "category_slug": "lockout-tagout",
+      "name": "L428",
+      "sku": null,
+      "brand": "LOTOTO",
+      "brand_source": "text",
+      "short_description": null,
+      "description": "LOTOTO L428 Pengunci Pengaman Tahan Lama dari Nilon memiliki bahan nilon tahan percikan api dengan diameter rahang bagian dalam 2-1/2 inci (64 mm) dan dapat menampung hingga enam gembok. Ideal untuk penguncian oleh beberapa pekerja di setiap titik penguncian, pengunci ini menjaga peralatan tetap tidak beroperasi saat perbaikan atau penyesuaian dilakukan. Kontrol tidak dapat diaktifkan sampai gembok pekerja terakhir dilepas dari pengunci.",
+      "attributes": {},
+      "variants": [],
+      "image_hint": "right side, third (red nylon hasp)",
+      "review_notes": [
+        "Card title is a manufacturer model code, not labelled as SKU/Kode -> sku null; name kept as the printed title",
+        "Brand LOTOTO printed as text in the page header ('LOTOTO (...)') and in most card descriptions; 'Lototo' marking also visible on product photos"
+      ]
+    },
+    {
+      "source_page": 36,
+      "category_slug": "lockout-tagout",
+      "name": "L427",
+      "sku": null,
+      "brand": "LOTOTO",
+      "brand_source": "text",
+      "short_description": null,
+      "description": "Pengunci pengaman berlabel LOTOTO L427 memiliki jarak bebas rahang bagian dalam berdiameter 1-3/4 inci x 2-1/8 inci (45 mm x 54 mm) dan dirancang agar sesuai dengan lebih banyak titik penguncian daripada pengunci berlabel engsel paku keling alternatif. Konstruksi aluminium anodisasi dan baja tahan karat memberikan ketahanan korosi dan kekuatan yang terpadu.",
+      "attributes": {},
+      "variants": [],
+      "image_hint": "right side, bottom (red/white labelled hasp)",
+      "review_notes": [
+        "Card title is a manufacturer model code, not labelled as SKU/Kode -> sku null; name kept as the printed title",
+        "Brand LOTOTO printed as text in the page header ('LOTOTO (...)') and in most card descriptions; 'Lototo' marking also visible on product photos"
+      ]
+    },
+    {
+      "source_page": 37,
+      "category_slug": "lockout-tagout",
+      "name": "L497A IN - L497A ENG - LSLT01",
+      "sku": null,
+      "brand": "LOTOTO",
+      "brand_source": "text",
+      "short_description": null,
+      "description": "Label Keselamatan berbahan PVC tahan air, minyak, dan suhu ekstrem. Dapat dipasangkan dengan semua gembok pengaman. Label dapat disesuaikan dengan nama, departemen, dan perkiraan tanggal penyelesaian.",
+      "attributes": {},
+      "variants": [],
+      "image_hint": "top-left (three safety tags: BAHAYA, DANGER and a green/white tag)",
+      "review_notes": [
+        "Card title is a manufacturer model code, not labelled as SKU/Kode -> sku null; name kept as the printed title",
+        "Brand LOTOTO printed as text in the page header ('LOTOTO (...)') and in most card descriptions; 'Lototo' marking also visible on product photos",
+        "One card covers three codes (L497A IN, L497A ENG, LSLT01); photos suggest Indonesian (BAHAYA), English (DANGER) and a third tag, but mapping is not printed -> no variants"
+      ]
+    },
+    {
+      "source_page": 37,
+      "category_slug": "lockout-tagout",
+      "name": "LS806A - LS806B",
+      "sku": null,
+      "brand": "LOTOTO",
+      "brand_source": "text",
+      "short_description": null,
+      "description": "ideal untuk penguncian kelompok dan multi-titik, memiliki kabel baja multi-untai yang kuat dan fleksibel yang diisolasi dengan lapisan plastik bening. Bodi ABS yang kuat dan ringan tahan terhadap bahan kimia dan bekerja efektif dalam kondisi ekstrem. Termasuk label keselamatan yang mudah terlihat dan dapat digunakan kembali untuk mengidentifikasi orang yang bertanggung jawab dan kemudian dihapus untuk pekerjaan berikutnya.",
+      "attributes": {},
+      "variants": [],
+      "image_hint": "top-middle (red cable lockout devices with steel cable)",
+      "review_notes": [
+        "Card title is a manufacturer model code, not labelled as SKU/Kode -> sku null; name kept as the printed title",
+        "Brand LOTOTO printed as text in the page header ('LOTOTO (...)') and in most card descriptions; 'Lototo' marking also visible on product photos",
+        "One card covers two codes (LS806A & LS806B); difference not printed -> no variants",
+        "Description starts in lowercase ('ideal untuk ...') as printed; may be truncated at the start"
+      ]
+    },
+    {
+      "source_page": 37,
+      "category_slug": "lockout-tagout",
+      "name": "L498A",
+      "sku": null,
+      "brand": "LOTOTO",
+      "brand_source": "text",
+      "short_description": null,
+      "description": "LOTOTO L498A Safety Lockout Tagout Portable Group Box Lockout Tagout Device, terbuat dari pelat baja dengan lapisan plastik semprot suhu tinggi dan gagang nilon stainless steel. Ukuran 227mm(Lebar) x 152mm(Tinggi) x 88mm(Kedalaman), dapat menampung 12 gembok.",
+      "attributes": {
+        "Ukuran": "227mm(Lebar) x 152mm(Tinggi) x 88mm(Kedalaman)"
+      },
+      "variants": [],
+      "image_hint": "top-right (red group lockout box with padlocks)",
+      "review_notes": [
+        "Card title is a manufacturer model code, not labelled as SKU/Kode -> sku null; name kept as the printed title",
+        "Brand LOTOTO printed as text in the page header ('LOTOTO (...)') and in most card descriptions; 'Lototo' marking also visible on product photos",
+        "'Ukuran' attribute copied from the description, which also keeps it"
+      ]
+    },
+    {
+      "source_page": 37,
+      "category_slug": "lockout-tagout",
+      "name": "LS3476",
+      "sku": null,
+      "brand": "LOTOTO",
+      "brand_source": "text",
+      "short_description": null,
+      "description": "LOTOTO LS3476 1/4 Turn Ball Valve Lockout memiliki ukuran yang ringkas sehingga mudah disimpan atau dibawa dan bodi baja keras tahan panas. Perangkat ini cocok untuk gagang katup bola putar seperempat putaran manual untuk melindungi dari pembukaan yang tidak disengaja dan cocok untuk katup dengan diameter antara 1/4 inci (6 mm) hingga 1 inci (25 mm). Desain satu bagian yang mudah digunakan mengunci katup pada posisi MATI.",
+      "attributes": {},
+      "variants": [],
+      "image_hint": "bottom row, card 1 (red ball valve lockout)",
+      "review_notes": [
+        "Card title is a manufacturer model code, not labelled as SKU/Kode -> sku null; name kept as the printed title",
+        "Brand LOTOTO printed as text in the page header ('LOTOTO (...)') and in most card descriptions; 'Lototo' marking also visible on product photos"
+      ]
+    },
+    {
+      "source_page": 37,
+      "category_slug": "lockout-tagout",
+      "name": "LSBV31",
+      "sku": null,
+      "brand": "LOTOTO",
+      "brand_source": "text",
+      "short_description": null,
+      "description": "LOTOTO LSBV31 Safety Lockout Tagout Butterfly Valve Lockout Tagout Device, terbuat dari plastik ABS yang tahan lama. Perangkat pengunci anti-putar eksklusif ini cocok untuk seluruh rentang ukuran katup pegangan tarik, dari diameter 1/2 inci hingga 8 inci. Desain satu bagian yang praktis dan tetap menyatu baik saat digunakan maupun disimpan.",
+      "attributes": {},
+      "variants": [],
+      "image_hint": "bottom row, card 2 (red butterfly valve lockout)",
+      "review_notes": [
+        "Card title is a manufacturer model code, not labelled as SKU/Kode -> sku null; name kept as the printed title",
+        "Brand LOTOTO printed as text in the page header ('LOTOTO (...)') and in most card descriptions; 'Lototo' marking also visible on product photos"
+      ]
+    },
+    {
+      "source_page": 37,
+      "category_slug": "lockout-tagout",
+      "name": "LS3081",
+      "sku": null,
+      "brand": "LOTOTO",
+      "brand_source": "text",
+      "short_description": null,
+      "description": "Katup Bola Pengaman Lockout Tagout LOTOTO LS3081 yang Dapat Disetel, terbuat dari ABS tahan lama, tahan suhu -20 hingga +90 derajat Celcius, sangat tahan terhadap retak dan abrasi serta mendukung kondisi suhu cuaca ekstrem.",
+      "attributes": {},
+      "variants": [],
+      "image_hint": "bottom row, card 3 (red adjustable ball valve lockout)",
+      "review_notes": [
+        "Card title is a manufacturer model code, not labelled as SKU/Kode -> sku null; name kept as the printed title",
+        "Brand LOTOTO printed as text in the page header ('LOTOTO (...)') and in most card descriptions; 'Lototo' marking also visible on product photos"
+      ]
+    },
+    {
+      "source_page": 37,
+      "category_slug": "lockout-tagout",
+      "name": "L487 - L488",
+      "sku": null,
+      "brand": "LOTOTO",
+      "brand_source": "text",
+      "short_description": null,
+      "description": "Perangkat ini mengelilingi steker listrik dan melindungi dari penyambungan kembali yang tidak disengaja. Bodi ABS yang kuat, ringan, dan kokoh tahan terhadap bahan kimia dan bekerja efektif dalam kondisi ekstrem. Dilengkapi dengan label keselamatan permanen yang mudah terlihat. Untuk steker 110 volt dan banyak steker 220 volt serta juga 240 - 550 volt",
+      "attributes": {},
+      "variants": [],
+      "image_hint": "bottom-right (red plug lockouts)",
+      "review_notes": [
+        "Card title is a manufacturer model code, not labelled as SKU/Kode -> sku null; name kept as the printed title",
+        "Brand LOTOTO printed as text in the page header ('LOTOTO (...)') and in most card descriptions; 'Lototo' marking also visible on product photos",
+        "One card covers two codes (L487 & L488); difference not printed -> no variants"
+      ]
+    }
+  ],
+  "page_notes": {
+    "26": "Hearing protection (header 'HEARING PROTECTION / EARPLUG / EARMUFF'). 6 cards; brands from logos (3M, Jackson, Howard Leight). Two cards share the title '3M E-A-R UltraFit Earplugs 340-4002' (second one is a dispenser). Hidden foreign address text on page ignored.",
+    "27": "Cheetah safety shoes, 16 cards in a 4x4 grid; brand only as CHEETAH logo. Trademark/superscript symbols visible in images (Solegard™, AirKnit™, Airgo™) are absent from the text layer.",
+    "28": "HYTEST safety shoes, 2 products.",
+    "29": "Belzona 1000 Series (polymer repair metals), 12 cards.",
+    "30": "Belzona 2000, 3000, 7000 Series, 12 cards. 'Belzona 7111' appears twice (Marine Grade / Industrial Grade).",
+    "31": "Belzona 4000 & 5000 Series, 12 cards.",
+    "32": "NRS rescue apparel & gear (header 'RESCUE EQUIPMENT / APPAREL, GEAR & OTHER EQUIPMENT'), 5 products.",
+    "33": "Petzl rescue equipment, 10 cards. Some items (helmet, ascender, lanyard) are arguably fall-protection gear but kept in rescue-equipment per page mapping.",
+    "34": "Dräger SCBA & Airline. 2 main products with text (PAS Lite, PAS AirPack 1) plus an 8-item accessory panel that exists only as images (transcribed, needs verification). Large harness photo with feature callouts is untitled and not made a product.",
+    "35": "LOTOTO circuit breaker lockouts, 6 cards titled by model code. Header typo 'LOCKOUT TAGEOUT' (should be TAGOUT) on pages 35-37.",
+    "36": "LOTOTO padlocks & hasps, 10 cards titled by model code.",
+    "37": "LOTOTO safety tags & lockout equipment, 7 cards titled by model code; several cards group multiple codes."
+  }
+}

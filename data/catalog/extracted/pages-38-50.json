@@ -1,0 +1,2039 @@
+{
+  "pages": [
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50
+  ],
+  "products": [
+    {
+      "source_page": 38,
+      "category_slug": "chemical-spill",
+      "name": "Spill Containment Pallet (SP01002 - SP01004)",
+      "sku": null,
+      "brand": "ESNICO",
+      "brand_source": "text",
+      "short_description": null,
+      "description": "Palet penampung tumpahan digunakan untuk pengendalian tumpahan sekunder cairan kimia selama pengemasan atau penyimpanan.\n\nRangkaian palet penampung tumpahan akan membantu Anda menjaga wadah penyimpanan bahan kimia atau drum minyak tetap bersih, untuk mencegah dan mengendalikan kemungkinan cipratan cairan, tumpahan, atau pencemaran secara efektif.\n\nPalet penampung tumpahan Esnico mematuhi peraturan SPCC dan EPA 40 CFR 264.175.\n\nBak penampung berukuran besar menampung drum (55 Gal/200 L per drum) untuk menahan kebocoran jika terjadi kebocoran atau pecah, dan menjaga area penyimpanan tetap bersih dan aman.",
+      "attributes": {
+        "Kode (dicetak di judul)": "SP01002 - SP01004"
+      },
+      "variants": [],
+      "image_hint": "top-left card (drum on pallet + smaller pallet)",
+      "review_notes": [
+        "Codes 'SP01002 - SP01004' are printed in parentheses after the title without a 'code/SKU' label; multiple codes and no explicit mapping to the pictured sizes, so sku=null (codes kept in name and in attribute).",
+        "Brand 'ESNICO' printed as text in page header (and 'Esnico' in description); ESNICO logo also on card.",
+        "Several Spill Containment Pallet cards share the same base title; distinguished only by the codes in parentheses.",
+        "Attribute label 'Kode (dicetak di judul)' is editorial (catalog has no label); admin may rename/convert to SKU."
+      ]
+    },
+    {
+      "source_page": 38,
+      "category_slug": "chemical-spill",
+      "name": "Spill Containment Pallet Double IBC Drums Stacked (SP07001 - SP07002 - SP07003)",
+      "sku": null,
+      "brand": "ESNICO",
+      "brand_source": "text",
+      "short_description": null,
+      "description": "Palet penampung tumpahan digunakan untuk pengendalian tumpahan sekunder cairan kimia selama pengemasan atau penyimpanan.\n\nPalet penampung tumpahan drum IBC secara khusus digunakan untuk penanganan kebocoran drum IBC, dan cocok untuk pencegahan tumpahan pada wadah berukuran sedang. Palet penampung tumpahan Esnico mematuhi peraturan SPCC dan EPA 40 CFR 264.175.\n\nRangkaian palet tumpahan akan membantu Anda menjaga wadah penyimpanan bahan kimia atau drum minyak tetap bersih, untuk mencegah dan mengendalikan kemungkinan percikan cairan, tumpahan, atau pencemaran secara efektif.",
+      "attributes": {
+        "Kode (dicetak di judul)": "SP07001 - SP07002 - SP07003"
+      },
+      "variants": [],
+      "image_hint": "top-middle card (three IBC pallets)",
+      "review_notes": [
+        "Codes 'SP07001 - SP07002 - SP07003' are printed in parentheses after the title without a 'code/SKU' label; multiple codes and no explicit mapping to the pictured sizes, so sku=null (codes kept in name and in attribute).",
+        "Brand 'ESNICO' printed as text in page header (and 'Esnico' in description); ESNICO logo also on card.",
+        "Several Spill Containment Pallet cards share the same base title; distinguished only by the codes in parentheses.",
+        "Attribute label 'Kode (dicetak di judul)' is editorial (catalog has no label); admin may rename/convert to SKU."
+      ]
+    },
+    {
+      "source_page": 38,
+      "category_slug": "chemical-spill",
+      "name": "Spill Containment Pallet (SP04001 - SP04002 - SP04004)",
+      "sku": null,
+      "brand": "ESNICO",
+      "brand_source": "text",
+      "short_description": null,
+      "description": "Palet penampung tumpahan digunakan untuk pengendalian tumpahan sekunder cairan kimia selama pengemasan atau penyimpanan.\n\nRangkaian palet penampung tumpahan akan membantu Anda menjaga wadah penyimpanan bahan kimia atau drum minyak tetap bersih, untuk mencegah dan mengendalikan kemungkinan cipratan cairan, tumpahan, atau pencemaran secara efektif.\n\nPalet penampung tumpahan Esnico mematuhi peraturan SPCC dan EPA 40 CFR 264.175.\n\nBak penampung berukuran besar menahan drum atau wadah agar tidak bocor jika terjadi kebocoran atau pecah, dan menjaga area penyimpanan tetap bersih dan aman.",
+      "attributes": {
+        "Kode (dicetak di judul)": "SP04001 - SP04002 - SP04004"
+      },
+      "variants": [],
+      "image_hint": "bottom-left card (three pallets)",
+      "review_notes": [
+        "Codes 'SP04001 - SP04002 - SP04004' are printed in parentheses after the title without a 'code/SKU' label; multiple codes and no explicit mapping to the pictured sizes, so sku=null (codes kept in name and in attribute).",
+        "Brand 'ESNICO' printed as text in page header (and 'Esnico' in description); ESNICO logo also on card.",
+        "Several Spill Containment Pallet cards share the same base title; distinguished only by the codes in parentheses.",
+        "Attribute label 'Kode (dicetak di judul)' is editorial (catalog has no label); admin may rename/convert to SKU."
+      ]
+    },
+    {
+      "source_page": 38,
+      "category_slug": "chemical-spill",
+      "name": "Spill Containment Pallet (SP02001 - SP02002 - SP02004)",
+      "sku": null,
+      "brand": "ESNICO",
+      "brand_source": "text",
+      "short_description": null,
+      "description": "Palet penampung tumpahan digunakan untuk pengendalian tumpahan sekunder cairan kimia selama pengemasan atau penyimpanan.\n\nRangkaian palet penampung tumpahan akan membantu Anda menjaga wadah penyimpanan bahan kimia atau drum minyak tetap bersih, untuk mencegah dan mengendalikan kemungkinan cipratan cairan, tumpahan, atau pencemaran secara efektif.\n\nPalet penampung tumpahan Esnico mematuhi peraturan SPCC dan EPA 40 CFR 264.175. Bak penampung berukuran besar menahan drum atau wadah agar tidak bocor jika terjadi kebocoran atau pecah, dan menjaga area penyimpanan tetap bersih dan aman.",
+      "attributes": {
+        "Kode (dicetak di judul)": "SP02001 - SP02002 - SP02004"
+      },
+      "variants": [],
+      "image_hint": "bottom-middle card (three pallets)",
+      "review_notes": [
+        "Codes 'SP02001 - SP02002 - SP02004' are printed in parentheses after the title without a 'code/SKU' label; multiple codes and no explicit mapping to the pictured sizes, so sku=null (codes kept in name and in attribute).",
+        "Brand 'ESNICO' printed as text in page header (and 'Esnico' in description); ESNICO logo also on card.",
+        "Several Spill Containment Pallet cards share the same base title; distinguished only by the codes in parentheses.",
+        "Attribute label 'Kode (dicetak di judul)' is editorial (catalog has no label); admin may rename/convert to SKU."
+      ]
+    },
+    {
+      "source_page": 38,
+      "category_slug": "chemical-spill",
+      "name": "Spill Containment Pallet (SP03002 - SP03004)",
+      "sku": null,
+      "brand": "ESNICO",
+      "brand_source": "text",
+      "short_description": null,
+      "description": "Rangkaian palet penampung tumpahan akan membantu Anda menjaga wadah penyimpanan bahan kimia atau drum minyak tetap bersih, untuk mencegah dan mengendalikan kemungkinan cipratan cairan, tumpahan, atau pencemaran secara efektif.\n\nPalet penampung tumpahan Esnico mematuhi peraturan SPCC dan EPA 40 CFR 264.175. Bak penampung berukuran besar menampung drum (55 Gal/200 L per drum) untuk menahan kebocoran jika terjadi kebocoran atau pecah, dan menjaga area penyimpanan tetap bersih dan aman.",
+      "attributes": {
+        "Kode (dicetak di judul)": "SP03002 - SP03004"
+      },
+      "variants": [],
+      "image_hint": "bottom-right card (two pallets)",
+      "review_notes": [
+        "Codes 'SP03002 - SP03004' are printed in parentheses after the title without a 'code/SKU' label; multiple codes and no explicit mapping to the pictured sizes, so sku=null (codes kept in name and in attribute).",
+        "Brand 'ESNICO' printed as text in page header (and 'Esnico' in description); ESNICO logo also on card.",
+        "Several Spill Containment Pallet cards share the same base title; distinguished only by the codes in parentheses.",
+        "Attribute label 'Kode (dicetak di judul)' is editorial (catalog has no label); admin may rename/convert to SKU."
+      ]
+    },
+    {
+      "source_page": 38,
+      "category_slug": "chemical-spill",
+      "name": "Spill Containment Pallet Ramp (SP010)",
+      "sku": null,
+      "brand": "ESNICO",
+      "brand_source": "text",
+      "short_description": null,
+      "description": "Palet yang telah dirancang untuk memungkinkan truk palet, penangan drum, dan troli digunakan dengan bunds atau palet tumpahan.\n\nDiproduksi dari Polietilena UV Stabil yang sepenuhnya dapat didaur ulang dan tahan bahan kimia. Landai ini tahan terhadap suhu tinggi & rendah dan akan mengakomodasi sebagian besar lebar troli.",
+      "attributes": {
+        "Kode (dicetak di judul)": "SP010"
+      },
+      "variants": [],
+      "image_hint": "top-right card (yellow ramp)",
+      "review_notes": [
+        "'SP010' printed in parentheses after the title without a 'code/SKU' label; likely the product code but sku left null per rules.",
+        "Brand 'ESNICO' printed as text in page header; ESNICO logo on card (description itself does not name the brand).",
+        "Attribute label 'Kode (dicetak di judul)' is editorial (catalog has no label)."
+      ]
+    },
+    {
+      "source_page": 39,
+      "category_slug": "chemical-equipment",
+      "name": "CRC NF Contact Cleaner 400g",
+      "sku": null,
+      "brand": "CRC",
+      "brand_source": "text",
+      "short_description": null,
+      "description": "• Tidak memiliki titik nyala\n• Tidak mudah terbakar\n• Menguap dengan cepat, meminimalkan waktu henti yang terkait dengan metode pembersihan “clean-in-place”\n• Tidak meninggalkan residu, mencegah penumpukan zat berbahaya dan menghilangkan kebutuhan untuk membilas atau mengelap",
+      "attributes": {},
+      "variants": [],
+      "image_hint": "left column, top (blue can)",
+      "review_notes": [
+        "Brand 'CRC' printed in product name; CRC logo at top-left of page."
+      ]
+    },
+    {
+      "source_page": 39,
+      "category_slug": "chemical-equipment",
+      "name": "CRC Parts Cleaner 500ml",
+      "sku": null,
+      "brand": "CRC",
+      "brand_source": "text",
+      "short_description": null,
+      "description": "• Secara efektif menghilangkan kotoran, minyak, dan gemuk dari berbagai bagian kendaraan.\n• Tidak meninggalkan residu, memastikan bagian yang dibersihkan tetap bersih dan kering hanya dalam beberapa menit.\n• Memungkinkan aplikasi yang terarah, mengurangi pemborosan dan memastikan pembersihan menyeluruh.",
+      "attributes": {},
+      "variants": [],
+      "image_hint": "left column, bottom (blue/white can)",
+      "review_notes": [
+        "Brand 'CRC' printed in product name; CRC logo at top-left of page."
+      ]
+    },
+    {
+      "source_page": 39,
+      "category_slug": "chemical-equipment",
+      "name": "CRC CO Contact Cleaner 550 mL",
+      "sku": null,
+      "brand": "CRC",
+      "brand_source": "text",
+      "short_description": null,
+      "description": "pelarut pembersih kemurnian tinggi yang unik, aman untuk plastik, diformulasikan secara ilmiah, terbukti secara teknis, stabil, dan lembam dengan kemurnian tinggi. Tidak korosif, tidak menodai, penguapan sempurna yang cepat dan tidak mengandung pelumas. Mengandung COZOL – campuran pelarut khusus yang meningkatkan daya pembersih tanpa merusak plastik.",
+      "attributes": {},
+      "variants": [],
+      "image_hint": "second column, top (blue can)",
+      "review_notes": [
+        "Brand 'CRC' printed in product name; CRC logo at top-left of page."
+      ]
+    },
+    {
+      "source_page": 39,
+      "category_slug": "chemical-equipment",
+      "name": "CRC 2-26 450 g",
+      "sku": null,
+      "brand": "CRC",
+      "brand_source": "text",
+      "short_description": null,
+      "description": "CRC 2-26 adalah formula organik inert yang stabil, yang secara khusus disiapkan untuk mencegah kerusakan dan penurunan kinerja akibat pengaruh kelembapan dan korosi, memperpanjang masa pakai operasional, mengurangi waktu henti dan perawatan. Ia mengusir air dan kelembapan, menyegel permukaan keras dengan lapisan molekuler kontinu dan tidak pernah menjadi kering, keras, atau rapuh.",
+      "attributes": {},
+      "variants": [],
+      "image_hint": "second column, bottom (light blue can)",
+      "review_notes": [
+        "Brand 'CRC' printed in product name; CRC logo at top-left of page.",
+        "'2-26' is the product model name, not a SKU."
+      ]
+    },
+    {
+      "source_page": 39,
+      "category_slug": "chemical-equipment",
+      "name": "CRC CO Contact Cleaner 350g",
+      "sku": null,
+      "brand": "CRC",
+      "brand_source": "text",
+      "short_description": null,
+      "description": "• Menguap dengan cepat\n• Meminimalkan waktu henti yang terkait dengan metode pembersihan “clean-in-place”\n• Tidak meninggalkan residu\n• Mencegah penumpukan zat berbahaya dan menghilangkan kebutuhan untuk membilas atau mengelap",
+      "attributes": {},
+      "variants": [],
+      "image_hint": "third column, top (white can)",
+      "review_notes": [
+        "Brand 'CRC' printed in product name; CRC logo at top-left of page."
+      ]
+    },
+    {
+      "source_page": 39,
+      "category_slug": "chemical-equipment",
+      "name": "CRC Duster 250 mL",
+      "sku": null,
+      "brand": "CRC",
+      "brand_source": "text",
+      "short_description": null,
+      "description": "CRC Duster adalah alat pembersih debu udara yang dengan mudah membersihkan debu dan serat dari tempat-tempat yang sulit dijangkau dan sensitif menggunakan semburan udara bertekanan yang kuat. Alat ini sangat bagus untuk menghindari goresan yang mungkin terjadi akibat menggosok debu pada barang-barang sensitif seperti layar, dasbor, dan elektronik.",
+      "attributes": {},
+      "variants": [],
+      "image_hint": "third column, bottom (red/white can)",
+      "review_notes": [
+        "Brand 'CRC' printed in product name; CRC logo at top-left of page."
+      ]
+    },
+    {
+      "source_page": 39,
+      "category_slug": "chemical-equipment",
+      "name": "FAMIGO ® FS-101",
+      "sku": null,
+      "brand": "FAMIGO",
+      "brand_source": "text",
+      "short_description": null,
+      "description": "Ini adalah penekan kabut asam berbasis fluorokarbon yang sangat stabil, diformulasikan untuk aplikasi langsung dalam elektrolit elektrowinning tembaga. Dengan menurunkan tegangan permukaan, ia secara efektif menekan kabut asam, membantu menjaga lingkungan kerja yang lebih bersih dan aman sekaligus mengurangi korosi dan memperpanjang umur peralatan.\n\nBiasanya digunakan pada tahap elektrowinning (EW) dalam pemurnian tembaga hidrometalurgi, bahan ini dapat dikombinasikan dengan bola plastik mengambang untuk meningkatkan efeknya. Bahan ini tidak menghasilkan busa permukaan yang berlebihan, membantu meminimalkan kehilangan reagen dan memastikan kompatibilitas dengan sistem ekstraksi pelarut (SX) dan elektrowinning (EW).",
+      "attributes": {},
+      "variants": [],
+      "image_hint": "right framed card (glass bottle)",
+      "review_notes": [
+        "Name kept as printed including '®'.",
+        "'FS-101' is the product model name, not a SKU."
+      ]
+    },
+    {
+      "source_page": 40,
+      "category_slug": "electrical-equipment",
+      "name": "Whipcheck Safety Cables",
+      "sku": null,
+      "brand": "Superex",
+      "brand_source": "text",
+      "short_description": null,
+      "description": "• Selang udara bertekanan, jika terjadi kegagalan selang atau terlepas secara tidak sengaja, dapat menyebabkan rangkaian selang berayun dengan keras karena pelepasan energi yang tiba-tiba. Ayunan selang yang mematikan ini dapat menciptakan situasi yang berpotensi berbahaya. Dalam skenario seperti itu, kabel pengaman Superex whipcheck memastikan keselamatan dari cedera dan kerusakan properti.\n• Whipcheck adalah penahan selang yang terbuat dari baja, aluminium, tembaga, atau baja tahan karat yang tahan korosi dan berkekuatan tinggi, yang saat dipasang akan mengalihkan tegangan dari sambungan ke whipcheck.\n• Pemasangan whipcheck mudah dan tidak memerlukan alat apa pun - loop whipcheck yang dilengkapi pegas dibuka dan diselipkan ke setiap selang, memberikan cengkeraman yang kuat pada selang dan mencegahnya berayun jika terjadi kecelakaan. Whipcheck umumnya digunakan pada selang untuk udara, semburan air, pengeboran, uap, beton, sandblast, atau aplikasi bertekanan tinggi lainnya.\n\nPelindung cambuk Superex tersedia dalam:\n\n• Gaya selang standar – Kabel baja dan ferrule aluminium.\n• Tipe C – Kabel baja dan ferrule tembaga untuk aplikasi lepas pantai dan pertambangan batubara.\n• Tipe S – Kabel baja tahan karat dan ferrule baja tahan karat untuk aplikasi seperti industri petrokimia yang membutuhkan ketahanan korosi tinggi.\n• Selang standar untuk alat – Kabel baja dan ferrule aluminium.",
+      "attributes": {},
+      "variants": [
+        {
+          "name": "Whipcheck Hose To Hose Safety Cable",
+          "sku": null,
+          "attributes": {}
+        },
+        {
+          "name": "Whipcheck Hose To Tool Safety Cable",
+          "sku": null,
+          "attributes": {}
+        },
+        {
+          "name": "Whipcheck Hose To Hose Copper Ferrules",
+          "sku": null,
+          "attributes": {}
+        },
+        {
+          "name": "Whipcheck Hose To Hose Stainless Steel",
+          "sku": null,
+          "attributes": {}
+        }
+      ],
+      "image_hint": "whole page: four labelled cable photos on the left, SUPEREX logo top-right",
+      "review_notes": [
+        "Title printed in all caps 'WHIPCHECK SAFETY CABLES'; title-cased here.",
+        "Brand 'Superex' printed in description text; SUPEREX logo top-right.",
+        "The four labelled photos were modelled as variants of one product (one shared description); admin may split them into separate products.",
+        "Page 40 belongs to the 'Electrical Equipment' mapping although the product is a hose safety restraint."
+      ]
+    },
+    {
+      "source_page": 41,
+      "category_slug": "electrical-equipment",
+      "name": "Packings",
+      "sku": null,
+      "brand": "Frenzelit",
+      "brand_source": "text",
+      "short_description": null,
+      "description": "Kemasan Frenzelit dapat berupa anyaman persegi, persegi panjang, atau bulat 2 atau 3 arah dan dilengkapi dengan berbagai isian. Beberapa lapisan dapat dianyam di atas satu sama lain untuk mencapai dimensi yang diinginkan. Selain itu, kemasan ini dapat dioptimalkan sesuai kebutuhan (misalnya digrafitisasi, dilengkapi dengan vermikulit, dll.) dan juga tersedia dalam bentuk potongan. Dirancang untuk aplikasi statis, kemasan ini juga dapat digunakan sebagai isolasi pipa.\n\n• novaTEX\n• isoGLAS\n• isoTHERM 800\n• isoTHERM 1000\n• isoTHERM S/ST",
+      "attributes": {},
+      "variants": [
+        {
+          "name": "novaTEX",
+          "sku": null,
+          "attributes": {}
+        },
+        {
+          "name": "isoGLAS",
+          "sku": null,
+          "attributes": {}
+        },
+        {
+          "name": "isoTHERM 800",
+          "sku": null,
+          "attributes": {}
+        },
+        {
+          "name": "isoTHERM 1000",
+          "sku": null,
+          "attributes": {}
+        },
+        {
+          "name": "isoTHERM S/ST",
+          "sku": null,
+          "attributes": {}
+        }
+      ],
+      "image_hint": "top-left photo (braided packing cords)",
+      "review_notes": [
+        "Title printed in all caps 'PACKINGS'.",
+        "Brand 'Frenzelit' printed in description; Frenzelit logo bottom-right of page.",
+        "Bulleted product lines (novaTEX, isoGLAS, isoTHERM ...) also listed as name-only variants.",
+        "Page section label is 'SEALING & ISOLATION EQUIPMENT' / 'GASKET, INSULATON, SEALING & PACKINGS'; assigned to electrical-equipment per page mapping (no dedicated sealing category)."
+      ]
+    },
+    {
+      "source_page": 41,
+      "category_slug": "electrical-equipment",
+      "name": "Boiler Gaskets",
+      "sku": null,
+      "brand": "Frenzelit",
+      "brand_source": "logo",
+      "short_description": null,
+      "description": "Cincin penutup lubang akses, lubang kepala, dan lubang periksa pada boiler dan bejana ini terbuat dari kain tenun berkinerja tinggi dengan lapisan elastomer, berbentuk oval, dan memiliki fitur unik:\n\n• Kelas pengujian D/C untuk penggunaan tanpa batasan\n• Permukaan gasket yang dirancang khusus untuk karakteristik keamanan yang efektif.\n• Sangat cocok untuk berbagai jenis penutup, terlepas dari sistem penutup yang sudah ada.\n• Menjamin kekedapan selama pengoperasian boiler; kekedapan air dingin terbatas.\n• Pemasangan dan pelepasan yang sederhana.\n• Baut-baut tersebut dikencangkan kembali setelah pemasangan saat menghidupkan kembali boiler dan kondisi kerja yang aman tercapai setelah proses pemasangan selesai.",
+      "attributes": {},
+      "variants": [],
+      "image_hint": "bottom-left photo (oval gasket rings)",
+      "review_notes": [
+        "Title printed in all caps 'BOILER GASKETS'.",
+        "Brand only from the page-level Frenzelit logo (bottom-right); not named in this card's text.",
+        "Page section label is 'SEALING & ISOLATION EQUIPMENT' / 'GASKET, INSULATON, SEALING & PACKINGS'; assigned to electrical-equipment per page mapping (no dedicated sealing category)."
+      ]
+    },
+    {
+      "source_page": 41,
+      "category_slug": "electrical-equipment",
+      "name": "Fabric Seals",
+      "sku": null,
+      "brand": "Frenzelit",
+      "brand_source": "text",
+      "short_description": null,
+      "description": "Dalam manufaktur mesin dan teknik pabrik, dalam aplikasi industri proses, dalam kompor dan konstruksi boiler. Singkatnya: Segel kain tahan suhu tinggi dari Frenzelit digunakan di mana pun keandalan absolut sangat penting. Bahan baku dipilih dan diproses berdasarkan aplikasi spesifik dan bergantung pada suhu operasi. Hal ini menghasilkan berbagai macam aplikasi seperti solusi penyegelan di dalam, dengan, dan untuk pintu tungku, palka, penutup, flensa, saluran gas buang, serta jalur pengecatan dan pengeringan.",
+      "attributes": {},
+      "variants": [],
+      "image_hint": "top-right photo (fabric seal profiles)",
+      "review_notes": [
+        "Title printed in all caps 'FABRIC SEALS'; its photo sits above the title block (top-right).",
+        "Brand 'Frenzelit' printed in description; Frenzelit logo bottom-right.",
+        "Page section label is 'SEALING & ISOLATION EQUIPMENT' / 'GASKET, INSULATON, SEALING & PACKINGS'; assigned to electrical-equipment per page mapping (no dedicated sealing category)."
+      ]
+    },
+    {
+      "source_page": 42,
+      "category_slug": "electrical-equipment",
+      "name": "Fire Resistant Cable",
+      "sku": null,
+      "brand": "Sumi Indo Kabel",
+      "brand_source": "logo",
+      "short_description": null,
+      "description": null,
+      "attributes": {
+        "Construction": "FRC/ CU/ XLPE/ PVC & FRC/ CU /XLPE /LSFH (non armoured)",
+        "Detail construction": "Copper Conductor, Mica Glass Tape, XLPE Insulation, , LSFH ( Low Smoke Free Halogen) / PVC",
+        "Max Temperature": "90 derajat Celcius",
+        "Rated Voltage": "600/1000 V (1.2kV)",
+        "Standar / Sertifikasi": [
+          "IEC 60502-1",
+          "BS 6387",
+          "IEC 60228",
+          "IEC 60331"
+        ]
+      },
+      "variants": [],
+      "image_hint": "top-left (orange cable cross-section)",
+      "review_notes": [
+        "Brand from 'SUMI INDO KABEL' logo (image, not text) at top of the framed section enclosing all cables.",
+        "Product photo shows the marking 'SUPREME CABLE' on the cable jacket; brand may differ from the page logo - verify.",
+        "'Detail construction' value contains a stray ', ,' as printed.",
+        "Standards are printed unlabelled on the last line; placed under 'Standar / Sertifikasi'."
+      ]
+    },
+    {
+      "source_page": 42,
+      "category_slug": "electrical-equipment",
+      "name": "N2XSY (single core) Non Armoured Cable",
+      "sku": null,
+      "brand": "Sumi Indo Kabel",
+      "brand_source": "logo",
+      "short_description": null,
+      "description": null,
+      "attributes": {
+        "Construction": "CU / XLPE /CTS / PVC",
+        "Detail Construction": "Cooper Conductor, XLPE Insulation, Cooper Tape Screen, PVC Sheath",
+        "size": "1x35 mm2 - 1x630 mm2"
+      },
+      "variants": [],
+      "image_hint": "top-middle (red medium-voltage cable, shared photo with N2XSEBY)",
+      "review_notes": [
+        "Brand from 'SUMI INDO KABEL' logo (image, not text) at top of the framed section enclosing all cables.",
+        "Values copied verbatim; catalog spells 'Cooper' for 'Copper' (typo not fixed in attribute values).",
+        "The Max Temperature / Rated Voltage / IEC lines are printed only under N2XSEBY in the same card; they may also apply to N2XSY - verify.",
+        "Shares one photo with N2XSEBY."
+      ]
+    },
+    {
+      "source_page": 42,
+      "category_slug": "electrical-equipment",
+      "name": "N2XSEBY (multi core) Armoured Cable",
+      "sku": null,
+      "brand": "Sumi Indo Kabel",
+      "brand_source": "logo",
+      "short_description": null,
+      "description": null,
+      "attributes": {
+        "Construction": "CU / XLPE /CTS / DSTA/ PVC",
+        "Detail Construction": "Cooper Conductor, XLPE Insulation, Cooper Tape Screen, Double Galvanized Steel Tape Armour, PVC Sheath",
+        "size": "3x30 mm2 - 3x300 mm2",
+        "Max Temperature": "90 derajat celcius",
+        "Rated Voltage": "12/20 (24) kV",
+        "Standar / Sertifikasi": [
+          "IEC 60502-2",
+          "SNI 60502-2"
+        ]
+      },
+      "variants": [],
+      "image_hint": "top-middle (red medium-voltage cable, shared photo with N2XSY)",
+      "review_notes": [
+        "Brand from 'SUMI INDO KABEL' logo (image, not text) at top of the framed section enclosing all cables.",
+        "Values copied verbatim; catalog spells 'Cooper' for 'Copper' (typo not fixed in attribute values).",
+        "Shares one photo with N2XSY."
+      ]
+    },
+    {
+      "source_page": 42,
+      "category_slug": "electrical-equipment",
+      "name": "Grounding Cable / Earthing Cable (NYA)",
+      "sku": null,
+      "brand": "Sumi Indo Kabel",
+      "brand_source": "logo",
+      "short_description": null,
+      "description": null,
+      "attributes": {
+        "Construction": "CU / PVC",
+        "size": "1x1.5 mm2 - 1x300 mm2",
+        "Max Temperature": "70 derajat celcius",
+        "Rated Voltage": "450/750 V",
+        "Standar / Sertifikasi": [
+          "IEC 60227-3",
+          "SNI 04-6629.3 : 2006"
+        ]
+      },
+      "variants": [],
+      "image_hint": "top-right (three single-core wires)",
+      "review_notes": [
+        "Brand from 'SUMI INDO KABEL' logo (image, not text) at top of the framed section enclosing all cables."
+      ]
+    },
+    {
+      "source_page": 42,
+      "category_slug": "electrical-equipment",
+      "name": "Building Wire (BW) / Kabel Instalasi (NYM)",
+      "sku": null,
+      "brand": "Sumi Indo Kabel",
+      "brand_source": "logo",
+      "short_description": null,
+      "description": null,
+      "attributes": {
+        "Construction": "CU / PVC/ PVC",
+        "size": [
+          "2x1.5 mm2 - 2x35 mm2",
+          "3x1.5 mm2 - 3x35 mm2",
+          "4x1.5 mm2 - 4x35 mm2"
+        ],
+        "Max Temperature": "70 derajat celcius",
+        "Rated Voltage": "300/500 V",
+        "Standar / Sertifikasi": [
+          "IEC 60227-4",
+          "SNI 04-6629.4 : 2006"
+        ]
+      },
+      "variants": [],
+      "image_hint": "bottom-left (white multi-core cable)",
+      "review_notes": [
+        "Brand from 'SUMI INDO KABEL' logo (image, not text) at top of the framed section enclosing all cables.",
+        "'size' printed as one '/'-separated string; split into ranges."
+      ]
+    },
+    {
+      "source_page": 42,
+      "category_slug": "electrical-equipment",
+      "name": "Kabel Feeder NON ARMOURED (N2XY)",
+      "sku": null,
+      "brand": "Sumi Indo Kabel",
+      "brand_source": "logo",
+      "short_description": null,
+      "description": null,
+      "attributes": {
+        "Construction": "CU / XLPE/ PVC",
+        "size": [
+          "1x1.5 mm2 - 1x1.000 mm2",
+          "2x1.5 mm2 - 2x400 mm2",
+          "3x1.5 mm2 - 3x400 mm2",
+          "4x1.5 - 4x400mm2",
+          "5x1.5 mm2 - 5x50 mm2"
+        ]
+      },
+      "variants": [],
+      "image_hint": "bottom-middle (two black cables)",
+      "review_notes": [
+        "Brand from 'SUMI INDO KABEL' logo (image, not text) at top of the framed section enclosing all cables.",
+        "'size' printed as one '/'-separated string; split into ranges.",
+        "The 'Kriteria dan detail construction Kabel Feeder', Max Temperature, Rated Voltage and IEC/SNI lines are printed under the ARMOURED feeder card but are worded for 'Kabel Feeder' in general; may also apply here - verify."
+      ]
+    },
+    {
+      "source_page": 42,
+      "category_slug": "electrical-equipment",
+      "name": "Kabel Feeder ARMOURED (N2XFGBY / N2XRGBY)",
+      "sku": null,
+      "brand": "Sumi Indo Kabel",
+      "brand_source": "logo",
+      "short_description": null,
+      "description": null,
+      "attributes": {
+        "Construction": "CU / XLPE/ SFA/ PVC",
+        "size": [
+          "2x1.5 mm2 - 2x400 mm2",
+          "3x1.5 mm2 - 3x400 mm2",
+          "4x1.5 - 4x400mm2",
+          "5x1.5 mm2 - 5x50 mm2"
+        ],
+        "Conductor": "Cooper",
+        "Insulation": "XLPE",
+        "Sheath": "PVC",
+        "Ampacity": "Excellent",
+        "Max Short Circuit": "250 C",
+        "Insulation Resistence": "Excellent",
+        "Max Temperature": "90 derajat Celcius",
+        "Rated Voltage": "600/1000 V (1.2kV)",
+        "Standar / Sertifikasi": [
+          "IEC 60502-1",
+          "SNI 60502-1 : 2009"
+        ]
+      },
+      "variants": [],
+      "image_hint": "bottom-right (armoured black cable)",
+      "review_notes": [
+        "Brand from 'SUMI INDO KABEL' logo (image, not text) at top of the framed section enclosing all cables.",
+        "Values copied verbatim; catalog spells 'Cooper' for 'Copper' (typo not fixed in attribute values). Also 'Resistence' as printed.",
+        "Conductor/Insulation/Sheath/Ampacity/Max Short Circuit/Insulation Resistence come from the block 'Kriteria dan detail construction Kabel Feeder :'."
+      ]
+    },
+    {
+      "source_page": 43,
+      "category_slug": "chemical-pump",
+      "name": "HTM SP – SELF-PRIMING MAG DRIVE CENTRIFUGAL PUMPS",
+      "sku": null,
+      "brand": "Gemmecotti",
+      "brand_source": "text",
+      "short_description": null,
+      "description": "Pompa HTM-SP menggabungkan fitur khas pompa sentrifugal penggerak magnet kami dengan kemampuan self-priming. Di permukaan laut, pompa ini dapat memompa hingga kedalaman 6 meter. Pompa HTM-SP terbuat dari Polipropilen (PP) atau PVDF, material termoplastik yang memastikan ketahanan terbaik terhadap sebagian besar bahan kimia. Berkat sistem penggerak magnet tanpa segel yang inovatif, model pompa HTM-SP menjamin keamanan dan efisiensi maksimum, mengurangi risiko kebocoran dan emisi ke lingkungan serta biaya perawatan. Cairan yang dipompa harus bersih, tanpa padatan tersuspensi.",
+      "attributes": {},
+      "variants": [],
+      "image_hint": "top-left (black/blue pump)",
+      "review_notes": [
+        "Brand 'Gemmecotti' from page header text 'GEMMECOTTI PUMPS'; no logo on the cards.",
+        "Name kept as printed (all caps, en dash). Series code (HTM SP / HCO / HTP / HPP-HPF) is a model name, not a SKU.",
+        "Description: stray spaces before punctuation (e.g. 'self-priming .') removed."
+      ]
+    },
+    {
+      "source_page": 43,
+      "category_slug": "chemical-pump",
+      "name": "HCO – MECHANICAL SEAL CENTRIFUGAL PUMPS",
+      "sku": null,
+      "brand": "Gemmecotti",
+      "brand_source": "text",
+      "short_description": null,
+      "description": "Pompa sentrifugal seri HCO dengan segel mekanis terbuat dari bahan termoplastik (Polipropilen dan PVDF) dan cocok untuk cairan yang sangat korosif yang mengandung padatan tersuspensi. Berbagai jenis segel mekanis tersedia untuk menyesuaikan berbagai ukuran dan aplikasi.",
+      "attributes": {},
+      "variants": [],
+      "image_hint": "top-right (black/blue pump)",
+      "review_notes": [
+        "Brand 'Gemmecotti' from page header text 'GEMMECOTTI PUMPS'; no logo on the cards.",
+        "Name kept as printed (all caps, en dash). Series code (HTM SP / HCO / HTP / HPP-HPF) is a model name, not a SKU.",
+        "Description: stray spaces before punctuation (e.g. 'self-priming .') removed."
+      ]
+    },
+    {
+      "source_page": 43,
+      "category_slug": "chemical-pump",
+      "name": "HTP – AISI 316 MAGNETIC DRIVE ROTARY VANE PUMPS",
+      "sku": null,
+      "brand": "Gemmecotti",
+      "brand_source": "text",
+      "short_description": null,
+      "description": "Pompa baling-baling penggerak magnetik seri HTP terbuat dari AISI 316 dan cocok untuk hidrokarbon, pelarut, minyak transfer panas, refrigeran, kriogenik, dan cairan radioaktif. Berkat sistem penggerak magnetik yang inovatif, pompa model HTP mengurangi risiko kebocoran dan emisi serta biaya perawatan. Pompa HTP berguna untuk aplikasi aliran rendah dan tekanan tinggi seperti pabrik percontohan, pengambilan sampel, dan pembilasan segel mekanis. Dirancang khusus untuk cairan encer yang tidak melumasi dan/atau tekanan diferensial tinggi.",
+      "attributes": {},
+      "variants": [],
+      "image_hint": "bottom-left (blue pump with steel head)",
+      "review_notes": [
+        "Brand 'Gemmecotti' from page header text 'GEMMECOTTI PUMPS'; no logo on the cards.",
+        "Name kept as printed (all caps, en dash). Series code (HTM SP / HCO / HTP / HPP-HPF) is a model name, not a SKU.",
+        "Description: stray spaces before punctuation (e.g. 'self-priming .') removed."
+      ]
+    },
+    {
+      "source_page": 43,
+      "category_slug": "chemical-pump",
+      "name": "HPP/HPF – MAGNETIC DRIVE ROTARY VANE PUMPS",
+      "sku": null,
+      "brand": "Gemmecotti",
+      "brand_source": "text",
+      "short_description": null,
+      "description": "Pompa baling-baling putar penggerak magnet seri HPP-HPF terbuat dari bahan termoplastik (PP/PVDF) dan cocok untuk cairan korosif, alkali, cairan beracun, berbahaya, dan karsinogenik. Berkat sistem penggerak magnet yang inovatif, pompa model HPP-HPF mengurangi risiko kebocoran dan biaya perawatan. Pompa HPP-HPF berguna untuk aplikasi aliran rendah dan tekanan tinggi seperti pabrik percontohan dan pengambilan sampel.",
+      "attributes": {},
+      "variants": [],
+      "image_hint": "bottom-right (blue pump with white head)",
+      "review_notes": [
+        "Brand 'Gemmecotti' from page header text 'GEMMECOTTI PUMPS'; no logo on the cards.",
+        "Name kept as printed (all caps, en dash). Series code (HTM SP / HCO / HTP / HPP-HPF) is a model name, not a SKU.",
+        "Description: stray spaces before punctuation (e.g. 'self-priming .') removed."
+      ]
+    },
+    {
+      "source_page": 44,
+      "category_slug": "other-equipment",
+      "name": "FULL FACE RESPIRATOR BAG",
+      "sku": null,
+      "brand": "Defenders-X",
+      "brand_source": "text",
+      "short_description": null,
+      "description": "Dirancang untuk petugas pemadam kebakaran, kru darurat, dan pekerja industri, Tas Penyimpanan Masker Respirator Defenders-X ini menyediakan solusi yang aman dan tahan lama untuk mengangkut dan melindungi masker respirator wajah penuh dan aksesori APD penting. Dibuat untuk lingkungan yang keras, tas kanvas tugas berat 13L ini menjaga alat pelindung pernapasan Anda tetap bersih, terorganisir, dan siap digunakan.",
+      "attributes": {},
+      "variants": [],
+      "image_hint": "top-left photo (black backpack with reflective stripes)",
+      "review_notes": [
+        "Brand 'Defenders-X' printed in the description."
+      ]
+    },
+    {
+      "source_page": 44,
+      "category_slug": "other-equipment",
+      "name": "HALF FACE RESPIRATOR BAG",
+      "sku": null,
+      "brand": null,
+      "brand_source": null,
+      "short_description": null,
+      "description": "Tas dengan sabuk mudah diikatkan ke pinggang Anda untuk akses praktis saat bepergian sekaligus melindungi dan menyimpan masker respirator setengah wajah. Terbuat dari nilon 420D yang tahan lama namun ringan, kantong ini dilengkapi penutup flap kait & loop untuk melindungi respirator setengah wajah yang mahal.\n\nSabuk yang disertakan terpasang dengan aman di pinggang untuk menjaga respirator tetap mudah dijangkau, sehingga meningkatkan keselamatan dan kepatuhan. Penutup kait dan loop mudah dibuka dengan satu tangan untuk akses langsung.\n\nKantung respirator setengah wajah ini adalah pilihan tepat untuk pekerja di industri yang membutuhkan respirator, termasuk pengecatan, konstruksi, pertambangan, minyak dan gas, pertanian, operasi kimia, pemadam kebakaran, dan banyak lagi.",
+      "attributes": {},
+      "variants": [],
+      "image_hint": "bottom-left photo (black waist pouch)",
+      "review_notes": [
+        "No brand printed or shown for this item."
+      ]
+    },
+    {
+      "source_page": 44,
+      "category_slug": "other-equipment",
+      "name": "JUMBO BAG",
+      "sku": null,
+      "brand": null,
+      "brand_source": null,
+      "short_description": "UN Certified Indonesia",
+      "description": "Untuk NiCo3\nDitambah kode UN Bag\n• Menggunakan inner plastic, ketahanan maksimal jumbo bag 1 ton\n• Diameter corong 30 cm, ketinggian leher 40 cm, Panjang tali 50 cm",
+      "attributes": {
+        "Warna": "Jumbo bag berwarna putih, dilengkapi dengan pictogram."
+      },
+      "variants": [],
+      "image_hint": "right column (white jumbo bag with blue loops)",
+      "review_notes": [
+        "Dash-list items converted to bullets.",
+        "'UN Certified Indonesia' printed as subtitle - kept as short_description, not as a standards attribute."
+      ]
+    },
+    {
+      "source_page": 45,
+      "category_slug": "body-protection",
+      "name": "Defenders-X Class 2 Clothing Safety Apparel - Yellow Black",
+      "sku": null,
+      "brand": "Defenders-X",
+      "brand_source": "text",
+      "short_description": null,
+      "description": null,
+      "attributes": {},
+      "variants": [],
+      "image_hint": "top row, card 1 of 5 (short-sleeve shirt, front+back)",
+      "review_notes": [
+        "Brand 'Defenders-X' printed in name; DEFENDERS-X logo on card.",
+        "No description/specs printed; card shows front and back view."
+      ]
+    },
+    {
+      "source_page": 45,
+      "category_slug": "body-protection",
+      "name": "Defenders-X Class 2 Clothing Safety Apparel - Orange Black",
+      "sku": null,
+      "brand": "Defenders-X",
+      "brand_source": "text",
+      "short_description": null,
+      "description": null,
+      "attributes": {},
+      "variants": [],
+      "image_hint": "top row, card 2 of 5 (short-sleeve shirt, front+back)",
+      "review_notes": [
+        "Brand 'Defenders-X' printed in name; DEFENDERS-X logo on card.",
+        "No description/specs printed; card shows front and back view."
+      ]
+    },
+    {
+      "source_page": 45,
+      "category_slug": "body-protection",
+      "name": "Defenders-X Class 2 Clothing Safety Apparel - Navy Orange",
+      "sku": null,
+      "brand": "Defenders-X",
+      "brand_source": "text",
+      "short_description": null,
+      "description": null,
+      "attributes": {},
+      "variants": [],
+      "image_hint": "top row, card 3 of 5 (long-sleeve shirt, front+back)",
+      "review_notes": [
+        "Brand 'Defenders-X' printed in name; DEFENDERS-X logo on card.",
+        "No description/specs printed; card shows front and back view."
+      ]
+    },
+    {
+      "source_page": 45,
+      "category_slug": "body-protection",
+      "name": "Defenders-X Class 2 Clothing Safety Apparel - Yellow Orange",
+      "sku": null,
+      "brand": "Defenders-X",
+      "brand_source": "text",
+      "short_description": null,
+      "description": null,
+      "attributes": {},
+      "variants": [],
+      "image_hint": "top row, card 4 of 5 (short-sleeve shirt, front+back)",
+      "review_notes": [
+        "Brand 'Defenders-X' printed in name; DEFENDERS-X logo on card.",
+        "No description/specs printed; card shows front and back view.",
+        "Name 'Defenders-X Class 2 Clothing Safety Apparel - Yellow Orange' appears on 2 different cards on this page with different designs (short-sleeve here); names are not unique - admin should disambiguate."
+      ]
+    },
+    {
+      "source_page": 45,
+      "category_slug": "body-protection",
+      "name": "Defenders-X Class 2 Clothing Safety Apparel - Yellow Orange",
+      "sku": null,
+      "brand": "Defenders-X",
+      "brand_source": "text",
+      "short_description": null,
+      "description": null,
+      "attributes": {},
+      "variants": [],
+      "image_hint": "top row, card 5 of 5 (long-sleeve shirt, front+back)",
+      "review_notes": [
+        "Brand 'Defenders-X' printed in name; DEFENDERS-X logo on card.",
+        "No description/specs printed; card shows front and back view.",
+        "Name 'Defenders-X Class 2 Clothing Safety Apparel - Yellow Orange' appears on 2 different cards on this page with different designs (long-sleeve here); names are not unique - admin should disambiguate."
+      ]
+    },
+    {
+      "source_page": 45,
+      "category_slug": "body-protection",
+      "name": "Defenders-X Class 2 Clothing Safety Apparel - Navy",
+      "sku": null,
+      "brand": "Defenders-X",
+      "brand_source": "text",
+      "short_description": null,
+      "description": null,
+      "attributes": {},
+      "variants": [],
+      "image_hint": "middle row, card 1 of 5 (short-sleeve shirt, front+back)",
+      "review_notes": [
+        "Brand 'Defenders-X' printed in name; DEFENDERS-X logo on card.",
+        "No description/specs printed; card shows front and back view.",
+        "Name 'Defenders-X Class 2 Clothing Safety Apparel - Navy' appears on 2 different cards on this page with different designs (short-sleeve here); names are not unique - admin should disambiguate."
+      ]
+    },
+    {
+      "source_page": 45,
+      "category_slug": "body-protection",
+      "name": "Defenders-X Class 3 Clothing Safety Apparel - Navy",
+      "sku": null,
+      "brand": "Defenders-X",
+      "brand_source": "text",
+      "short_description": null,
+      "description": null,
+      "attributes": {},
+      "variants": [],
+      "image_hint": "middle row, card 2 of 5 (short-sleeve shirt, front+back)",
+      "review_notes": [
+        "Brand 'Defenders-X' printed in name; DEFENDERS-X logo on card.",
+        "No description/specs printed; card shows front and back view.",
+        "Name 'Defenders-X Class 3 Clothing Safety Apparel - Navy' appears on 2 different cards on this page with different designs (short-sleeve here); names are not unique - admin should disambiguate."
+      ]
+    },
+    {
+      "source_page": 45,
+      "category_slug": "body-protection",
+      "name": "Defenders-X Class 2 Clothing Safety Apparel - Yellow Navy",
+      "sku": null,
+      "brand": "Defenders-X",
+      "brand_source": "text",
+      "short_description": null,
+      "description": null,
+      "attributes": {},
+      "variants": [],
+      "image_hint": "middle row, card 3 of 5 (short-sleeve shirt, front+back)",
+      "review_notes": [
+        "Brand 'Defenders-X' printed in name; DEFENDERS-X logo on card.",
+        "No description/specs printed; card shows front and back view."
+      ]
+    },
+    {
+      "source_page": 45,
+      "category_slug": "body-protection",
+      "name": "Defenders-X Class 2 Clothing Safety Apparel - Yellow",
+      "sku": null,
+      "brand": "Defenders-X",
+      "brand_source": "text",
+      "short_description": null,
+      "description": null,
+      "attributes": {},
+      "variants": [],
+      "image_hint": "middle row, card 4 of 5 (long-sleeve shirt, front+back)",
+      "review_notes": [
+        "Brand 'Defenders-X' printed in name; DEFENDERS-X logo on card.",
+        "No description/specs printed; card shows front and back view.",
+        "Name 'Defenders-X Class 2 Clothing Safety Apparel - Yellow' appears on 2 different cards on this page with different designs (long-sleeve here); names are not unique - admin should disambiguate."
+      ]
+    },
+    {
+      "source_page": 45,
+      "category_slug": "body-protection",
+      "name": "Defenders-X Class 2 Clothing Safety Apparel - Navy",
+      "sku": null,
+      "brand": "Defenders-X",
+      "brand_source": "text",
+      "short_description": null,
+      "description": null,
+      "attributes": {},
+      "variants": [],
+      "image_hint": "middle row, card 5 of 5 (long-sleeve shirt, front+back)",
+      "review_notes": [
+        "Brand 'Defenders-X' printed in name; DEFENDERS-X logo on card.",
+        "No description/specs printed; card shows front and back view.",
+        "Name 'Defenders-X Class 2 Clothing Safety Apparel - Navy' appears on 2 different cards on this page with different designs (long-sleeve here); names are not unique - admin should disambiguate."
+      ]
+    },
+    {
+      "source_page": 45,
+      "category_slug": "body-protection",
+      "name": "Defenders-X Class 3 Clothing Safety Apparel - Blue Yellow",
+      "sku": null,
+      "brand": "Defenders-X",
+      "brand_source": "text",
+      "short_description": null,
+      "description": null,
+      "attributes": {},
+      "variants": [],
+      "image_hint": "bottom row, card 1 of 5 (long-sleeve shirt, front+back)",
+      "review_notes": [
+        "Brand 'Defenders-X' printed in name; DEFENDERS-X logo on card.",
+        "No description/specs printed; card shows front and back view."
+      ]
+    },
+    {
+      "source_page": 45,
+      "category_slug": "body-protection",
+      "name": "Defenders-X Class 3 Clothing Safety Apparel - Yellow",
+      "sku": null,
+      "brand": "Defenders-X",
+      "brand_source": "text",
+      "short_description": null,
+      "description": null,
+      "attributes": {},
+      "variants": [],
+      "image_hint": "bottom row, card 2 of 5 (short-sleeve shirt, front+back)",
+      "review_notes": [
+        "Brand 'Defenders-X' printed in name; DEFENDERS-X logo on card.",
+        "No description/specs printed; card shows front and back view."
+      ]
+    },
+    {
+      "source_page": 45,
+      "category_slug": "body-protection",
+      "name": "Defenders-X Class 3 Clothing Safety Apparel - Yellow Navy",
+      "sku": null,
+      "brand": "Defenders-X",
+      "brand_source": "text",
+      "short_description": null,
+      "description": null,
+      "attributes": {},
+      "variants": [],
+      "image_hint": "bottom row, card 3 of 5 (short-sleeve shirt, front+back)",
+      "review_notes": [
+        "Brand 'Defenders-X' printed in name; DEFENDERS-X logo on card.",
+        "No description/specs printed; card shows front and back view."
+      ]
+    },
+    {
+      "source_page": 45,
+      "category_slug": "body-protection",
+      "name": "Defenders-X Class 2 Clothing Safety Apparel - Yellow",
+      "sku": null,
+      "brand": "Defenders-X",
+      "brand_source": "text",
+      "short_description": null,
+      "description": null,
+      "attributes": {},
+      "variants": [],
+      "image_hint": "bottom row, card 4 of 5 (short-sleeve shirt, front+back)",
+      "review_notes": [
+        "Brand 'Defenders-X' printed in name; DEFENDERS-X logo on card.",
+        "No description/specs printed; card shows front and back view.",
+        "Name 'Defenders-X Class 2 Clothing Safety Apparel - Yellow' appears on 2 different cards on this page with different designs (short-sleeve here); names are not unique - admin should disambiguate."
+      ]
+    },
+    {
+      "source_page": 45,
+      "category_slug": "body-protection",
+      "name": "Defenders-X Class 3 Clothing Safety Apparel - Navy",
+      "sku": null,
+      "brand": "Defenders-X",
+      "brand_source": "text",
+      "short_description": null,
+      "description": null,
+      "attributes": {},
+      "variants": [],
+      "image_hint": "bottom row, card 5 of 5 (long-sleeve shirt, front+back)",
+      "review_notes": [
+        "Brand 'Defenders-X' printed in name; DEFENDERS-X logo on card.",
+        "No description/specs printed; card shows front and back view.",
+        "Name 'Defenders-X Class 3 Clothing Safety Apparel - Navy' appears on 2 different cards on this page with different designs (long-sleeve here); names are not unique - admin should disambiguate."
+      ]
+    },
+    {
+      "source_page": 46,
+      "category_slug": "body-protection",
+      "name": "Arc Flash Coats",
+      "sku": null,
+      "brand": "Salisbury",
+      "brand_source": "text",
+      "short_description": null,
+      "description": null,
+      "attributes": {},
+      "variants": [
+        {
+          "name": "Salisbury Arc Flash 8 Cal Coat ACC8RG",
+          "sku": null,
+          "attributes": {}
+        },
+        {
+          "name": "Salisbury Arc Flash 12 Cal Coat ACC12RG",
+          "sku": null,
+          "attributes": {}
+        },
+        {
+          "name": "Salisbury Arc Flash 20 Cal Coat ACC20RG",
+          "sku": null,
+          "attributes": {}
+        },
+        {
+          "name": "Salisbury Arc Flash 40 Cal Coat ACC40RG",
+          "sku": null,
+          "attributes": {}
+        }
+      ],
+      "image_hint": "top-left card (red/grey coat)",
+      "review_notes": [
+        "Brand 'Salisbury' printed in item names; 'SALISBURY by Honeywell' logo on card.",
+        "Variant names end with what look like manufacturer part numbers (e.g. ACC8RG) but they are not labelled as codes, so variant sku=null."
+      ]
+    },
+    {
+      "source_page": 46,
+      "category_slug": "body-protection",
+      "name": "Arc Flash Bib Overalls",
+      "sku": null,
+      "brand": "Salisbury",
+      "brand_source": "text",
+      "short_description": null,
+      "description": null,
+      "attributes": {},
+      "variants": [
+        {
+          "name": "Salisbury Arc Flash 8 Cal Bib Overalls ACB8RG",
+          "sku": null,
+          "attributes": {}
+        },
+        {
+          "name": "Salisbury Arc Flash 12 Cal Bib Overalls ACB12RG",
+          "sku": null,
+          "attributes": {}
+        },
+        {
+          "name": "Salisbury Arc Flash 20 Cal Bib Overalls ACB20RG",
+          "sku": null,
+          "attributes": {}
+        },
+        {
+          "name": "Salisbury Arc Flash 40 Cal Bib Overalls ACB40RG",
+          "sku": null,
+          "attributes": {}
+        }
+      ],
+      "image_hint": "top-middle card (grey bib overalls)",
+      "review_notes": [
+        "Brand 'Salisbury' printed in item names; 'SALISBURY by Honeywell' logo on card.",
+        "Variant names end with what look like manufacturer part numbers (e.g. ACC8RG) but they are not labelled as codes, so variant sku=null."
+      ]
+    },
+    {
+      "source_page": 46,
+      "category_slug": "body-protection",
+      "name": "Arc Flash Coveralls",
+      "sku": null,
+      "brand": "Salisbury",
+      "brand_source": "text",
+      "short_description": null,
+      "description": null,
+      "attributes": {},
+      "variants": [
+        {
+          "name": "Salisbury Arc Flash 8 Cal Coverall ACCA8RG",
+          "sku": null,
+          "attributes": {}
+        },
+        {
+          "name": "Salisbury Arc Flash 12 Cal Coverall ACCA12RG",
+          "sku": null,
+          "attributes": {}
+        },
+        {
+          "name": "Salisbury Arc Flash 20 Cal Coverall ACCA20RG",
+          "sku": null,
+          "attributes": {}
+        }
+      ],
+      "image_hint": "bottom-left card (red/grey coverall)",
+      "review_notes": [
+        "Brand 'Salisbury' printed in item names; 'SALISBURY by Honeywell' logo on card.",
+        "Variant names end with what look like manufacturer part numbers (e.g. ACC8RG) but they are not labelled as codes, so variant sku=null."
+      ]
+    },
+    {
+      "source_page": 46,
+      "category_slug": "body-protection",
+      "name": "Arc Flash Pants",
+      "sku": null,
+      "brand": "Salisbury",
+      "brand_source": "text",
+      "short_description": null,
+      "description": null,
+      "attributes": {},
+      "variants": [
+        {
+          "name": "Salisbury Arc Flash 8 Cal Pants ACP8RG",
+          "sku": null,
+          "attributes": {}
+        },
+        {
+          "name": "Salisbury Arc Flash 12 Cal Pants ACP12RG",
+          "sku": null,
+          "attributes": {}
+        }
+      ],
+      "image_hint": "bottom-middle card (grey pants)",
+      "review_notes": [
+        "Brand 'Salisbury' printed in item names; 'SALISBURY by Honeywell' logo on card.",
+        "Variant names end with what look like manufacturer part numbers (e.g. ACC8RG) but they are not labelled as codes, so variant sku=null."
+      ]
+    },
+    {
+      "source_page": 46,
+      "category_slug": "body-protection",
+      "name": "Arc Flash Clothing",
+      "sku": null,
+      "brand": "Salisbury",
+      "brand_source": "logo",
+      "short_description": null,
+      "description": null,
+      "attributes": {},
+      "variants": [
+        {
+          "name": "8 Cal Arc Flash Safety Clothing",
+          "sku": null,
+          "attributes": {}
+        },
+        {
+          "name": "12 Cal Arc Flash Safety Clothing",
+          "sku": null,
+          "attributes": {}
+        },
+        {
+          "name": "20 Cal Arc Flash Safety Clothing",
+          "sku": null,
+          "attributes": {}
+        },
+        {
+          "name": "40 Cal Arc Flash Safety Clothing",
+          "sku": null,
+          "attributes": {}
+        },
+        {
+          "name": "65 Cal Arc Flash Safety Clothing",
+          "sku": null,
+          "attributes": {}
+        },
+        {
+          "name": "100 Cal Arc Flash Safety Clothing",
+          "sku": null,
+          "attributes": {}
+        }
+      ],
+      "image_hint": "right tall card (four kit photos: hood, helmet, jacket, bag)",
+      "review_notes": [
+        "Brand only from 'SALISBURY by Honeywell' logo on card; item names do not mention it.",
+        "Variants are kits (hood/helmet/garments/bag) per photos; no part numbers printed."
+      ]
+    },
+    {
+      "source_page": 47,
+      "category_slug": "fire-protection",
+      "name": "CO2",
+      "sku": null,
+      "brand": "SERVVO",
+      "brand_source": "text",
+      "short_description": null,
+      "description": null,
+      "attributes": {},
+      "variants": [],
+      "image_hint": "top-left card (trolley + portable CO2 units)",
+      "review_notes": [
+        "Brand 'SERVVO' from page header text 'APAR - SERVVO'; SERVVO logo on card.",
+        "Name printed as a bare type label; page header is 'APAR - SERVVO' (APAR = fire extinguisher). Admin may want e.g. 'APAR SERVVO CO2'.",
+        "No specs/capacities printed; photos show several sizes (trolley and portable units)."
+      ]
+    },
+    {
+      "source_page": 47,
+      "category_slug": "fire-protection",
+      "name": "FOAM",
+      "sku": null,
+      "brand": "SERVVO",
+      "brand_source": "text",
+      "short_description": null,
+      "description": null,
+      "attributes": {},
+      "variants": [],
+      "image_hint": "top-middle card (two trolley units + portable)",
+      "review_notes": [
+        "Brand 'SERVVO' from page header text 'APAR - SERVVO'; SERVVO logo on card.",
+        "Name printed as a bare type label; page header is 'APAR - SERVVO' (APAR = fire extinguisher). Admin may want e.g. 'APAR SERVVO FOAM'.",
+        "No specs/capacities printed; photos show several sizes (trolley and portable units)."
+      ]
+    },
+    {
+      "source_page": 47,
+      "category_slug": "fire-protection",
+      "name": "FIRE TUBING",
+      "sku": null,
+      "brand": "SERVVO",
+      "brand_source": "text",
+      "short_description": null,
+      "description": null,
+      "attributes": {},
+      "variants": [],
+      "image_hint": "top-right card (two cylinders with red tubing)",
+      "review_notes": [
+        "Brand 'SERVVO' from page header text 'APAR - SERVVO'; SERVVO logo on card.",
+        "Name printed as a bare type label; page header is 'APAR - SERVVO' (APAR = fire extinguisher). Admin may want e.g. 'APAR SERVVO FIRE TUBING'.",
+        "No specs/capacities printed; photos show several sizes (trolley and portable units)."
+      ]
+    },
+    {
+      "source_page": 47,
+      "category_slug": "fire-protection",
+      "name": "SV-5",
+      "sku": null,
+      "brand": "SERVVO",
+      "brand_source": "text",
+      "short_description": null,
+      "description": null,
+      "attributes": {},
+      "variants": [],
+      "image_hint": "bottom-left card (two trolley units + two portable)",
+      "review_notes": [
+        "Brand 'SERVVO' from page header text 'APAR - SERVVO'; SERVVO logo on card.",
+        "Name printed as a bare type label; page header is 'APAR - SERVVO' (APAR = fire extinguisher). Admin may want e.g. 'APAR SERVVO SV-5'.",
+        "No specs/capacities printed; photos show several sizes (trolley and portable units)."
+      ]
+    },
+    {
+      "source_page": 47,
+      "category_slug": "fire-protection",
+      "name": "POWDER ABC",
+      "sku": null,
+      "brand": "SERVVO",
+      "brand_source": "text",
+      "short_description": null,
+      "description": null,
+      "attributes": {},
+      "variants": [],
+      "image_hint": "bottom-right card (large wheeled unit, trolley unit, portable)",
+      "review_notes": [
+        "Brand 'SERVVO' from page header text 'APAR - SERVVO'; SERVVO logo on card.",
+        "Name printed as a bare type label; page header is 'APAR - SERVVO' (APAR = fire extinguisher). Admin may want e.g. 'APAR SERVVO POWDER ABC'.",
+        "No specs/capacities printed; photos show several sizes (trolley and portable units)."
+      ]
+    },
+    {
+      "source_page": 48,
+      "category_slug": "fire-protection",
+      "name": "APAR Box",
+      "sku": null,
+      "brand": null,
+      "brand_source": null,
+      "short_description": null,
+      "description": null,
+      "attributes": {},
+      "variants": [],
+      "image_hint": "top row, card 1 (two red cabinets with glass doors)",
+      "review_notes": [
+        "Card shows a 'PT TAHTA KASIH KARUNIA' logo (another company, the same one as the hidden foreign text) - not treated as a brand."
+      ]
+    },
+    {
+      "source_page": 48,
+      "category_slug": "fire-protection",
+      "name": "Standing Hydrant Box",
+      "sku": null,
+      "brand": null,
+      "brand_source": null,
+      "short_description": null,
+      "description": null,
+      "attributes": {},
+      "variants": [],
+      "image_hint": "top row, card 2 (two wall hydrant boxes)",
+      "review_notes": [
+        "Card shows a 'PT TAHTA KASIH KARUNIA' logo (another company, the same one as the hidden foreign text) - not treated as a brand.",
+        "Title 'Standing Hydrant Box' is printed on two different cards on this page (top row card 2 and middle row card 2); names not unique - admin should disambiguate."
+      ]
+    },
+    {
+      "source_page": 48,
+      "category_slug": "fire-protection",
+      "name": "Stair Evacuation Chair Stretcher",
+      "sku": null,
+      "brand": "Anben Fire",
+      "brand_source": "logo",
+      "short_description": null,
+      "description": null,
+      "attributes": {},
+      "variants": [],
+      "image_hint": "top row, card 3 (orange evacuation chair)",
+      "review_notes": [
+        "Brand from 'ANBEN FIRE' logo on card.",
+        "Page groups stretchers/first aid under Fire Protection; could alternatively fit rescue-equipment."
+      ]
+    },
+    {
+      "source_page": 48,
+      "category_slug": "fire-protection",
+      "name": "Fire Escape Ladders Nylon",
+      "sku": null,
+      "brand": "Anben Fire",
+      "brand_source": "logo",
+      "short_description": null,
+      "description": null,
+      "attributes": {},
+      "variants": [],
+      "image_hint": "top row, card 4 (white/yellow rope ladder with hooks)",
+      "review_notes": [
+        "Brand from 'ANBEN FIRE' logo on card."
+      ]
+    },
+    {
+      "source_page": 48,
+      "category_slug": "fire-protection",
+      "name": "Fire Trolley",
+      "sku": null,
+      "brand": null,
+      "brand_source": null,
+      "short_description": null,
+      "description": null,
+      "attributes": {},
+      "variants": [],
+      "image_hint": "middle row, card 1 (red cabinet on wheels labelled FIRE TROLLEY)",
+      "review_notes": [
+        "Card shows a 'PT TAHTA KASIH KARUNIA' logo (another company, the same one as the hidden foreign text) - not treated as a brand."
+      ]
+    },
+    {
+      "source_page": 48,
+      "category_slug": "fire-protection",
+      "name": "Standing Hydrant Box",
+      "sku": null,
+      "brand": null,
+      "brand_source": null,
+      "short_description": null,
+      "description": null,
+      "attributes": {},
+      "variants": [],
+      "image_hint": "middle row, card 2 (three free-standing hydrant cabinets on legs)",
+      "review_notes": [
+        "Card shows a 'PT TAHTA KASIH KARUNIA' logo (another company, the same one as the hidden foreign text) - not treated as a brand.",
+        "Second card titled 'Standing Hydrant Box' (see top row card 2); names not unique."
+      ]
+    },
+    {
+      "source_page": 48,
+      "category_slug": "fire-protection",
+      "name": "Head Immobilizer RC-G1",
+      "sku": null,
+      "brand": null,
+      "brand_source": null,
+      "short_description": null,
+      "description": null,
+      "attributes": {},
+      "variants": [],
+      "image_hint": "middle row, card 3 (red head immobilizer)",
+      "review_notes": [
+        "Card shows a 'PT TAHTA KASIH KARUNIA' logo (another company, the same one as the hidden foreign text) - not treated as a brand.",
+        "'RC-G1' is a model designation in the name, not labelled as a code; sku=null.",
+        "Could alternatively fit rescue-equipment."
+      ]
+    },
+    {
+      "source_page": 48,
+      "category_slug": "fire-protection",
+      "name": "Fire Escape Ladders Alumunium Alloy",
+      "sku": null,
+      "brand": "Anben Fire",
+      "brand_source": "logo",
+      "short_description": null,
+      "description": null,
+      "attributes": {},
+      "variants": [],
+      "image_hint": "middle row, card 4 (folded aluminium ladder)",
+      "review_notes": [
+        "Brand from 'ANBEN FIRE' logo on card.",
+        "'Alumunium' kept as printed (common Indonesian spelling of 'Aluminium')."
+      ]
+    },
+    {
+      "source_page": 48,
+      "category_slug": "fire-protection",
+      "name": "Fire Blanket",
+      "sku": null,
+      "brand": null,
+      "brand_source": null,
+      "short_description": null,
+      "description": null,
+      "attributes": {
+        "Varian": [
+          "1.8 x 1.8 m",
+          "1.2 x 1.2 m",
+          "1.0 x 1.0 m",
+          "1.2 x 1.8 m"
+        ],
+        "Material": "Glass Fabric"
+      },
+      "variants": [
+        {
+          "name": "Fire Blanket 1.8 x 1.8 m",
+          "sku": null,
+          "attributes": {
+            "Varian": "1.8 x 1.8 m"
+          }
+        },
+        {
+          "name": "Fire Blanket 1.2 x 1.2 m",
+          "sku": null,
+          "attributes": {
+            "Varian": "1.2 x 1.2 m"
+          }
+        },
+        {
+          "name": "Fire Blanket 1.0 x 1.0 m",
+          "sku": null,
+          "attributes": {
+            "Varian": "1.0 x 1.0 m"
+          }
+        },
+        {
+          "name": "Fire Blanket 1.2 x 1.8 m",
+          "sku": null,
+          "attributes": {
+            "Varian": "1.2 x 1.8 m"
+          }
+        }
+      ],
+      "image_hint": "bottom row, card 1 (red fire blanket pouch)",
+      "review_notes": [
+        "Card shows a 'PT TAHTA KASIH KARUNIA' logo (another company, the same one as the hidden foreign text) - not treated as a brand.",
+        "Product photo packaging reads 'FireFix' - possible brand, not set (not a catalog logo/text)."
+      ]
+    },
+    {
+      "source_page": 48,
+      "category_slug": "fire-protection",
+      "name": "Fire Blanket Roll",
+      "sku": null,
+      "brand": null,
+      "brand_source": null,
+      "short_description": null,
+      "description": null,
+      "attributes": {
+        "Size (m)": "1x50",
+        "Material": "Fiberglass",
+        "Temperature Resistance (°C)": "550",
+        "Berat (Kg)": "39kg"
+      },
+      "variants": [],
+      "image_hint": "bottom row, card 2 (beige fabric roll)",
+      "review_notes": [
+        "Card shows a 'PT TAHTA KASIH KARUNIA' logo (another company, the same one as the hidden foreign text) - not treated as a brand.",
+        "Layout glitch: printed as 'Material / Fiberglass Temperature / Resistance (°C) / 550'; interpreted as Material = Fiberglass and Temperature Resistance (°C) = 550 - verify."
+      ]
+    },
+    {
+      "source_page": 48,
+      "category_slug": "fire-protection",
+      "name": "Basket Stretcher",
+      "sku": null,
+      "brand": null,
+      "brand_source": null,
+      "short_description": null,
+      "description": null,
+      "attributes": {},
+      "variants": [],
+      "image_hint": "bottom row, card 3 (orange basket stretchers with lifting slings)",
+      "review_notes": [
+        "Card shows a 'PT TAHTA KASIH KARUNIA' logo (another company, the same one as the hidden foreign text) - not treated as a brand.",
+        "Could alternatively fit rescue-equipment."
+      ]
+    },
+    {
+      "source_page": 48,
+      "category_slug": "fire-protection",
+      "name": "Unicare RC-E7",
+      "sku": null,
+      "brand": "Unicare",
+      "brand_source": "text",
+      "short_description": null,
+      "description": null,
+      "attributes": {},
+      "variants": [],
+      "image_hint": "bottom row, card 4 (orange roll-up stretcher)",
+      "review_notes": [
+        "Card shows a 'PT TAHTA KASIH KARUNIA' logo (another company, the same one as the hidden foreign text) - not treated as a brand.",
+        "Name is only brand + model; product type not printed (photo shows an orange roll/flexible stretcher).",
+        "'RC-E7' is a model designation, not labelled as code; sku=null.",
+        "Could alternatively fit rescue-equipment."
+      ]
+    },
+    {
+      "source_page": 48,
+      "category_slug": "fire-protection",
+      "name": "Tandu Lipat 2, YDC 1 A10",
+      "sku": null,
+      "brand": null,
+      "brand_source": null,
+      "short_description": null,
+      "description": null,
+      "attributes": {},
+      "variants": [],
+      "image_hint": "bottom wide card, left (orange folding stretcher with bag)",
+      "review_notes": [
+        "Card shows a 'PT TAHTA KASIH KARUNIA' logo (another company, the same one as the hidden foreign text) - not treated as a brand.",
+        "'YDC 1 A10' is a model designation in the name, not labelled as code; sku=null.",
+        "Could alternatively fit rescue-equipment."
+      ]
+    },
+    {
+      "source_page": 48,
+      "category_slug": "fire-protection",
+      "name": "Long Spine, Board Stretcher, EC-E3",
+      "sku": null,
+      "brand": null,
+      "brand_source": null,
+      "short_description": null,
+      "description": null,
+      "attributes": {},
+      "variants": [],
+      "image_hint": "bottom wide card, right (orange spine board)",
+      "review_notes": [
+        "Card shows a 'PT TAHTA KASIH KARUNIA' logo (another company, the same one as the hidden foreign text) - not treated as a brand.",
+        "'EC-E3' is a model designation in the name, not labelled as code; sku=null.",
+        "Could alternatively fit rescue-equipment."
+      ]
+    },
+    {
+      "source_page": 49,
+      "category_slug": "fire-protection",
+      "name": "Fireman Helmet AB-B/A",
+      "sku": null,
+      "brand": null,
+      "brand_source": null,
+      "short_description": null,
+      "description": null,
+      "attributes": {},
+      "variants": [],
+      "image_hint": "top row, card 1 of 6 (red fireman helmet with visor and neck flap)",
+      "review_notes": [
+        "Card shows a 'PT TAHTA KASIH KARUNIA' logo (another company, the same one as the hidden foreign text) - not treated as a brand.",
+        "Model designation in name is not labelled as a code; sku=null."
+      ]
+    },
+    {
+      "source_page": 49,
+      "category_slug": "fire-protection",
+      "name": "Rescue Helmet F2",
+      "sku": null,
+      "brand": null,
+      "brand_source": null,
+      "short_description": null,
+      "description": null,
+      "attributes": {},
+      "variants": [],
+      "image_hint": "top row, card 2 of 6 (red rescue helmet)",
+      "review_notes": [
+        "Card shows a 'PT TAHTA KASIH KARUNIA' logo (another company, the same one as the hidden foreign text) - not treated as a brand.",
+        "Model designation in name is not labelled as a code; sku=null."
+      ]
+    },
+    {
+      "source_page": 49,
+      "category_slug": "fire-protection",
+      "name": "Emergency Eye Wash Vertical",
+      "sku": null,
+      "brand": null,
+      "brand_source": null,
+      "short_description": null,
+      "description": null,
+      "attributes": {},
+      "variants": [],
+      "image_hint": "top row, card 3 of 6 (pedestal eye wash station)",
+      "review_notes": [
+        "Card shows a 'PT TAHTA KASIH KARUNIA' logo (another company, the same one as the hidden foreign text) - not treated as a brand."
+      ]
+    },
+    {
+      "source_page": 49,
+      "category_slug": "fire-protection",
+      "name": "35KV High Voltage Fiberglass Insulating Rescue Hook",
+      "sku": null,
+      "brand": null,
+      "brand_source": null,
+      "short_description": null,
+      "description": null,
+      "attributes": {},
+      "variants": [],
+      "image_hint": "top row, card 4 of 6 (yellow fiberglass hook pole)",
+      "review_notes": [
+        "Card shows a 'PT TAHTA KASIH KARUNIA' logo (another company, the same one as the hidden foreign text) - not treated as a brand."
+      ]
+    },
+    {
+      "source_page": 49,
+      "category_slug": "fire-protection",
+      "name": "Fire Axe (Kapak Damkar)",
+      "sku": null,
+      "brand": null,
+      "brand_source": null,
+      "short_description": null,
+      "description": null,
+      "attributes": {},
+      "variants": [],
+      "image_hint": "top row, card 5 of 6 (red axe with wooden handle)",
+      "review_notes": [
+        "Card shows a 'PT TAHTA KASIH KARUNIA' logo (another company, the same one as the hidden foreign text) - not treated as a brand."
+      ]
+    },
+    {
+      "source_page": 49,
+      "category_slug": "fire-protection",
+      "name": "Safety Hammer Emergency Window Glass Breaking",
+      "sku": null,
+      "brand": null,
+      "brand_source": null,
+      "short_description": null,
+      "description": null,
+      "attributes": {},
+      "variants": [],
+      "image_hint": "top row, card 6 of 6 (two red safety hammers)",
+      "review_notes": [
+        "Card shows a 'PT TAHTA KASIH KARUNIA' logo (another company, the same one as the hidden foreign text) - not treated as a brand."
+      ]
+    },
+    {
+      "source_page": 49,
+      "category_slug": "fire-protection",
+      "name": "Fire Escape Mask Smoke Hood",
+      "sku": null,
+      "brand": null,
+      "brand_source": null,
+      "short_description": null,
+      "description": null,
+      "attributes": {},
+      "variants": [],
+      "image_hint": "middle row, card 1 of 6 (smoke hood with orange box)",
+      "review_notes": [
+        "Card shows a 'PT TAHTA KASIH KARUNIA' logo (another company, the same one as the hidden foreign text) - not treated as a brand."
+      ]
+    },
+    {
+      "source_page": 49,
+      "category_slug": "fire-protection",
+      "name": "Full Face Mask Double Respirator",
+      "sku": null,
+      "brand": null,
+      "brand_source": null,
+      "short_description": null,
+      "description": null,
+      "attributes": {},
+      "variants": [],
+      "image_hint": "middle row, card 2 of 6 (full-face mask with two orange filters)",
+      "review_notes": [
+        "Card shows a 'PT TAHTA KASIH KARUNIA' logo (another company, the same one as the hidden foreign text) - not treated as a brand."
+      ]
+    },
+    {
+      "source_page": 49,
+      "category_slug": "fire-protection",
+      "name": "NFPA Standart Aluminized Fire Fighting Proximity Gloves",
+      "sku": null,
+      "brand": null,
+      "brand_source": null,
+      "short_description": null,
+      "description": null,
+      "attributes": {
+        "Standar / Sertifikasi": [
+          "NFPA"
+        ]
+      },
+      "variants": [],
+      "image_hint": "middle row, card 3 of 6 (aluminized gloves)",
+      "review_notes": [
+        "Card shows a 'PT TAHTA KASIH KARUNIA' logo (another company, the same one as the hidden foreign text) - not treated as a brand.",
+        "'NFPA' taken from the product name (no further standard number printed).",
+        "'Standart' kept as printed (Indonesian spelling; English 'Standard')."
+      ]
+    },
+    {
+      "source_page": 49,
+      "category_slug": "fire-protection",
+      "name": "Aluminium Heat Resistant Gloves 1000C",
+      "sku": null,
+      "brand": null,
+      "brand_source": null,
+      "short_description": null,
+      "description": null,
+      "attributes": {},
+      "variants": [],
+      "image_hint": "middle row, card 4 of 6 (aluminized/green long gloves)",
+      "review_notes": [
+        "Card shows a 'PT TAHTA KASIH KARUNIA' logo (another company, the same one as the hidden foreign text) - not treated as a brand."
+      ]
+    },
+    {
+      "source_page": 49,
+      "category_slug": "fire-protection",
+      "name": "Aluminium Heat Resistant Gloves 500C",
+      "sku": null,
+      "brand": null,
+      "brand_source": null,
+      "short_description": null,
+      "description": null,
+      "attributes": {},
+      "variants": [],
+      "image_hint": "middle row, card 5 of 6 (aluminized/cream gloves)",
+      "review_notes": [
+        "Card shows a 'PT TAHTA KASIH KARUNIA' logo (another company, the same one as the hidden foreign text) - not treated as a brand."
+      ]
+    },
+    {
+      "source_page": 49,
+      "category_slug": "fire-protection",
+      "name": "Long Leather Fireman Gloves",
+      "sku": null,
+      "brand": null,
+      "brand_source": null,
+      "short_description": null,
+      "description": null,
+      "attributes": {},
+      "variants": [],
+      "image_hint": "middle row, card 6 of 6 (black long gloves with reflective band)",
+      "review_notes": [
+        "Card shows a 'PT TAHTA KASIH KARUNIA' logo (another company, the same one as the hidden foreign text) - not treated as a brand."
+      ]
+    },
+    {
+      "source_page": 49,
+      "category_slug": "fire-protection",
+      "name": "Fire Safety Goggle RHM-180",
+      "sku": null,
+      "brand": null,
+      "brand_source": null,
+      "short_description": null,
+      "description": null,
+      "attributes": {},
+      "variants": [],
+      "image_hint": "bottom row, card 1 of 6 (goggles with lenses and camo case)",
+      "review_notes": [
+        "Card shows a 'PT TAHTA KASIH KARUNIA' logo (another company, the same one as the hidden foreign text) - not treated as a brand.",
+        "Model designation in name is not labelled as a code; sku=null.",
+        "Name printed with a line break 'RHM-' / '180'; joined as 'RHM-180'."
+      ]
+    },
+    {
+      "source_page": 49,
+      "category_slug": "fire-protection",
+      "name": "Emergency Eye Wash Portable",
+      "sku": null,
+      "brand": null,
+      "brand_source": null,
+      "short_description": null,
+      "description": null,
+      "attributes": {},
+      "variants": [],
+      "image_hint": "bottom row, card 2 of 6 (teal portable eye wash tank)",
+      "review_notes": [
+        "Card shows a 'PT TAHTA KASIH KARUNIA' logo (another company, the same one as the hidden foreign text) - not treated as a brand.",
+        "Product photo shows 'UNICARE' on the unit - possible brand, not set (not a catalog logo/text)."
+      ]
+    },
+    {
+      "source_page": 49,
+      "category_slug": "fire-protection",
+      "name": "Fireman Gloves JJFX",
+      "sku": null,
+      "brand": null,
+      "brand_source": null,
+      "short_description": null,
+      "description": null,
+      "attributes": {},
+      "variants": [],
+      "image_hint": "bottom row, card 3 of 6 (beige gloves with reflective band)",
+      "review_notes": [
+        "Card shows a 'PT TAHTA KASIH KARUNIA' logo (another company, the same one as the hidden foreign text) - not treated as a brand.",
+        "Model designation in name is not labelled as a code; sku=null."
+      ]
+    },
+    {
+      "source_page": 49,
+      "category_slug": "fire-protection",
+      "name": "Leather Kevlar Firefighter Gloves",
+      "sku": null,
+      "brand": null,
+      "brand_source": null,
+      "short_description": null,
+      "description": null,
+      "attributes": {},
+      "variants": [],
+      "image_hint": "bottom row, card 4 of 6 (black/yellow gloves)",
+      "review_notes": [
+        "Card shows a 'PT TAHTA KASIH KARUNIA' logo (another company, the same one as the hidden foreign text) - not treated as a brand."
+      ]
+    },
+    {
+      "source_page": 49,
+      "category_slug": "fire-protection",
+      "name": "NFPA Leather Fire Fighter Gloves",
+      "sku": null,
+      "brand": null,
+      "brand_source": null,
+      "short_description": null,
+      "description": null,
+      "attributes": {
+        "Standar / Sertifikasi": [
+          "NFPA"
+        ]
+      },
+      "variants": [],
+      "image_hint": "bottom row, card 5 of 6 (tan/black gloves)",
+      "review_notes": [
+        "Card shows a 'PT TAHTA KASIH KARUNIA' logo (another company, the same one as the hidden foreign text) - not treated as a brand.",
+        "'NFPA' taken from the product name (no further standard number printed)."
+      ]
+    },
+    {
+      "source_page": 49,
+      "category_slug": "fire-protection",
+      "name": "Coval Flame Firefighter Gloves",
+      "sku": null,
+      "brand": null,
+      "brand_source": null,
+      "short_description": null,
+      "description": null,
+      "attributes": {},
+      "variants": [],
+      "image_hint": "bottom row, card 6 of 6 (tan/orange gloves)",
+      "review_notes": [
+        "Card shows a 'PT TAHTA KASIH KARUNIA' logo (another company, the same one as the hidden foreign text) - not treated as a brand."
+      ]
+    },
+    {
+      "source_page": 50,
+      "category_slug": "traffic-control",
+      "name": "Safety Vest",
+      "sku": null,
+      "brand": null,
+      "brand_source": null,
+      "short_description": null,
+      "description": null,
+      "attributes": {},
+      "variants": [],
+      "image_hint": "top row, card 1 (mesh vests in many colours)",
+      "review_notes": [
+        "Card shows a 'PT TAHTA KASIH KARUNIA' logo (another company, the same one as the hidden foreign text) - not treated as a brand.",
+        "Three different cards on this page are all titled 'Safety Vest' (top row cards 1-3); names not unique - admin should disambiguate.",
+        "Photo shows many colours but no colour list printed."
+      ]
+    },
+    {
+      "source_page": 50,
+      "category_slug": "traffic-control",
+      "name": "Safety Vest",
+      "sku": null,
+      "brand": null,
+      "brand_source": null,
+      "short_description": null,
+      "description": null,
+      "attributes": {},
+      "variants": [],
+      "image_hint": "top row, card 2 (reflective strap/harness-style vests in several colours)",
+      "review_notes": [
+        "Card shows a 'PT TAHTA KASIH KARUNIA' logo (another company, the same one as the hidden foreign text) - not treated as a brand.",
+        "Second of three 'Safety Vest' cards; names not unique."
+      ]
+    },
+    {
+      "source_page": 50,
+      "category_slug": "traffic-control",
+      "name": "Safety Vest",
+      "sku": null,
+      "brand": null,
+      "brand_source": null,
+      "short_description": null,
+      "description": null,
+      "attributes": {},
+      "variants": [],
+      "image_hint": "top row, card 3 (yellow and orange vests, incl. V-shape)",
+      "review_notes": [
+        "Card shows a 'PT TAHTA KASIH KARUNIA' logo (another company, the same one as the hidden foreign text) - not treated as a brand.",
+        "Third of three 'Safety Vest' cards; names not unique."
+      ]
+    },
+    {
+      "source_page": 50,
+      "category_slug": "traffic-control",
+      "name": "Stick Cone / Safety Cone Traffic",
+      "sku": null,
+      "brand": null,
+      "brand_source": null,
+      "short_description": null,
+      "description": null,
+      "attributes": {},
+      "variants": [],
+      "image_hint": "top row, card 4 (orange delineator post + cones)",
+      "review_notes": [
+        "Card shows a 'PT TAHTA KASIH KARUNIA' logo (another company, the same one as the hidden foreign text) - not treated as a brand."
+      ]
+    },
+    {
+      "source_page": 50,
+      "category_slug": "traffic-control",
+      "name": "Defenders-X Traffic Cone HDPE",
+      "sku": null,
+      "brand": "Defenders-X",
+      "brand_source": "text",
+      "short_description": null,
+      "description": null,
+      "attributes": {},
+      "variants": [],
+      "image_hint": "middle row, card 1 (orange/white cone with black base)",
+      "review_notes": [
+        "Brand 'Defenders-X' printed in name; DEFENDERS-X logo on card."
+      ]
+    },
+    {
+      "source_page": 50,
+      "category_slug": "traffic-control",
+      "name": "Plastic Chain Cone Connector",
+      "sku": null,
+      "brand": "Defenders-X",
+      "brand_source": "logo",
+      "short_description": null,
+      "description": null,
+      "attributes": {},
+      "variants": [],
+      "image_hint": "middle row, card 2 (yellow plastic chain reel)",
+      "review_notes": [
+        "Brand from DEFENDERS-X logo on card."
+      ]
+    },
+    {
+      "source_page": 50,
+      "category_slug": "traffic-control",
+      "name": "Reflective Nylon Cord (Glow In The Dark)",
+      "sku": null,
+      "brand": "Defenders-X",
+      "brand_source": "logo",
+      "short_description": null,
+      "description": null,
+      "attributes": {},
+      "variants": [],
+      "image_hint": "middle row, card 3 (glow cord on reel)",
+      "review_notes": [
+        "Brand from DEFENDERS-X logo on card."
+      ]
+    },
+    {
+      "source_page": 50,
+      "category_slug": "traffic-control",
+      "name": "Cone Chain Ring Connector",
+      "sku": null,
+      "brand": "Defenders-X",
+      "brand_source": "logo",
+      "short_description": null,
+      "description": null,
+      "attributes": {},
+      "variants": [],
+      "image_hint": "middle row, card 4 (orange ring for cone top)",
+      "review_notes": [
+        "Brand from DEFENDERS-X logo on card."
+      ]
+    },
+    {
+      "source_page": 50,
+      "category_slug": "traffic-control",
+      "name": "Cone Bar Pole",
+      "sku": null,
+      "brand": null,
+      "brand_source": null,
+      "short_description": null,
+      "description": null,
+      "attributes": {},
+      "variants": [],
+      "image_hint": "bottom row, card 1 (cones with bar poles)",
+      "review_notes": [
+        "Card shows a 'PT TAHTA KASIH KARUNIA' logo (another company, the same one as the hidden foreign text) - not treated as a brand."
+      ]
+    },
+    {
+      "source_page": 50,
+      "category_slug": "traffic-control",
+      "name": "Convex Mirror",
+      "sku": null,
+      "brand": null,
+      "brand_source": null,
+      "short_description": null,
+      "description": null,
+      "attributes": {},
+      "variants": [],
+      "image_hint": "bottom row, card 2 (round convex mirror)",
+      "review_notes": [
+        "Card shows a 'PT TAHTA KASIH KARUNIA' logo (another company, the same one as the hidden foreign text) - not treated as a brand."
+      ]
+    },
+    {
+      "source_page": 50,
+      "category_slug": "traffic-control",
+      "name": "Cone Chain",
+      "sku": null,
+      "brand": null,
+      "brand_source": null,
+      "short_description": null,
+      "description": null,
+      "attributes": {},
+      "variants": [],
+      "image_hint": "bottom row, card 3 (plastic chains, cones and connectors)",
+      "review_notes": [
+        "Card shows a 'PT TAHTA KASIH KARUNIA' logo (another company, the same one as the hidden foreign text) - not treated as a brand."
+      ]
+    },
+    {
+      "source_page": 50,
+      "category_slug": "traffic-control",
+      "name": "Police Line Tape",
+      "sku": null,
+      "brand": null,
+      "brand_source": null,
+      "short_description": null,
+      "description": null,
+      "attributes": {},
+      "variants": [],
+      "image_hint": "bottom row, card 4 (red/white and yellow/black tape rolls)",
+      "review_notes": [
+        "Card shows a 'PT TAHTA KASIH KARUNIA' logo (another company, the same one as the hidden foreign text) - not treated as a brand."
+      ]
+    }
+  ],
+  "page_notes": {
+    "38": "ESNICO spill containment pallets (6 cards). Product codes are printed in parentheses in titles without a label.",
+    "39": "CRC aerosol cleaners (6) and FAMIGO FS-101 acid mist suppressant (1).",
+    "40": "Single Superex whipcheck product with 4 labelled photo variants; page header category 'ELECTRICAL EQUIPMENT'.",
+    "41": "Frenzelit sealing products; page section label 'SEALING & ISOLATION EQUIPMENT' (mapped to electrical-equipment per brief). Header typo 'INSULATON' as printed.",
+    "42": "Sumi Indo Kabel cables (7). Header typo 'RESTISTANT' as printed. Some spec lines may be shared across cards (see notes).",
+    "43": "Gemmecotti pump series (4).",
+    "44": "Equipment bags (3).",
+    "45": "15 Defenders-X safety apparel cards with no specs; several duplicate titles with different designs.",
+    "46": "Salisbury arc flash garments (5 groups with item lists as variants).",
+    "47": "SERVVO fire extinguishers (APAR), 5 type cards, no specs.",
+    "48": "Hydrant/APAR boxes, fire blankets, ladders, stretchers (14 cards). Most cards carry a 'PT TAHTA KASIH KARUNIA' logo (another company) - not used as brand.",
+    "49": "18 fire-fighting accessory cards, names only; all carry 'PT TAHTA KASIH KARUNIA' logo.",
+    "50": "Traffic control (12 cards); top/bottom rows carry 'PT TAHTA KASIH KARUNIA' logo, middle row DEFENDERS-X logo."
+  }
+}

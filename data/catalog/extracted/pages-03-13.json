@@ -1,0 +1,1590 @@
+{
+  "pages": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13
+  ],
+  "products": [
+    {
+      "source_page": 3,
+      "category_slug": "field-uniform-activewear",
+      "name": "PDL Tangan Panjang",
+      "sku": "001",
+      "brand": null,
+      "brand_source": null,
+      "short_description": "Kemeja rescue • reflective",
+      "description": null,
+      "attributes": {},
+      "variants": [],
+      "image_hint": "left card (front and back view on mannequin)",
+      "review_notes": [
+        "SKU '001' is reused by several different products in the catalog (PDL Tangan Panjang, Celana PDL, Coverall, HV Safety Vest) - not unique",
+        "Title printed as 'PDL Tangan Panjang SKU 001'; SKU split out of the name"
+      ]
+    },
+    {
+      "source_page": 3,
+      "category_slug": "field-uniform-activewear",
+      "name": "PDL Tangan Pendek",
+      "sku": "016",
+      "brand": null,
+      "brand_source": null,
+      "short_description": "Kemeja lapangan • lengan pendek",
+      "description": null,
+      "attributes": {},
+      "variants": [],
+      "image_hint": "right card (front and back flat view)",
+      "review_notes": [
+        "Title printed as 'PDL Tangan Pendek SKU 016'; SKU split out of the name",
+        "Trustone logo on the garment is the distributor logo, brand left null"
+      ]
+    },
+    {
+      "source_page": 4,
+      "category_slug": "field-uniform-activewear",
+      "name": "Celana PDL",
+      "sku": "001",
+      "brand": null,
+      "brand_source": null,
+      "short_description": "Celana kerja lapangan",
+      "description": null,
+      "attributes": {},
+      "variants": [],
+      "image_hint": "top-left card (section FIELD UNIFORM)",
+      "review_notes": [
+        "SKU '001' is reused by several different products in the catalog (PDL Tangan Panjang, Celana PDL, Coverall, HV Safety Vest) - not unique",
+        "Title printed as 'Celana PDL SKU 001'; SKU split out of the name"
+      ]
+    },
+    {
+      "source_page": 4,
+      "category_slug": "field-uniform-activewear",
+      "name": "T-Shirt Dryfit Set In Tangan Panjang",
+      "sku": null,
+      "brand": null,
+      "brand_source": null,
+      "short_description": "Bahan quick-dry • lengan panjang",
+      "description": null,
+      "attributes": {},
+      "variants": [],
+      "image_hint": "top-middle card (section ACTIVE WEAR)",
+      "review_notes": [
+        "Category chosen per item: section label ACTIVE WEAR on mixed page 4"
+      ]
+    },
+    {
+      "source_page": 4,
+      "category_slug": "rescue-protective-wear",
+      "name": "Tactical Rescue Shirt Cotton & Ripstop",
+      "sku": "008",
+      "brand": null,
+      "brand_source": null,
+      "short_description": "Tactical rescue shirt • SKU 008",
+      "description": null,
+      "attributes": {},
+      "variants": [],
+      "image_hint": "top-right card (section TACTICAL / RESCUE)",
+      "review_notes": [
+        "SKU taken from the subtitle 'Tactical rescue shirt • SKU 008'",
+        "Category chosen per item: section label TACTICAL / RESCUE on mixed page 4"
+      ]
+    },
+    {
+      "source_page": 4,
+      "category_slug": "rescue-protective-wear",
+      "name": "Coverall",
+      "sku": "001",
+      "brand": null,
+      "brand_source": null,
+      "short_description": "Coverall kerja • SKU 001",
+      "description": null,
+      "attributes": {},
+      "variants": [],
+      "image_hint": "bottom-left card (section PROTECTIVE WEAR)",
+      "review_notes": [
+        "SKU '001' is reused by several different products in the catalog (PDL Tangan Panjang, Celana PDL, Coverall, HV Safety Vest) - not unique",
+        "Title printed as 'Coverall SKU 001'; SKU split out of the name",
+        "Category chosen per item: section label PROTECTIVE WEAR on mixed page 4"
+      ]
+    },
+    {
+      "source_page": 4,
+      "category_slug": "rescue-protective-wear",
+      "name": "Fire Fighter Jacket",
+      "sku": null,
+      "brand": null,
+      "brand_source": null,
+      "short_description": "Nomex® 3A • 3M reflective",
+      "description": null,
+      "attributes": {},
+      "variants": [],
+      "image_hint": "bottom-middle card (section FIRE PROTECTION)",
+      "review_notes": [
+        "Subtitle discrepancy: the visible card image reads 'Nomex® 3A • 3M reflective' but the PDF text layer behind it reads 'Nomex IIIA • 3M reflective'. Visible version used - please confirm",
+        "Section label FIRE PROTECTION; kept in rescue-protective-wear (the fire-protection slug is for equipment pages 47-49) - admin may reassign",
+        "'Nomex' / '3M' refer to material and reflective tape, not the jacket brand; brand left null"
+      ]
+    },
+    {
+      "source_page": 4,
+      "category_slug": "rescue-protective-wear",
+      "name": "HV Safety Vest",
+      "sku": "001",
+      "brand": null,
+      "brand_source": null,
+      "short_description": "Rompi keselamatan • SKU 001",
+      "description": null,
+      "attributes": {},
+      "variants": [],
+      "image_hint": "bottom-right card (section HIGH VISIBILITY)",
+      "review_notes": [
+        "SKU '001' is reused by several different products in the catalog (PDL Tangan Panjang, Celana PDL, Coverall, HV Safety Vest) - not unique",
+        "Title printed as 'HV Safety Vest SKU 001'; SKU split out of the name",
+        "Section label HIGH VISIBILITY; assigned to rescue-protective-wear per page 4 mapping"
+      ]
+    },
+    {
+      "source_page": 5,
+      "category_slug": "drone-pemadam-kebakaran",
+      "name": "Drone Pemantauan",
+      "sku": null,
+      "brand": null,
+      "brand_source": null,
+      "short_description": "Solusi pemantauan udara real-time untuk meningkatkan keselamatan, efisiensi, dan kontrol operasional.",
+      "description": "KELEBIHAN UTAMA\n• Jangkauan luas & presisi tinggi\n• Deteksi panas dengan kamera thermal\n• Pencarian & penyelamatan (SAR)\n• Inspeksi objek dari jarak jauh\nFUNGSI OPERASIONAL\n• Pemantauan area dan potensi kebakaran\n• Deteksi titik panas dan perubahan suhu\n• Dokumentasi udara untuk inspeksi & pelaporan\n• Pemantauan kondisi malam hari (infrared)",
+      "attributes": {
+        "Kamera Visual": "4K / CMOS",
+        "Zoom Optik": "20x"
+      },
+      "variants": [],
+      "image_hint": "top half of the page-wide package graphic (left: title, centre: drone with camera screen)",
+      "review_notes": [
+        "Page 5 is a single image of the 'Drone Pemadam Kebakaran' package; all strings read from the image (no text layer)",
+        "Part of a package (monitoring drone + firefighting drone + fire truck integration, generator, accessories)",
+        "Camera overlay text is very small/blurry: 'Zoom Optik 20x' is a best reading; 'Kamera Termal' value (?x512) and 'Pengukur Suhu' range (approx. -20~550°C) are illegible and were NOT recorded",
+        "Drone model/brand not printed for the monitoring drone; brand left null"
+      ]
+    },
+    {
+      "source_page": 5,
+      "category_slug": "drone-pemadam-kebakaran",
+      "name": "Drone Pemadam Kebakaran",
+      "sku": null,
+      "brand": "DJI",
+      "brand_source": "text",
+      "short_description": "Sistem pemadaman api dari udara dengan kapasitas besar, respon cepat, dan integrasi operasional yang lengkap.",
+      "description": "KEUNGGULAN OPERASIONAL\n• Respon cepat di area sulit\n• Menjangkau titik api dengan aman\n• Sistem terintegrasi: drone – fire truck – generator\n• Efisien, fleksibel, dan siap operasi",
+      "attributes": {
+        "Kapasitas tangki penyemprotan": "100 Liter",
+        "Payload pengangkatan": "100 Kg",
+        "Kecepatan operasional maksimum": "20 m/s (72 km/jam)",
+        "Debit penyemprotan nozzle standard": "60 Liter/menit"
+      },
+      "variants": [],
+      "image_hint": "bottom half of the page-wide package graphic (drone over forest fire, fire truck)",
+      "review_notes": [
+        "Page 5 is a single image of the 'Drone Pemadam Kebakaran' package; all strings read from the image (no text layer)",
+        "Brand/model taken from the page subtitle 'Paket terintegrasi: pemantauan udara + firefighting DJI Agras T100' - the model DJI Agras T100 is not printed next to the drone itself; please confirm",
+        "Attributes come from the 'SPESIFIKASI UTAMA' box"
+      ]
+    },
+    {
+      "source_page": 5,
+      "category_slug": "drone-pemadam-kebakaran",
+      "name": "Integrasi Fire Truck",
+      "sku": null,
+      "brand": null,
+      "brand_source": null,
+      "short_description": "Nozzle machino carton & coupling machino",
+      "description": null,
+      "attributes": {},
+      "variants": [],
+      "image_hint": "bottom-left 'KAPASITAS OPERASI' strip, first box (fire truck icon)",
+      "review_notes": [
+        "Page 5 is a single image of the 'Drone Pemadam Kebakaran' package; all strings read from the image (no text layer)",
+        "Package sub-component listed under 'KAPASITAS OPERASI' of the firefighting drone package; created as its own item per brief - admin may merge into the drone package",
+        "'machino' kept as printed (possibly 'machine')"
+      ]
+    },
+    {
+      "source_page": 5,
+      "category_slug": "drone-pemadam-kebakaran",
+      "name": "Generator D14000iE",
+      "sku": null,
+      "brand": null,
+      "brand_source": null,
+      "short_description": "Sumber daya operasional lapangan",
+      "description": null,
+      "attributes": {},
+      "variants": [],
+      "image_hint": "bottom-left 'KAPASITAS OPERASI' strip, second box (generator icon)",
+      "review_notes": [
+        "Page 5 is a single image of the 'Drone Pemadam Kebakaran' package; all strings read from the image (no text layer)",
+        "Package sub-component listed under 'KAPASITAS OPERASI'; created as its own item per brief - admin may merge",
+        "Generator brand not printed"
+      ]
+    },
+    {
+      "source_page": 5,
+      "category_slug": "drone-pemadam-kebakaran",
+      "name": "Aksesori Pendukung",
+      "sku": null,
+      "brand": null,
+      "brand_source": null,
+      "short_description": null,
+      "description": "• Variabel head nozzle\n• Bracket & nozzle modification",
+      "attributes": {},
+      "variants": [],
+      "image_hint": "bottom-left 'KAPASITAS OPERASI' strip, third box (nozzle photo)",
+      "review_notes": [
+        "Page 5 is a single image of the 'Drone Pemadam Kebakaran' package; all strings read from the image (no text layer)",
+        "Package sub-component (accessories) listed under 'KAPASITAS OPERASI'; created as its own item per brief - admin may merge or rename"
+      ]
+    },
+    {
+      "source_page": 6,
+      "category_slug": "drone-pemadam-kebakaran",
+      "name": "LoRa Weather Station",
+      "sku": null,
+      "brand": null,
+      "brand_source": null,
+      "short_description": "Sistem Pemantauan Cuaca Terintegrasi",
+      "description": "Data cuaca real-time untuk mendukung pengelolaan lingkungan, operasional yang lebih aman, dan keputusan yang lebih tepat.\nSolusi monitoring cuaca untuk kawasan reklamasi dan operasional tambang.\n• Telemetri Jarak Jauh\n• Suhu Lingkungan\n• Kelembapan Udara\n• Tekanan Udara\n• Arah Angin\n• Kecepatan Angin\n• Curah Hujan\n• GNSS & Kompas\n• Tenaga Surya\n• Tangguh & Tahan Cuaca",
+      "attributes": {
+        "Kontrol & Telemetri": "LoRa Band: 915–928 MHz, Wi-Fi & Bluetooth LE terintegrasi",
+        "Kontrol & Telemetri — Akurasi & Resolusi": "Persyaratan antena 3 dB untuk jangkauan transmisi jarak jauh (LoS)",
+        "Suhu Lingkungan": "-40 °C hingga +85 °C",
+        "Suhu Lingkungan — Akurasi & Resolusi": "Akurasi: ±0,5 °C; Resolusi: 0,01 °C",
+        "Kelembapan (RH)": "0% hingga 100% RH",
+        "Kelembapan (RH) — Akurasi & Resolusi": "Akurasi: ±3% RH; Resolusi: 0,03% RH",
+        "Tekanan Udara": "300 hingga 1100 hPa",
+        "Tekanan Udara — Akurasi & Resolusi": "Akurasi: ±1,0 hPa; Resolusi: 0,18 Pa",
+        "Arah Angin (Direction)": "0° hingga 360° (Orientasi kontinu)",
+        "Arah Angin (Direction) — Akurasi & Resolusi": "Akurasi tipikal: ±1°; Resolusi: 12 bit (0,0879°/LSB)",
+        "Kecepatan Angin (Speed)": "0 hingga 30 m/s (±1–108 km/jam)",
+        "Kecepatan Angin (Speed) — Akurasi & Resolusi": "Tingkat akurasi: >95% (terkalibrasi); Pusat bearing: 62.832 lifetimedalam",
+        "Curah Hujan (Rain)": "Increment: 0 hingga 240 mm/jam",
+        "Curah Hujan (Rain) — Akurasi & Resolusi": "Resolusi: 0,03 mm/tip; Tingkat akurasi: ±3%",
+        "Posisi & Kompas": "Tracking hingga 32 satelit simultan; Kompas digital 3-axis (360°)",
+        "Posisi & Kompas — Akurasi & Resolusi": "Akurasi posisi: 1,5 m CEP; Arah magnetik: sesuai medan lingkungan",
+        "Sistem Daya (Power)": "Solar Panel: 10W (opsi daya lain: MPPT Charger; 4V 2A (Mode 12W); Baterai: 6.600 mAh (3,6 V, 66 Whs total)",
+        "Sistem Daya (Power) — Akurasi & Resolusi": "Mendukung siklus hibernasi topik; Catu daya berkelanjutan tanpa solder",
+        "Mekanikal & Proteksi": "Housing cetak 3D bahan ASA tahan UV & panas; Tiang mounting (opsi tiang 2 inci)",
+        "Mekanikal & Proteksi — Akurasi & Resolusi": "Outdoor ready; tahan paparan cuaca ekstrem & sinar UV jangka panjang"
+      },
+      "variants": [],
+      "image_hint": "full-page graphic: weather station mast with solar panel on the left, 'SPESIFIKASI TEKNIS' table on the right",
+      "review_notes": [
+        "typo fixed: 'LoRa Weather Sation' (page header) -> 'LoRa Weather Station' (the graphic itself reads 'WEATHER STATION')",
+        "Page 6 is image-only; all strings read from the image",
+        "Attributes come from the 'SPESIFIKASI TEKNIS' table: for each parameter, the 'Spesifikasi & Jangkauan Ukur' column is stored under the parameter name and the 'Akurasi & Resolusi' column under '<parameter> — Akurasi & Resolusi'",
+        "Some table values look garbled but are kept as printed: 'Pusat bearing: 62.832 lifetimedalam', '4V 2A (Mode 12W)', '66 Whs', 'siklus hibernasi topik'",
+        "Feature bullets in description are the icon labels along the bottom of the graphic",
+        "Category: default page mapping puts page 6 in drone-pemadam-kebakaran, but this is a weather station, not a drone - admin may want another category",
+        "Only the Trustone (distributor) logo appears; no product brand printed"
+      ]
+    },
+    {
+      "source_page": 7,
+      "category_slug": "manpack-surveillance",
+      "name": "Manpack Surveillance",
+      "sku": null,
+      "brand": null,
+      "brand_source": null,
+      "short_description": "Portable surveillance. Deploy anywhere.",
+      "description": "35L+ STORAGE • 25W SOLAR\n• Rapid deployment: dapat dibawa atau diterapkan saat dibutuhkan.\n• Remote connectivity: Starlink dengan opsi 4G/5G dan Wi-Fi.\n• Body camera: integrasi video live dari kamera tubuh.\n• Central monitoring: pantau perangkat lapangan secara terpusat.\n• 300Wh power station dan panel surya 25W.\n• AI-ready: untuk integrasi analitik AI.",
+      "attributes": {},
+      "variants": [
+        {
+          "name": "PRO",
+          "sku": null,
+          "attributes": {}
+        },
+        {
+          "name": "ADVANCED",
+          "sku": null,
+          "attributes": {}
+        },
+        {
+          "name": "ESSENTIAL",
+          "sku": null,
+          "attributes": {}
+        }
+      ],
+      "image_hint": "left half of the page graphic (rugged case stack with solar panel)",
+      "review_notes": [
+        "Page 7 is image-only; strings read from the image. Title printed in capitals 'MANPACK SURVEILLANCE'",
+        "Feature tiles have a bold heading and a sub-line; joined here with ': ' for readability",
+        "Variants PRO / ADVANCED / ESSENTIAL are listed in the graphic but their differences are not described",
+        "Only the Trustone (distributor) logo appears; no product brand printed"
+      ]
+    },
+    {
+      "source_page": 7,
+      "category_slug": "aegis-intelligence-pole",
+      "name": "Aegis Intelligence Pole",
+      "sku": null,
+      "brand": null,
+      "brand_source": null,
+      "short_description": "Surveillance mandiri untuk area industri dan lokasi terpencil.",
+      "description": "EDGE AI • REMOTE SITE SECURITY\n• Mast teleskopik 3,5 m.\n• CCTV, PTZ / IR / thermal.\n• Edge AI NVIDIA Jetson.\n• 4G/5G dan Starlink.\n• Solar + baterai LiFePO4.\n• Dashboard monitoring untuk pantauan berkelanjutan.",
+      "attributes": {
+        "Deteksi AI": [
+          "PPE",
+          "api/asap",
+          "people counting",
+          "LPR",
+          "perilaku"
+        ]
+      },
+      "variants": [],
+      "image_hint": "right half of the page graphic (telescopic camera mast on a cabinet with solar panels, mine site)",
+      "review_notes": [
+        "Page 7 is image-only; strings read from the image. Title printed in capitals 'AEGIS INTELLIGENCE POLE'",
+        "'NVIDIA Jetson' is a component, not the product brand",
+        "Only the Trustone (distributor) logo appears; no product brand printed"
+      ]
+    },
+    {
+      "source_page": 8,
+      "category_slug": "wipers-spill-control",
+      "name": "Wypall X50",
+      "sku": "65800",
+      "brand": "WypAll",
+      "brand_source": "text",
+      "short_description": null,
+      "description": null,
+      "attributes": {
+        "Kemasan": "Jumbo Roll",
+        "Warna": "Putih",
+        "Bahan": "Hydroknit",
+        "Dimensi": "25 x 25 cm",
+        "Isi": "800 Sheet",
+        "Pak / Karton": "1 Roll /Ctn"
+      },
+      "variants": [],
+      "image_hint": "top row, 1st card",
+      "review_notes": [
+        "Code 65800 is also printed for 'Microfibre Cloths Color Coded' on the same page - one of them is probably wrong"
+      ]
+    },
+    {
+      "source_page": 8,
+      "category_slug": "wipers-spill-control",
+      "name": "Wypall X60",
+      "sku": "93495",
+      "brand": "WypAll",
+      "brand_source": "text",
+      "short_description": null,
+      "description": null,
+      "attributes": {
+        "Kemasan": "Jumbo Roll",
+        "Warna": "Putih",
+        "Bahan": "Hydroknit",
+        "Dimensi": "31 x 34.5 cm",
+        "Isi": "900 Sheet",
+        "Pak / Karton": "1 Jumbo Roll /Ctn"
+      },
+      "variants": [],
+      "image_hint": "top row, 2nd card",
+      "review_notes": []
+    },
+    {
+      "source_page": 8,
+      "category_slug": "wipers-spill-control",
+      "name": "Wypall X70",
+      "sku": "95412",
+      "brand": "WypAll",
+      "brand_source": "text",
+      "short_description": null,
+      "description": null,
+      "attributes": {
+        "Kemasan": "1/4 Fold",
+        "Warna": "Putih",
+        "Bahan": "Hydroknit",
+        "Dimensi": "28 x 35 cm",
+        "Isi": "90 Sheet",
+        "Pak / Karton": "8 Pack /Ctn"
+      },
+      "variants": [],
+      "image_hint": "top row, 3rd card",
+      "review_notes": []
+    },
+    {
+      "source_page": 8,
+      "category_slug": "wipers-spill-control",
+      "name": "Wypall L10",
+      "sku": null,
+      "brand": "WypAll",
+      "brand_source": "text",
+      "short_description": null,
+      "description": null,
+      "attributes": {
+        "Code": "28888 / 28053",
+        "Kemasan": "Centre-Pull",
+        "Warna": "Putih",
+        "Bahan": "Hydroknit",
+        "Dimensi": "18 x 28 / 38 cm",
+        "Isi": "300 m",
+        "Pak / Karton": "6 Roll /Ctn"
+      },
+      "variants": [],
+      "image_hint": "top row, 4th card",
+      "review_notes": [
+        "Two codes printed ('28888 / 28053'), mapping to sizes (18 x 28 / 38 cm?) not explicit - sku left null, raw code kept in attributes"
+      ]
+    },
+    {
+      "source_page": 8,
+      "category_slug": "wipers-spill-control",
+      "name": "Wypall L20",
+      "sku": "96232",
+      "brand": "WypAll",
+      "brand_source": "text",
+      "short_description": null,
+      "description": null,
+      "attributes": {
+        "Kemasan": "Large Roll",
+        "Warna": "Putih",
+        "Bahan": "Paper",
+        "Dimensi": "27.5 x 45 cm",
+        "Isi": "956 Sheet",
+        "Pak / Karton": "2 Roll /Ctn"
+      },
+      "variants": [],
+      "image_hint": "top row, 5th card",
+      "review_notes": []
+    },
+    {
+      "source_page": 8,
+      "category_slug": "wipers-spill-control",
+      "name": "Oil Sorbent Pad",
+      "sku": "424111",
+      "brand": "WypAll",
+      "brand_source": "logo",
+      "short_description": null,
+      "description": null,
+      "attributes": {
+        "Kemasan": "Flat Sheet",
+        "Warna": "Putih",
+        "Bahan": "Polypropelene",
+        "Dimensi": "40 x 50 cm",
+        "Isi": "100 Sheet",
+        "Pak / Karton": "1 Pack /Ctn"
+      },
+      "variants": [],
+      "image_hint": "top row, 6th card",
+      "review_notes": [
+        "typo fixed: 'Isi: 100 Shett' -> '100 Sheet'",
+        "'Polypropelene' kept as printed (sic)"
+      ]
+    },
+    {
+      "source_page": 8,
+      "category_slug": "wipers-spill-control",
+      "name": "Oil Sorbent OS30 Socks",
+      "sku": "94202",
+      "brand": "WypAll",
+      "brand_source": "logo",
+      "short_description": null,
+      "description": null,
+      "attributes": {
+        "Kemasan": "Socks /Roll",
+        "Warna": "Putih",
+        "Bahan": "N/A",
+        "Dimensi": "7.62 x 120 cm",
+        "Isi": "12 Socks",
+        "Pak / Karton": "1 Pack /Ctn"
+      },
+      "variants": [],
+      "image_hint": "top row, 7th card (right end)",
+      "review_notes": []
+    },
+    {
+      "source_page": 8,
+      "category_slug": "wipers-spill-control",
+      "name": "Color Coded Wipes",
+      "sku": null,
+      "brand": "WypAll",
+      "brand_source": "logo",
+      "short_description": null,
+      "description": null,
+      "attributes": {
+        "Code": "94144, 94151, 94143, 94147",
+        "Kemasan": "Flat Sheet",
+        "Warna": [
+          "Kuning",
+          "Biru",
+          "Hijau",
+          "Merah"
+        ],
+        "Bahan": "Spunlace",
+        "Dimensi": "30/40 x 60 cm",
+        "Isi": "20 Sheet",
+        "Pak / Karton": "12 Pack /Ctn"
+      },
+      "variants": [],
+      "image_hint": "bottom row, 1st card",
+      "review_notes": [
+        "Four codes and four colours printed in the same order, but the code-to-colour mapping is not explicitly stated - sku left null, no variants created; codes kept raw in attributes"
+      ]
+    },
+    {
+      "source_page": 8,
+      "category_slug": "wipers-spill-control",
+      "name": "Microfibre Cloths Color Coded",
+      "sku": "65800",
+      "brand": "WypAll",
+      "brand_source": "logo",
+      "short_description": null,
+      "description": null,
+      "attributes": {
+        "Kemasan": "Flat Sheet",
+        "Warna": [
+          "Kuning",
+          "Biru",
+          "Hijau",
+          "Merah"
+        ],
+        "Bahan": "Polyester / Polyamide",
+        "Dimensi": "30 x 30 cm or 20 x 20 cm",
+        "Isi": "6 Pcs or 5 Pcs",
+        "Pak / Karton": "4 Bags or 20 Bags /Ctn"
+      },
+      "variants": [],
+      "image_hint": "bottom row, 2nd card",
+      "review_notes": [
+        "Code 65800 is identical to Wypall X50's code - not unique, probably a catalog error; please verify",
+        "typo fixed: '6 Pcs 0r 5 Pcs' -> '6 Pcs or 5 Pcs'",
+        "Two size/pack options are implied (30x30 / 20x20 cm, 6 / 5 pcs, 4 / 20 bags) but not explicitly paired - no variants created"
+      ]
+    },
+    {
+      "source_page": 8,
+      "category_slug": "wipers-spill-control",
+      "name": "Kimtech Kimwipes EX-L",
+      "sku": "34155",
+      "brand": "Kimtech",
+      "brand_source": "text",
+      "short_description": null,
+      "description": null,
+      "attributes": {
+        "Kemasan": "Pop-Up Box",
+        "Warna": "Putih",
+        "Bahan": "1Ply Tissue",
+        "Dimensi": "11.4 x 21.6 cm",
+        "Isi": "280 Sheet",
+        "Pak / Karton": "60 Box /Ctn"
+      },
+      "variants": [],
+      "image_hint": "bottom row, 3rd card",
+      "review_notes": []
+    },
+    {
+      "source_page": 8,
+      "category_slug": "wipers-spill-control",
+      "name": "Kimtech Prep",
+      "sku": "33560",
+      "brand": "Kimtech",
+      "brand_source": "text",
+      "short_description": null,
+      "description": null,
+      "attributes": {
+        "Kemasan": "1/4 Fold",
+        "Warna": "Biru",
+        "Bahan": "Meltblown",
+        "Dimensi": "30.5 x 36.6 cm",
+        "Isi": "66 Sheet",
+        "Pak / Karton": "8 Pack /Ctn"
+      },
+      "variants": [],
+      "image_hint": "bottom row, 4th card",
+      "review_notes": [
+        "Product photo shows WypAll-branded packaging while the card has the KIMTECH logo; brand from the name text"
+      ]
+    },
+    {
+      "source_page": 8,
+      "category_slug": "wipers-spill-control",
+      "name": "W4 Critical Wipers",
+      "sku": "33330",
+      "brand": "Kimtech",
+      "brand_source": "logo",
+      "short_description": null,
+      "description": null,
+      "attributes": {
+        "Kemasan": "Flat Sheet",
+        "Warna": "Putih",
+        "Bahan": "Polypropelen",
+        "Dimensi": "30.5 x 30.5 cm",
+        "Isi": "100 Sheet",
+        "Pak / Karton": "5 Pack / Ctn"
+      },
+      "variants": [],
+      "image_hint": "bottom row, 5th card",
+      "review_notes": [
+        "'Polypropelen' kept as printed (sic)"
+      ]
+    },
+    {
+      "source_page": 8,
+      "category_slug": "wipers-spill-control",
+      "name": "Kimtech Prep for Wettask",
+      "sku": "6411",
+      "brand": "Kimtech",
+      "brand_source": "text",
+      "short_description": null,
+      "description": null,
+      "attributes": {
+        "Kemasan": "Roll",
+        "Warna": "Putih",
+        "Bahan": "Meltblown",
+        "Dimensi": "30.5 x 31.8 cm",
+        "Isi": "90 Sheet",
+        "Pak / Karton": "6 Roll / Pack"
+      },
+      "variants": [],
+      "image_hint": "bottom row, 6th card (right end)",
+      "review_notes": []
+    },
+    {
+      "source_page": 9,
+      "category_slug": "perlindungan-kimia",
+      "name": "Alphatec Microgard 1500-111",
+      "sku": null,
+      "brand": "Ansell",
+      "brand_source": "logo",
+      "short_description": null,
+      "description": "Perlindungan khusus: AlphaTec® 1500 PLUS Stitched - Model 111 memberikan ketahanan terhadap bahan kimia ringan*, melindungi dari asbes dan menyaring 99,9% partikel berukuran lebih dari 3 mikron, serta debu batu bata dan semen, aerosol ringan, dan kabut\nKemampuan antistatis bersertifikat: AlphaTec® 1500 PLUS Stitched - Model 111 telah diuji terhadap standar antistatis EN 1149-5",
+      "attributes": {
+        "Bahan": "Kain SMS dengan perlakuan anti-statis",
+        "Berat": "48gsm",
+        "Standar / Sertifikasi": [
+          "CE KATEGORI III",
+          "Tipe 5",
+          "Tipe 6",
+          "EN 1073-2",
+          "EN 1149-5"
+        ]
+      },
+      "variants": [],
+      "image_hint": "top-left card (white coverall)",
+      "review_notes": [
+        "Labelled paragraphs ('Perlindungan khusus:', 'Kemampuan antistatis bersertifikat:' etc.) kept together in description; Bahan/Berat/CE line moved to attributes",
+        "Page section labels: BODY PROTECTION / DUST & CHEMICAL PROTECTION; category per default page mapping (perlindungan-kimia)"
+      ]
+    },
+    {
+      "source_page": 9,
+      "category_slug": "perlindungan-kimia",
+      "name": "Alphatec Microgard 3000-111",
+      "sku": null,
+      "brand": "Ansell",
+      "brand_source": "logo",
+      "short_description": null,
+      "description": "Perlindungan khusus: Penghalang zat kimia multi-lapisan yang tahan lama dan nyaman, perlindungan Tipe 3/4/5\nKemampuan antistatis bersertifikat: Anti-statis, diuji berdasarkan EN 1149-5",
+      "attributes": {
+        "Bahan": "Kain laminasi penghalang non-tenun multi-lapis",
+        "Berat": "80gsm",
+        "Standar / Sertifikasi": [
+          "CE KATEGORI III",
+          "Tipe 3-B",
+          "Tipe 4-B",
+          "Tipe 5-B",
+          "EN 1073-2",
+          "EN 14126",
+          "EN 1149-5"
+        ]
+      },
+      "variants": [],
+      "image_hint": "top-middle card (yellow coverall)",
+      "review_notes": [
+        "Labelled paragraphs ('Perlindungan khusus:', 'Kemampuan antistatis bersertifikat:' etc.) kept together in description; Bahan/Berat/CE line moved to attributes",
+        "Page section labels: BODY PROTECTION / DUST & CHEMICAL PROTECTION; category per default page mapping (perlindungan-kimia)"
+      ]
+    },
+    {
+      "source_page": 9,
+      "category_slug": "perlindungan-kimia",
+      "name": "Alphatec Microgard 2000-111",
+      "sku": null,
+      "brand": "Ansell",
+      "brand_source": "logo",
+      "short_description": null,
+      "description": "Perlindungan khusus: AlphaTec® 2000 STANDARD Bound - Model 111 memberikan perlindungan kimiawi tingkat sedang* kepada pemakainya, menahan bahaya biologis cair dan partikulat (termasuk partikulat radioaktif)\nPertahanan tambahan: Pakaian pelindung tubuh ini juga memenuhi standar EN 14126 dan ASTM F1670/1671 untuk perlindungan dari patogen yang ditularkan melalui darah dan persyaratan DIN 32781 untuk resistensi terhadap pestisida",
+      "attributes": {
+        "Bahan": "Laminasi polietilena mikropori nontenun",
+        "Berat": "63gsm",
+        "Standar / Sertifikasi": [
+          "CE KATEGORI III",
+          "Tipe 5-B",
+          "Tipe 6-B",
+          "EN 1073-2",
+          "EN 14126",
+          "DIN 32781",
+          "EN 1149-5",
+          "ASTM F1670/1671"
+        ]
+      },
+      "variants": [],
+      "image_hint": "middle-left card (white coverall with respirator)",
+      "review_notes": [
+        "Labelled paragraphs ('Perlindungan khusus:', 'Kemampuan antistatis bersertifikat:' etc.) kept together in description; Bahan/Berat/CE line moved to attributes",
+        "Page section labels: BODY PROTECTION / DUST & CHEMICAL PROTECTION; category per default page mapping (perlindungan-kimia)"
+      ]
+    },
+    {
+      "source_page": 9,
+      "category_slug": "perlindungan-kimia",
+      "name": "Alphatec Microgard 4000-111",
+      "sku": null,
+      "brand": "Ansell",
+      "brand_source": "logo",
+      "short_description": null,
+      "description": "Perlindungan khusus: AlphaTec® 4000 Ultrasonically Welded & Taped - Model 111 adalah pakaian pelindung bahan kimia tugas berat, yang telah teruji perembesan untuk menahan lebih dari 200 bahaya bahan kimia*, di antaranya adalah agen kimia beracun\nKemampuan antistatis bersertifikat: Baju pelindung ini juga memenuhi standar antistatis EN 1149-5 dan AATCC 76",
+      "attributes": {
+        "Bahan": "Kain laminasi penghalang non-tenun multi-lapis",
+        "Berat": "103gsm",
+        "Standar / Sertifikasi": [
+          "CE KATEGORI III",
+          "Tipe 3-B",
+          "Tipe 4-B",
+          "Tipe 5-B",
+          "EN 1073-2",
+          "EN 14126",
+          "EN 1149-5",
+          "AATCC 76"
+        ]
+      },
+      "variants": [],
+      "image_hint": "middle-middle card (dark green coverall)",
+      "review_notes": [
+        "Labelled paragraphs ('Perlindungan khusus:', 'Kemampuan antistatis bersertifikat:' etc.) kept together in description; Bahan/Berat/CE line moved to attributes",
+        "Page section labels: BODY PROTECTION / DUST & CHEMICAL PROTECTION; category per default page mapping (perlindungan-kimia)"
+      ]
+    },
+    {
+      "source_page": 9,
+      "category_slug": "perlindungan-kimia",
+      "name": "AlphaTec® 5000-111",
+      "sku": null,
+      "brand": "Ansell",
+      "brand_source": "logo",
+      "short_description": null,
+      "description": "• Pelindung dari permeabilitas: Menahan bahan kimia/bahaya biologis/agen kimia beracun*\n• Warna oranye yang sangat mencolok: Untuk keselamatan pekerja dan tempat kerja yang lebih baik\n• Penutup ritsleting ganda: Meningkatkan masa pakai",
+      "attributes": {},
+      "variants": [],
+      "image_hint": "bottom-left card (orange coverall)",
+      "review_notes": [
+        "Page section labels: BODY PROTECTION / DUST & CHEMICAL PROTECTION; category per default page mapping (perlindungan-kimia)",
+        "Card shows certification pictograms (Type 3-B/4-B/5-B/6-B, EN 1073-2, EN 1149-5, EN 14126 icons) too small to read reliably - not recorded"
+      ]
+    },
+    {
+      "source_page": 9,
+      "category_slug": "perlindungan-kimia",
+      "name": "AlphaTec® 66-667",
+      "sku": null,
+      "brand": "Ansell",
+      "brand_source": "logo",
+      "short_description": null,
+      "description": "• Kain anti cipratan bahan kimia memberikan perlindungan dengan data penetrasi lebih dari 70 bahan kimia\n• Kain yang dapat bernapas memaksimalkan kenyamanan, mengurangi risiko stres panas dan meningkatkan produktivitas\n• Tali yang dapat disesuaikan dengan gesper gaya parasut\n• Pengikat kait dan lingkar di kaki dan manset\n• Sistem kain laminasi yang tahan lama dapat dicuci dengan mesin untuk masa pakai yang lebih lama dan hemat biaya\n• Tersertifikasi menurut NFPA 1990 (NFPA 1992)",
+      "attributes": {
+        "Standar / Sertifikasi": [
+          "NFPA 1990 (NFPA 1992)",
+          "ASTM F1671"
+        ]
+      },
+      "variants": [],
+      "image_hint": "bottom card second from left (red coverall with yellow helmet)",
+      "review_notes": [
+        "Page section labels: BODY PROTECTION / DUST & CHEMICAL PROTECTION; category per default page mapping (perlindungan-kimia)",
+        "'ASTM F1671' read from the pictogram row under the bullets (image), not from the text layer"
+      ]
+    },
+    {
+      "source_page": 9,
+      "category_slug": "perlindungan-kimia",
+      "name": "JITO PP Coat (Velcro & Kancing)",
+      "sku": null,
+      "brand": "Jito",
+      "brand_source": "text",
+      "short_description": null,
+      "description": "Material khusus spunbond nonwoven yang lembut dan tanpa dan tipis sehingga tidak menghambat sirkulasi udara. Material utama yang tidak menyebabkan alergi ini pun telah teruji Food-Contact",
+      "attributes": {},
+      "variants": [],
+      "image_hint": "bottom card, third from left (white coat, left photo)",
+      "review_notes": [
+        "Page section labels: BODY PROTECTION / DUST & CHEMICAL PROTECTION; category per default page mapping (perlindungan-kimia)",
+        "Description kept as printed, including the garbled phrase 'lembut dan tanpa dan tipis'",
+        "The description sits under the PP Coat label; it may be meant for both JITO items on the card"
+      ]
+    },
+    {
+      "source_page": 9,
+      "category_slug": "perlindungan-kimia",
+      "name": "JITO PE Apron",
+      "sku": null,
+      "brand": "Jito",
+      "brand_source": "text",
+      "short_description": null,
+      "description": null,
+      "attributes": {},
+      "variants": [],
+      "image_hint": "bottom card, third from left (apron, right photo)",
+      "review_notes": [
+        "Page section labels: BODY PROTECTION / DUST & CHEMICAL PROTECTION; category per default page mapping (perlindungan-kimia)",
+        "Shares a card with JITO PP Coat; no own description printed"
+      ]
+    },
+    {
+      "source_page": 9,
+      "category_slug": "perlindungan-kimia",
+      "name": "A40 Reflex Coveralls",
+      "sku": null,
+      "brand": "KleenGuard",
+      "brand_source": "text",
+      "short_description": null,
+      "description": "terbuat dari laminasi film mikropori dengan tudung yang pas di respirator, ritsleting depan, dan pergelangan tangan serta pergelangan kaki elastis.\nSetelan pelindung A40 KleenGuard lulus kriteria NFPA 99 untuk bahan antistatis. Coverall dengan hood ini lulus NFPA 99 untuk bahan antistatis, lulus pengujian ASTM F1670 untuk penetrasi darah dan cairan tubuh, dan memiliki ukuran Reflex untuk pemasangan yang lebih nyaman dan lebih sedikit robekan",
+      "attributes": {
+        "Standar / Sertifikasi": [
+          "NFPA 99",
+          "ASTM F1670"
+        ]
+      },
+      "variants": [],
+      "image_hint": "top-right card (white coverall)",
+      "review_notes": [
+        "Page section labels: BODY PROTECTION / DUST & CHEMICAL PROTECTION; category per default page mapping (perlindungan-kimia)"
+      ]
+    },
+    {
+      "source_page": 9,
+      "category_slug": "perlindungan-kimia",
+      "name": "A40 Liquid & Particle Protection Coveralls",
+      "sku": null,
+      "brand": "KleenGuard",
+      "brand_source": "text",
+      "short_description": null,
+      "description": "Baju Pelindung KleenGuard A40 lulus uji ASTM F1670 untuk penetrasi darah dan ASTM F1671 untuk patogen yang ditularkan melalui darah. Uji Penetrasi ASTM F903 memberikan hasil lulus untuk cat isocyanate (40%) dan Kalium Kromat (20%). Selain itu, KleenGuard A40 antistatis sesuai dengan NFPA 99.",
+      "attributes": {
+        "Standar / Sertifikasi": [
+          "ASTM F1670",
+          "ASTM F1671",
+          "ASTM F903",
+          "NFPA 99"
+        ]
+      },
+      "variants": [],
+      "image_hint": "middle-right card (white hooded coverall)",
+      "review_notes": [
+        "Page section labels: BODY PROTECTION / DUST & CHEMICAL PROTECTION; category per default page mapping (perlindungan-kimia)"
+      ]
+    },
+    {
+      "source_page": 9,
+      "category_slug": "perlindungan-kimia",
+      "name": "A70 Chemical Spray Protection",
+      "sku": null,
+      "brand": "KleenGuard",
+      "brand_source": "text",
+      "short_description": null,
+      "description": "KleenGuard A70 terbuat dari kain berlapis polietilena 1,5 mil, yang tahan terhadap banyak cairan berbasis air, minyak dan lemak, serta cipratan bahan kimia cair. Pakaian ini memiliki lapisan yang dapat menyerap untuk meningkatkan kenyamanan, ritsleting ekstra panjang yang tahan cairan, dan penutup ritsleting yang dapat disegel dan direkatkan.",
+      "attributes": {},
+      "variants": [],
+      "image_hint": "bottom-right card (yellow hooded coverall)",
+      "review_notes": [
+        "Page section labels: BODY PROTECTION / DUST & CHEMICAL PROTECTION; category per default page mapping (perlindungan-kimia)"
+      ]
+    },
+    {
+      "source_page": 10,
+      "category_slug": "perlindungan-kepala",
+      "name": "Mobcap, Hairnet, Nurse Cap",
+      "sku": null,
+      "brand": "Jito",
+      "brand_source": "logo",
+      "short_description": null,
+      "description": "Mobcap tidak menyebabkan rasa panas di kepala sehingga tetap nyaman digunakan. Dan juga elastik yang kuat untuk menutup rambut secara sempurna.",
+      "attributes": {
+        "Color": [
+          "White",
+          "Green"
+        ]
+      },
+      "variants": [],
+      "image_hint": "top-left card (two models wearing white and green caps)",
+      "review_notes": [
+        "One card groups three items (Mobcap, Hairnet, Nurse Cap) under one title - kept as one product"
+      ]
+    },
+    {
+      "source_page": 10,
+      "category_slug": "perlindungan-kepala",
+      "name": "Jackson WH10",
+      "sku": null,
+      "brand": "Jackson",
+      "brand_source": "text",
+      "short_description": null,
+      "description": "Tutup flip-up terintegrasi dengan sistem pelepasan cepat untuk pengelasan filter dan lensa pelindung\nTersedia nuansa kaca mineral tambahan (DIN 9 hingga 12)\nMemenuhi standar ANSI Z87.1 dan sesuai dengan CSA\nTermasuk filter polikarbonat naungan 10 berukuran 4,5\" x 5,25\"\nHelm keselamatan yang dapat disesuaikan menggunakan nomor produk 15968\nSesuai dengan CSA Z94.3",
+      "attributes": {
+        "Standar / Sertifikasi": [
+          "ANSI Z87.1",
+          "CSA Z94.3"
+        ]
+      },
+      "variants": [],
+      "image_hint": "top-middle card (black flip-up welding helmet)",
+      "review_notes": [
+        "'nomor produk 15968' in the description refers to the compatible adjustable hard hat, not this product's code - sku left null",
+        "This is a welding helmet but sits on the head-protection page; kept in perlindungan-kepala"
+      ]
+    },
+    {
+      "source_page": 10,
+      "category_slug": "perlindungan-kepala",
+      "name": "MSA V-Gard",
+      "sku": null,
+      "brand": "MSA",
+      "brand_source": "text",
+      "short_description": null,
+      "description": "Helm MSA V-Gard, dengan desain khas \"V\" yang menjadi ciri khasnya, adalah merek yang dikenal di seluruh dunia karena kenyamanan, kualitas, dan ketahanannya.",
+      "attributes": {
+        "Suspensi": "Staz on & Fastrac",
+        "Color": [
+          "White",
+          "Yellow",
+          "Green",
+          "Grey",
+          "Blue",
+          "Red",
+          "Orange"
+        ]
+      },
+      "variants": [],
+      "image_hint": "middle-left card (grid of coloured V-Gard helmets)",
+      "review_notes": [
+        "Photo also shows a pink/magenta helmet that is not in the printed colour list"
+      ]
+    },
+    {
+      "source_page": 10,
+      "category_slug": "perlindungan-kepala",
+      "name": "Venitex Diamond V",
+      "sku": null,
+      "brand": "Delta Plus",
+      "brand_source": "logo",
+      "short_description": null,
+      "description": "Helm keselamatan ABS dengan desain inovatif. Diuji untuk digunakan dengan cangkang yang diputar. Tali tekstil: 3 tali tekstil dengan 8 titik pemasangan. Ikat kepala busa. Sistem penyesuaian ukuran ROTOR yang inovatif: lingkar kepala 53 hingga 63 cm. 2 kemungkinan posisi tali (atas/bawah) untuk kenyamanan lebih. Strip reflektif. Isolasi listrik hingga 1000 V ac atau 1500 V DC. Dijual dengan tali dagu dengan 4 titik pemasangan.",
+      "attributes": {
+        "Color": [
+          "White",
+          "Yellow",
+          "Green",
+          "Grey",
+          "Blue",
+          "Red",
+          "Orange",
+          "Black"
+        ]
+      },
+      "variants": [],
+      "image_hint": "middle-middle card (coloured Diamond V helmets)",
+      "review_notes": [
+        "Brand from the DELTAPLUS logo; 'Venitex' (in the name) is a Delta Plus product line"
+      ]
+    },
+    {
+      "source_page": 10,
+      "category_slug": "perlindungan-kepala",
+      "name": "3M Hard Hat",
+      "sku": null,
+      "brand": "3M",
+      "brand_source": "text",
+      "short_description": null,
+      "description": "• Sistem suspensi menggabungkan Teknologi Difusi Tekanan yang dipatenkan secara eksklusif\n• Sistem suspensi ratchet yang halus dan mudah diputar terletak rendah di kepala untuk mengurangi tekanan, membantu menjadikan 3M SecureFit\n• Ikat kepala penyerap keringat premium yang dapat dicuci dan diganti dengan bahan yang menyerap keringat dirancang untuk membantu menjaga pekerja tetap sejuk dan kering.",
+      "attributes": {
+        "Material": "HDPE"
+      },
+      "variants": [],
+      "image_hint": "bottom-left card (yellow hard hat)",
+      "review_notes": [
+        "Second bullet ends abruptly ('membantu menjadikan 3M SecureFit') - kept as printed"
+      ]
+    },
+    {
+      "source_page": 10,
+      "category_slug": "perlindungan-kepala",
+      "name": "Safety Helm Proyek",
+      "sku": null,
+      "brand": "Enzo",
+      "brand_source": "logo",
+      "short_description": null,
+      "description": "Produk helm ini telah melalui uji benturan charpy dan uji fisik sesuai dengan spesifikasi ANSI/SEA Z89.1-2009.\nMetode uji benturan dilakukan berdasarkan prosedur standar di laboratorium ketahanan energi benturan 0,565 joule.",
+      "attributes": {
+        "Color": [
+          "Red",
+          "White",
+          "Blue",
+          "Yellow"
+        ],
+        "Standar / Sertifikasi": [
+          "ANSI/SEA Z89.1-2009"
+        ]
+      },
+      "variants": [],
+      "image_hint": "bottom-middle card (yellow helmet on mannequin head with colour swatches)",
+      "review_notes": [
+        "Brand from the 'enzo' logo",
+        "'ANSI/SEA' kept as printed (probably ANSI/ISEA)",
+        "Product photo has extra text 'Helm Proyek', 'Lengkap dengan Fastrek + Tali dagu', 'Fastrek menggunakan sistem putar' and shows 6 colour swatches (incl. orange, green) vs 4 printed colours"
+      ]
+    },
+    {
+      "source_page": 10,
+      "category_slug": "perlindungan-kepala",
+      "name": "Welding Helmet",
+      "sku": null,
+      "brand": "UGO Safety",
+      "brand_source": "logo",
+      "short_description": null,
+      "description": "Helm hitam yang kuat dan ringan dengan ADF 4/9-13 dan kontrol eksternal untuk fungsi naungan dan penggilingan, serta sensitivitas yang dapat disesuaikan dan kontrol penundaan untuk produktivitas lebih tinggi di tempat kerja.\n• Kontrol Sensitivitas\n• Kontrol Penundaan\n• Mode Giling",
+      "attributes": {
+        "Dimensi Saringan": "110 x 90 x 8 mm",
+        "Area tampilan": "92 x 42 mm",
+        "Warna Bening": "4",
+        "Kisaran Warna": "9 – 13",
+        "Perlindungan UV/IR": "hingga DIN15",
+        "Waktu peralihan": "0,1 ms",
+        "Waktu Tunda": "0,1 – 0,9 detik (dapat disesuaikan)",
+        "Berat": "485gr"
+      },
+      "variants": [],
+      "image_hint": "right column (large photo of black auto-darkening welding helmet)",
+      "review_notes": [
+        "Brand from the 'UGO safety' logo",
+        "Generic name as printed; no model number",
+        "Key:value bullets moved to attributes; non key:value bullets kept in description",
+        "Welding helmet on the head-protection page; kept in perlindungan-kepala"
+      ]
+    },
+    {
+      "source_page": 11,
+      "category_slug": "perlindungan-mata-wajah",
+      "name": "V10 Element Safety Glasses",
+      "sku": null,
+      "brand": "KleenGuard",
+      "brand_source": "text",
+      "short_description": null,
+      "description": "Kacamata keselamatan ini ringan dan menawarkan gaya tanpa bingkai dalam desain bebas logam, lengkap dengan engsel tanpa sekrup.\nLensa polikarbonat yang tidak dilapisi memberikan perlindungan UVA/UVB/UVC 99,9% untuk membantu mencegah kerusakan mata seperti katarak, kerusakan retina, dan kondisi lain yang dapat menyebabkan kehilangan penglihatan sementara.\nKacamata Keselamatan KleenGuard V10 Element memenuhi standar ANSI Z87.1+ untuk perlindungan mata pribadi berdampak tinggi.",
+      "attributes": {
+        "Lens": "Clear",
+        "Standar / Sertifikasi": [
+          "ANSI Z87.1+"
+        ]
+      },
+      "variants": [],
+      "image_hint": "top row, 1st card",
+      "review_notes": [
+        "Photo shows a '12 PAIRS' badge (pack quantity?) - not recorded as attribute"
+      ]
+    },
+    {
+      "source_page": 11,
+      "category_slug": "perlindungan-mata-wajah",
+      "name": "V20 Comfort Eye Protection",
+      "sku": null,
+      "brand": "KleenGuard",
+      "brand_source": "logo",
+      "short_description": null,
+      "description": "Kacamata Keselamatan Purity memiliki lensa polikarbonat yang memberikan perlindungan UVA/UVB/UVC 99,9% untuk membantu mencegah kerusakan mata seperti katarak, kerusakan retina, dan kondisi lain yang dapat menyebabkan kehilangan penglihatan sementara.\nSelain itu, kacamata keselamatan diproduksi untuk mematuhi standar ANSI / ISEA Z87.1+ untuk perlindungan mata pribadi dan disertifikasi untuk memenuhi persyaratan CSA Z94.3.",
+      "attributes": {
+        "Lens": "Clear",
+        "Standar / Sertifikasi": [
+          "ANSI / ISEA Z87.1+",
+          "CSA Z94.3"
+        ]
+      },
+      "variants": [],
+      "image_hint": "top row, 2nd card",
+      "review_notes": [
+        "Description calls it 'Kacamata Keselamatan Purity' while the title is 'V20 Comfort Eye Protection'",
+        "Photo shows a '12 PAIRS' badge - not recorded"
+      ]
+    },
+    {
+      "source_page": 11,
+      "category_slug": "perlindungan-mata-wajah",
+      "name": "V30 Nemesis - Indoor Outdoor",
+      "sku": null,
+      "brand": "KleenGuard",
+      "brand_source": "text",
+      "short_description": null,
+      "description": "Kacamata Keselamatan KleenGuard Nemesis memiliki lensa polikarbonat yang memberikan perlindungan UVA/UVB/UVC 99,9% untuk membantu mencegah kerusakan mata seperti katarak, kerusakan retina, dan kondisi lain yang dapat menyebabkan kehilangan penglihatan sementara.\nKacamata keselamatan ini diproduksi untuk mematuhi standar ANSI/ISEA Z87.1+ untuk perlindungan mata pribadi. Digunakan untuk konstruksi, manufaktur, menembak senjata/lapangan tembak, dan industri lainnya.",
+      "attributes": {
+        "Lens": "Clear - Indoor Outdoor",
+        "Standar / Sertifikasi": [
+          "ANSI/ISEA Z87.1+"
+        ]
+      },
+      "variants": [],
+      "image_hint": "top row, 3rd card",
+      "review_notes": []
+    },
+    {
+      "source_page": 11,
+      "category_slug": "perlindungan-mata-wajah",
+      "name": "V30 Nemesis - Smoke Mirror",
+      "sku": null,
+      "brand": "KleenGuard",
+      "brand_source": "text",
+      "short_description": null,
+      "description": "Kacamata keselamatan diproduksi untuk mematuhi standar ANSI/ISEA Z87.1+ untuk perlindungan mata pribadi. Baik pria maupun wanita akan merasa kacamata bergaya ini nyaman dan fungsional untuk konstruksi, manufaktur, menembak senjata/lapangan tembak, dan sejumlah industri lainnya.",
+      "attributes": {
+        "Lens": "Smoke Mirror",
+        "Merek": "KleenGuard®",
+        "Warna": "Black",
+        "Bahan": "Poly",
+        "Standar / Sertifikasi": [
+          "ANSI/ISEA Z87.1+"
+        ]
+      },
+      "variants": [],
+      "image_hint": "top row, 4th card",
+      "review_notes": []
+    },
+    {
+      "source_page": 11,
+      "category_slug": "perlindungan-mata-wajah",
+      "name": "V80 Monogoggle XTR - Anti Fog",
+      "sku": null,
+      "brand": "KleenGuard",
+      "brand_source": "logo",
+      "short_description": null,
+      "description": "Kacamata ini bening (dengan bingkai biru), membuatnya ideal untuk penggunaan di dalam ruangan dan transmisi cahaya maksimum. Lensa polikarbonat memberikan perlindungan UVA/UVB/UVC 99,9%. Kacamata pengaman cipratan memenuhi standar ANSI Z87.1+ untuk benturan, dengan peringkat D3 untuk perlindungan tetesan dan cipratan.\nLensa polikarbonat memberikan perlindungan 99,9% UVA/UVB/UVC; Memenuhi standar ANSI Z87.1+",
+      "attributes": {
+        "Lens": "Poly",
+        "Standar / Sertifikasi": [
+          "ANSI Z87.1+"
+        ]
+      },
+      "variants": [],
+      "image_hint": "top row, 5th card (blue goggle, right end)",
+      "review_notes": []
+    },
+    {
+      "source_page": 11,
+      "category_slug": "perlindungan-mata-wajah",
+      "name": "Safety Spectacles i-3",
+      "sku": null,
+      "brand": "uvex",
+      "brand_source": "logo",
+      "short_description": null,
+      "description": "• kacamata keselamatan 3 komponen yang modis dengan fitur inovatif\n• 100% bebas logam\n• warna bingkai: hitam, antrasit\n• disertifikasi sesuai EN 166 (perlindungan mata pribadi) dan EN 170 (Perlindungan UV)\n• pelabelan: W 166 FT CE – 2-1,2 W 1 FTKN CE\n• perlindungan UV 400 yang andal\n• perlindungan yang andal yang diberikan oleh kecocokannya yang sempurna: kemiringan lengan samping multi-level memungkinkan pemakainya untuk menyesuaikan kacamata agar sesuai dengan wajah mereka",
+      "attributes": {
+        "warna bingkai": [
+          "hitam",
+          "antrasit"
+        ],
+        "pelabelan": "W 166 FT CE – 2-1,2 W 1 FTKN CE",
+        "Standar / Sertifikasi": [
+          "EN 166",
+          "EN 170"
+        ]
+      },
+      "variants": [],
+      "image_hint": "bottom-left wide card (five i-3 spectacles in different colours)",
+      "review_notes": [
+        "'warna bingkai' and 'pelabelan' bullets duplicated into attributes; full bullet list kept in description"
+      ]
+    },
+    {
+      "source_page": 11,
+      "category_slug": "perlindungan-mata-wajah",
+      "name": "3M Tour-Guard-V TGV01-20",
+      "sku": null,
+      "brand": "3M",
+      "brand_source": "text",
+      "short_description": null,
+      "description": "Kacamata pelindung ekonomis melayani kebutuhan pengunjung situs atau penggunaan umum\nMemenuhi persyaratan CSA Z94.3-2007 dan ANSI Z87.1-2010\nPelindung samping yang melingkar membantu memberikan perlindungan ekstra",
+      "attributes": {
+        "Lens": "Clear",
+        "Standar / Sertifikasi": [
+          "CSA Z94.3-2007",
+          "ANSI Z87.1-2010"
+        ]
+      },
+      "variants": [],
+      "image_hint": "bottom-middle card (clear visitor spectacles)",
+      "review_notes": [
+        "'TGV01-20' is part of the printed model name, not labelled as a code - sku left null"
+      ]
+    },
+    {
+      "source_page": 11,
+      "category_slug": "perlindungan-mata-wajah",
+      "name": "Uvex Astrospec 2.0",
+      "sku": null,
+      "brand": "uvex",
+      "brand_source": "text",
+      "short_description": null,
+      "description": "pelindung mata 2.0 dengan kacamata kerja dengan desain retro modern, dengan perlindungan area mata maksimal, termasuk di bagian samping, teknologi ventilasi inovatif, dan kenyamanan pemakaian kontemporer.\n• disertifikasi sesuai EN 166 (perlindungan mata pribadi) dan EN 170 (filter UV)\n• perlindungan UV400 yang andal\n• perlindungan yang andal yang diberikan oleh kecocokannya yang sempurna: kemiringan lengan samping multi-level memungkinkan pemakainya untuk",
+      "attributes": {
+        "Standar / Sertifikasi": [
+          "EN 166",
+          "EN 170"
+        ]
+      },
+      "variants": [],
+      "image_hint": "bottom-right wide card (seven Astrospec 2.0 spectacles in different colours)",
+      "review_notes": [
+        "Last bullet is truncated in the catalog ('...memungkinkan pemakainya untuk') - kept as printed"
+      ]
+    },
+    {
+      "source_page": 12,
+      "category_slug": "perlindungan-mata-wajah",
+      "name": "Headgear Faceshield & Visor",
+      "sku": null,
+      "brand": "3M",
+      "brand_source": "logo",
+      "short_description": null,
+      "description": "Sistem kunci dua posisi akan mengunci perisai dan melepaskannya saat tidak digunakan\nMemenuhi persyaratan ANSI Z87.1-2003\nTidak mengganggu penutup telinga yang dipasang di tutup telinga\nDudukan pelindung wajah universal yang dapat digunakan dengan sebagian besar Pelindung Wajah 3M untuk membantu memberikan perlindungan wajah. Dirancang agar pas dengan banyak helm pengaman model topi. Tidak mengganggu sebagian besar penutup telinga yang dipasang pada topi.",
+      "attributes": {
+        "Standar / Sertifikasi": [
+          "ANSI Z87.1-2003"
+        ]
+      },
+      "variants": [],
+      "image_hint": "top-left card (blue headgear bracket)",
+      "review_notes": []
+    },
+    {
+      "source_page": 12,
+      "category_slug": "perlindungan-mata-wajah",
+      "name": "Visor Faceshield Polycarbonate",
+      "sku": null,
+      "brand": "3M",
+      "brand_source": "logo",
+      "short_description": null,
+      "description": "Pelindung wajah ini membantu memberikan perlindungan kepala dan wajah di lingkungan kerja dengan percikan api, serpihan, dan kotoran. Pelindung wajah ini direkomendasikan untuk segala jenis pekerjaan\nIndustri yang direkomendasikan meliputi konstruksi, manufaktur umum, pertambangan, minyak dan gas, serta transportasi. Pelindung wajah yang bening dan dicetak memberikan visibilitas dan perlindungan benturan tinggi.\nPelindung wajah polikarbonat ini memenuhi persyaratan kinerja ANSI Z87.1 2010. Pelindung ini berukuran tinggi 9” x lebar 14,5” x tebal 0,08.",
+      "attributes": {
+        "Standar / Sertifikasi": [
+          "ANSI Z87.1 2010"
+        ]
+      },
+      "variants": [],
+      "image_hint": "bottom-left card (clear visor)",
+      "review_notes": [
+        "typo fixed: 'pekerjann' -> 'pekerjaan'",
+        "Thickness printed as '0,08' with no unit"
+      ]
+    },
+    {
+      "source_page": 12,
+      "category_slug": "perlindungan-mata-wajah",
+      "name": "Masker",
+      "sku": null,
+      "brand": null,
+      "brand_source": null,
+      "short_description": null,
+      "description": null,
+      "attributes": {
+        "MASKER": [
+          "3Ply",
+          "Earloop",
+          "Headloop",
+          "Hijab",
+          "KN92"
+        ],
+        "BRAND": [
+          "Jito",
+          "OneMEd",
+          "Solida",
+          "dll."
+        ]
+      },
+      "variants": [],
+      "image_hint": "top-right: two framed photo rows (Jito masks, Solida masks) under the 'MASKER / BRAND' line",
+      "review_notes": [
+        "No product title printed; name taken from the label 'MASKER:'",
+        "typo fixed: 'Hijan' -> 'Hijab' (the Jito box in the photo reads 'Hijab')",
+        "Multiple brands listed (Jito, OneMEd, Solida, dll.) with Jito and Solida Healthcare logos - brand left null; admin may split into one product per brand",
+        "Masks are on the eye & face page ('SAFETY GLASSES, SHIELD, MASK'); admin may prefer perlindungan-pernapasan"
+      ]
+    },
+    {
+      "source_page": 12,
+      "category_slug": "perlindungan-mata-wajah",
+      "name": "Pelindung Wajah Reflektif Panas Berlapis Emas",
+      "sku": null,
+      "brand": "Paulson",
+      "brand_source": "logo",
+      "short_description": null,
+      "description": "Pelindung wajah reflektif panas berlapis emas di atas lapisan bening yang dicetak dengan metode injeksi. Lapisan emas keras menghalangi panas radiasi ekstrem dalam operasi pabrik dan pengecoran serta memperpanjang masa pakai pelindung. Pola lubang LeverLock® kompatibel dengan braket penyeimbang berat Paulson untuk helm pengaman berlubang.",
+      "attributes": {},
+      "variants": [],
+      "image_hint": "bottom-right framed card (two gold-coated face shields)",
+      "review_notes": [
+        "No product title printed; name derived from the first words of the description - please rename",
+        "Brand from the PAULSON logo (also mentioned in the text)"
+      ]
+    },
+    {
+      "source_page": 13,
+      "category_slug": "sarung-tangan-sekali-pakai",
+      "name": "TouchNTuff 92-600",
+      "sku": null,
+      "brand": "Ansell",
+      "brand_source": "logo",
+      "short_description": null,
+      "description": "Ketahanan kimia: Dengan Teknologi TNT untuk perlindungan terbaik\nKenyamanan: Ekstra-lembut, terasa halus, untuk meningkatkan kenyamanan saat dipakai dalam waktu lama\nDaya tahan: Bersertifikat EN388 dan memenuhi tahan abrasi level 1\nWorld Leader: TouchNTuff®-92-600 adalah sarung tangan terbaik di dunia untuk perlindungan dari percikan kimia.",
+      "attributes": {
+        "Panjang": "240 mm",
+        "Standar / Sertifikasi": [
+          "EN388"
+        ]
+      },
+      "variants": [],
+      "image_hint": "left column, top card (green nitrile glove and box)",
+      "review_notes": [
+        "Labelled lines ('Ketahanan kimia:', 'Kenyamanan:', 'Daya tahan:', 'World Leader:' etc.) kept together in description",
+        "Length value printed next to the product photo without a label; key 'Panjang' assigned by extractor",
+        "Certification pictograms under the text (EN ISO 374-1:2016 Type B, EN ISO 374-5 VIRUS, food-contact, ISO 18889, ISO 9001 etc.) are too low-res to transcribe reliably - not recorded; verify"
+      ]
+    },
+    {
+      "source_page": 13,
+      "category_slug": "sarung-tangan-sekali-pakai",
+      "name": "TouchNTuff 92-605",
+      "sku": null,
+      "brand": "Ansell",
+      "brand_source": "logo",
+      "short_description": null,
+      "description": "Ketahanan kimia: Perlindungan percikan bahan kimia yang unggul\nKenyamanan: Sensasi ekstra lembut dan halus, meningkatkan kenyamanan untuk pemakaian jangka panjang\nDaya tahan: Nitril eksklusif tahan terhadap robekan dan sobekan\nWorld Leader: Versi manset panjang dari TouchNTuff ® 92-600, sarung tangan sekali pakai terkemuka di dunia untuk perlindungan percikan bahan kimia",
+      "attributes": {
+        "Panjang": "300 mm"
+      },
+      "variants": [],
+      "image_hint": "left column, middle card (long-cuff green glove and box)",
+      "review_notes": [
+        "Labelled lines ('Ketahanan kimia:', 'Kenyamanan:', 'Daya tahan:', 'World Leader:' etc.) kept together in description",
+        "Length value printed next to the product photo without a label; key 'Panjang' assigned by extractor",
+        "Certification pictograms under the text (EN ISO 374-1:2016 Type B, EN ISO 374-5 VIRUS, food-contact, ISO 18889, ISO 9001 etc.) are too low-res to transcribe reliably - not recorded; verify"
+      ]
+    },
+    {
+      "source_page": 13,
+      "category_slug": "sarung-tangan-sekali-pakai",
+      "name": "TouchNTuff 92-670",
+      "sku": null,
+      "brand": "Ansell",
+      "brand_source": "logo",
+      "short_description": null,
+      "description": "Ketahanan kimia: Untuk perlindungan dari kontak bahan kimia insidental\nFood Grade: Cocok untuk digunakan dalam pengolahan makanan\nDaya tahan: Bahan yang kuat, nyaman, dan tahan sobek\nWorld Leader: Sarung tangan sekali pakai TouchNTuff ® 92-670 menawarkan perlindungan yang kuat terhadap percikan bahan kimia",
+      "attributes": {
+        "Panjang": "240 mm"
+      },
+      "variants": [],
+      "image_hint": "left column, bottom card (light blue gloves and box)",
+      "review_notes": [
+        "Labelled lines ('Ketahanan kimia:', 'Kenyamanan:', 'Daya tahan:', 'World Leader:' etc.) kept together in description",
+        "Length value printed next to the product photo without a label; key 'Panjang' assigned by extractor",
+        "Certification pictograms under the text (EN ISO 374-1:2016 Type B, EN ISO 374-5 VIRUS, food-contact, ISO 18889, ISO 9001 etc.) are too low-res to transcribe reliably - not recorded; verify"
+      ]
+    },
+    {
+      "source_page": 13,
+      "category_slug": "sarung-tangan-sekali-pakai",
+      "name": "G10 2Pro Nitrile",
+      "sku": null,
+      "brand": "KleenGuard",
+      "brand_source": "logo",
+      "short_description": null,
+      "description": "Sarung tangan tahan lama dengan ketebalan 0.15 mm.\nBahan karet nitril sintetis pada sarung tangan yang kuat mampu memberikan daya tahan ekstra. Merupakan pilihan ideal untuk perlindungan tangan & mengurangi potensi reaksi terkait sarung tangan APD Tipe 1.",
+      "attributes": {
+        "Color": "Blue"
+      },
+      "variants": [],
+      "image_hint": "right column, 1st card (blue glove and boxes)",
+      "review_notes": []
+    },
+    {
+      "source_page": 13,
+      "category_slug": "sarung-tangan-sekali-pakai",
+      "name": "G10 Flex Nitrile",
+      "sku": null,
+      "brand": "KleenGuard",
+      "brand_source": "logo",
+      "short_description": null,
+      "description": "Sarung tangan sekali pakai dengan ketebalan jari 3 mm untuk sensitivitas sentuhan yang luar biasa\nSarung tangan safety ini juga free latex & powder-free, sehingga meminimalkan efek bedak pada keringnya kulit dan mengurangi risiko kontaminasi.",
+      "attributes": {
+        "Color": "Blue & White"
+      },
+      "variants": [],
+      "image_hint": "right column, 2nd card (blue and white gloves)",
+      "review_notes": [
+        "'ketebalan jari 3 mm' kept as printed (possibly 3 mil)",
+        "'Blue & White' may mean two colour options (photo shows a blue and a white glove) - kept as one string"
+      ]
+    },
+    {
+      "source_page": 13,
+      "category_slug": "sarung-tangan-sekali-pakai",
+      "name": "G3 Sterile Nitrile",
+      "sku": null,
+      "brand": "Kimtech",
+      "brand_source": "logo",
+      "short_description": null,
+      "description": "Sarung tangan nitril steril ini berukuran 6 Mil, panjang 12. Dengan AQL 1,5, sarung tangan yang teruji antistatis, bebas lateks dan silikon\nSarung tangan ini mengandung endotoksin rendah dan memenuhi pedoman FDA tentang kontak makanan dan USP 800",
+      "attributes": {
+        "Color": "Grey & White",
+        "Standar / Sertifikasi": [
+          "FDA",
+          "USP 800"
+        ]
+      },
+      "variants": [],
+      "image_hint": "right column, 3rd card (white and grey gloves)",
+      "review_notes": [
+        "'Grey & White' may mean two colour options (photo shows a white and a grey glove) - kept as one string"
+      ]
+    },
+    {
+      "source_page": 13,
+      "category_slug": "sarung-tangan-sekali-pakai",
+      "name": "KC-500 Nitrile",
+      "sku": null,
+      "brand": "Kimtech",
+      "brand_source": "logo",
+      "short_description": null,
+      "description": "Sarung tangan ambidextrous & powder-free. Tersedia dalam panjang 9,5\" dan 12\". Manset bermanik-manik untuk mencegah tergulung ke bawah. Dengan daya sentuhan yang sangat baik dengan ujung jari bertekstur.\nKualitas unggul pada AQL 1.0 (melebihi standar ASTM AQL 2.5 untuk cacat kritis atau lubang jarum); ketebalan 5,9 mil",
+      "attributes": {
+        "Color": "Purple"
+      },
+      "variants": [],
+      "image_hint": "right column, 4th card (purple glove and box)",
+      "review_notes": [
+        "Two lengths (9,5\" and 12\") mentioned in the description but not listed as separate codes - no variants created"
+      ]
+    },
+    {
+      "source_page": 13,
+      "category_slug": "sarung-tangan-sekali-pakai",
+      "name": "Nitrile Examination Gloves",
+      "sku": null,
+      "brand": null,
+      "brand_source": null,
+      "short_description": null,
+      "description": null,
+      "attributes": {},
+      "variants": [],
+      "image_hint": "bottom strip, 1st tile",
+      "review_notes": [
+        "Small thumbnail tile in the bottom strip; only a name is printed (no description, brand, or specs)"
+      ]
+    },
+    {
+      "source_page": 13,
+      "category_slug": "sarung-tangan-sekali-pakai",
+      "name": "Blue Nitrile Gloves",
+      "sku": null,
+      "brand": null,
+      "brand_source": null,
+      "short_description": null,
+      "description": null,
+      "attributes": {},
+      "variants": [],
+      "image_hint": "bottom strip, 2nd tile",
+      "review_notes": [
+        "Small thumbnail tile in the bottom strip; only a name is printed (no description, brand, or specs)"
+      ]
+    },
+    {
+      "source_page": 13,
+      "category_slug": "sarung-tangan-sekali-pakai",
+      "name": "Black Nitrile Gloves",
+      "sku": null,
+      "brand": null,
+      "brand_source": null,
+      "short_description": null,
+      "description": null,
+      "attributes": {},
+      "variants": [],
+      "image_hint": "bottom strip, 3rd tile",
+      "review_notes": [
+        "Small thumbnail tile in the bottom strip; only a name is printed (no description, brand, or specs)"
+      ]
+    },
+    {
+      "source_page": 13,
+      "category_slug": "sarung-tangan-sekali-pakai",
+      "name": "Vinyl Bening",
+      "sku": null,
+      "brand": null,
+      "brand_source": null,
+      "short_description": null,
+      "description": null,
+      "attributes": {},
+      "variants": [],
+      "image_hint": "bottom strip, 4th tile",
+      "review_notes": [
+        "Small thumbnail tile in the bottom strip; only a name is printed (no description, brand, or specs)"
+      ]
+    },
+    {
+      "source_page": 13,
+      "category_slug": "sarung-tangan-sekali-pakai",
+      "name": "Latex Free Powder Gloves",
+      "sku": null,
+      "brand": null,
+      "brand_source": null,
+      "short_description": null,
+      "description": null,
+      "attributes": {},
+      "variants": [],
+      "image_hint": "bottom strip, 5th tile",
+      "review_notes": [
+        "Small thumbnail tile in the bottom strip; only a name is printed (no description, brand, or specs)",
+        "Name kept as printed; may mean powder-free latex or latex-free powdered gloves - verify"
+      ]
+    },
+    {
+      "source_page": 13,
+      "category_slug": "sarung-tangan-sekali-pakai",
+      "name": "Latex Powder Gloves",
+      "sku": null,
+      "brand": null,
+      "brand_source": null,
+      "short_description": null,
+      "description": null,
+      "attributes": {},
+      "variants": [],
+      "image_hint": "bottom strip, 6th tile",
+      "review_notes": [
+        "Small thumbnail tile in the bottom strip; only a name is printed (no description, brand, or specs)"
+      ]
+    }
+  ],
+  "page_notes": {
+    "3": "Section 'FIELD UNIFORM & ACTIVEWEAR' (header 'SERAGAM & WORKWEAR • PILIHAN PRODUK'). Two cards; SKUs printed inside the titles.",
+    "4": "Mixed page 'UNIFORM, RESCUE & PROTECTIVE WEAR' with six cards, each with a section label (FIELD UNIFORM, ACTIVE WEAR, TACTICAL / RESCUE, PROTECTIVE WEAR, FIRE PROTECTION, HIGH VISIBILITY); category chosen per card. Visible cards are images laid over a matching text layer; one subtitle differs (Fire Fighter Jacket).",
+    "5": "Package overview 'DRONE PEMADAM KEBAKARAN' (subtitle 'Paket terintegrasi: pemantauan udara + firefighting DJI Agras T100'); the page is one image with no text layer. Split into the monitoring drone, the firefighting drone and the three 'KAPASITAS OPERASI' components.",
+    "6": "Single image of 'LoRa Weather Station' (header misspelled 'Sation'). The header subtitle repeats page 5's drone text and doesn't fit this product. A contact strip inside the image (another address and a WhatsApp number) was ignored as contact info. Default mapping puts it under drone-pemadam-kebakaran.",
+    "7": "Single image with two systems: Manpack Surveillance (left) and Aegis Intelligence Pole (right). No text layer apart from the header and footer.",
+    "8": "WYPALL, WIPERS & SORBENT: 13 spec cards (Code/Kemasan/Warna/Bahan/Dimensi/Isi/Pak / Karton). In the text layer the values come before each card title; the pairing was checked against the render. Hidden TKK text ignored. Brand names normalised to 'WypAll' / 'Kimtech' (printed as 'Wypall' in the titles).",
+    "9": "BODY PROTECTION / DUST & CHEMICAL PROTECTION: 11 items (Ansell AlphaTec, Jito, KleenGuard). Hidden TKK text ignored. Default category perlindungan-kimia used (a separate body-protection slug exists for pages 45-46).",
+    "10": "HEAD PROTECTION / HELMET, WELDING HELMET, MOBCAP: 7 cards incl. 2 welding helmets. Hidden TKK text ignored.",
+    "11": "EYE & FACE PROTECTION / SAFETY GLASSES, SHIELD, MASK: 8 eyewear cards. Hidden TKK text ignored.",
+    "12": "EYE & FACE PROTECTION continued: 2 3M face shield cards, an untitled mask block (Jito / Solida photos) and an untitled Paulson gold-coated face shield. Hidden TKK text ignored.",
+    "13": "HAND PROTECTION - SINGLE USE: 7 detailed glove cards plus a bottom strip of 6 name-only thumbnails. Hidden TKK text ignored."
+  }
+}

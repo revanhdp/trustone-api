@@ -1,0 +1,5 @@
+# Single-package project; this file only holds pnpm settings.
+allowBuilds:
+  "@nestjs/core": false
+  "@scarf/scarf": false
+  unrs-resolver: false
