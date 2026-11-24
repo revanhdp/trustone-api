@@ -7,6 +7,7 @@ import { CategoriesModule } from './categories/categories.module.js';
 import { AppConfigModule } from './config/app-config.module.js';
 import { DatabaseModule } from './database/database.module.js';
 import { HealthModule } from './health/health.module.js';
+import { InquiriesModule } from './inquiries/inquiries.module.js';
 import { ProductsModule } from './products/products.module.js';
 import { SettingsModule } from './settings/settings.module.js';
 import { StorageModule } from './storage/storage.module.js';
@@ -23,6 +24,7 @@ import { StorageModule } from './storage/storage.module.js';
     CategoriesModule,
     BrandsModule,
     ProductsModule,
+    InquiriesModule,
     SettingsModule,
   ],
   providers: [{ provide: APP_GUARD, useClass: ThrottlerGuard }],

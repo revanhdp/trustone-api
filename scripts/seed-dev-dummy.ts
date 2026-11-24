@@ -10,7 +10,8 @@
 import pg from 'pg';
 
 const DUMMY: Record<string, unknown> = {
-  'contact.whatsapp_number': '6280000000000',
+  // Developer's own test number for WhatsApp click-to-chat; replace with the official number.
+  'contact.whatsapp_number': '6281282271323',
   'contact.phone': '+62 800-0000-0000 (DUMMY)',
   'contact.email': 'dummy@example.com',
   'contact.address': 'Alamat DUMMY — ganti melalui pengaturan admin',
